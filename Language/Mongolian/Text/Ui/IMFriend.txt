@@ -1,0 +1,18 @@
+MyID|миний Id：
+TextTitle|[color=#FFFFFF,#B8D1F6]сайн найз[/color]
+SearchPlayerTips|Тоглогчийн хоч эсвэл ID оруулна уу
+AbuseOthers|бусдыг доромжлох
+IllegalDeal|хуурамч тоглогч
+PornPic|Үйл бус зураг тараасан
+UsePlug-in|Тоглогч хуурсан
+Btn_JoinDesk|хүснэгтэнд нэгдэх
+Btn_Message|Мэссэж
+Btn_Presented|бэлэг
+BtnAddFriend|Найз нэмэх
+Btn_Report|Тайлан
+Btn_Search|Хайх
+Text_Friend|Найз
+Text_Search|Хайх
+Text_TipAddFriend|”Найз нэмэхийн тулд найзийхаа аватар дээр дараад найз нэмэх товчыг дарна уу”
+Text_TipSearchAddFriend|хоч ашиглаж болно эсвэлID-аар найз хайж болно。чи ID-гаа найзууддаа тарааж өгөөрэй，тэд танийг найзаар нэмэж болно。
+Text_YouHaveNoFriend|Таньд одоогоор найз алга байна.

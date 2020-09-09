@@ -1,0 +1,11 @@
+Day1|Gün1
+Day2|Gün2
+Day3|Gün3
+Day4|Gün4
+Day5|Gün5
+Day6|Gün6
+Day7|Gün7
+Text_DoubleVip|VIP etkinleştirme ödülleri iki katına çıkar
+Text_WeeklyReward|Her hafta biriken check-in'ler belirtilen gün sayısına ulaşmak için ilgili ödülleri alacak
+Btn_GetDailyReward|Elde et
+Btn_BecomeVIP|VIP AÇ

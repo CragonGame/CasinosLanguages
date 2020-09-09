@@ -1,0 +1,8 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]New table[/color]
+Btn_Create|New table
+Text_SelectTable|Select table
+Text_SelectAnte|Select ante
+Text_SelectSeat|Select seat
+BtnSeatSix|6 seats
+BtnSeatNine|9 seats
+CreatePrivateInfo|Ante {0} blinds {1}/{2} carry {3}/{4}

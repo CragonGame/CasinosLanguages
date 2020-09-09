@@ -1,0 +1,200 @@
+InviteFriendPlay|Undang teman main bareng
+Player|Pemain
+All-in|All-in
+AllIn|All-in
+Bet|Bet
+Offline|Offline
+Cowboy|Koboi
+Fishing|Memancing
+GFlowerDesktopH|lapangan Bungan emas ratusan pemain
+GFlowerDesktopPrivate|Bungan emas tandingan pribadi
+GFlowerDesktopNormal|Fried golden flower common table
+TexasDesktopClassicPrivate|Texas Private Table
+TexasDesktopClassic|Texas Klasik
+TexasDesktopMustBet|Segera Main Texas
+TexasDesktopMustBetPrivate|Texas Private Room
+TexasDesktopH|Texas Main Bersama
+NotInDesktop|Lobi
+DesktopMatch|Stadion Texas
+HighCard|High card
+HighCard2|High card
+Pair|Pair
+TwoPairs|Two pairs
+ThreeOfAKind|3 of a kind
+Straight|Straight
+Flush|Flush
+FullHouse|Full house
+FourOfAKind|4 of a kind
+StraightFlush|Straight flush
+RoyalFlush|Royal flush
+FourOfAKind2|4 of a kind
+StraightFlush2|Straight flush
+RoyalFlush2|Royal flush
+UnknownLoginMethod|Metode login tidak diketahui
+ThirdLoginFail|Gagal login
+NotInstallWechat|WeChat tidak terpasang
+SetHeadImageFail|Gagal mengunggah profil foto
+UploadHeadImageSuccess|Profil foto berhasil diunggah
+GetAddressFail|Gagal medapatkan lokasi penerima
+EditAddressFail| Gagal mengubah alamat penerima
+ModifyNickNameSuccess|Nama panggilan berhasil diubah
+ModifySignatureSuccess|Tanda tangan berhasil diubah
+IPRefreshSuccess|Memuat Ulang IP berhasil
+SendGiftSuccess|Pemberian Berhasil
+SendGiftFail|Pemberian Gagal
+RechargeSuccessful|Isi Ulang Berhasil
+NotFoundAppId|Berdasarkan App_ID, tidak dapat menemukan APP atau App_Sign sridak benar
+ParamInvalid|Parameter tidak valid 
+MissParam|Parameter yang diperlukan tidak ada
+CertificateError|Kesalahan sertifikat
+ChannelInternalError|Kesalahan saluran internal
+RunTimeError|Kesalahan runtime
+UnknownError|Kesalahan tidak dikenal
+CreateChargeReturnEmpty|Data Pesanan Kosong
+CreateChargeFail|Gagal membuat pesanan
+CreateIAPChargeReturnEmpty|Pesanan pembelian dalam aplikasi kosong
+CreateIAPChargeFail|Gagal membuat pesanan pembelian
+PayTypeNotFound|Jenis pembayaran tidak ditemukan
+OrderRepeated|Pemesanan berulang
+OrderAmountNotMatch|Jumlah pesanan tidak cocok 
+InvalidOrder|Pesanan tidak valid
+InvalidTicket|Tagihan tidak valid
+TestEnvOrder|Order Percobaan
+PayNetFail| Pembayaran gagal
+PayCancel|Anda membatalkan pesanan ini
+PayDelivery|Produk telah dibayar dan sedang dikirim
+PayFail|Pembelian gagal
+PaySuccess|Pembelian yang berhasil
+PayConfirmChargeInfo|Anda memiliki pesanan dengan jumlah yang tidak dibayar sebesar [color=#FFCC00]{0}[/color]. Lanjutkan pembayaran? 
+PayConfirmCharge|Bayar
+PayEnv|Kesalahan pembelian, pastikan layanan Google Play di perangkat Anda tersedia!
+AddFriendSuccess|Permintaan untuk menambah teman berhasil
+AddFriendFail|Permintaan untuk menambah teman gagal
+DealAddFriendSuccess| Berhasil memproses penambahan permintaan teman
+DealAddFriendFail|Gagal memproses penambahan permintaan teman
+DeleteFriendSuccess|Permintaan menghapus teman berhasil
+DeleteFriendFail|Permintaan untuk menghapus teman gagal
+InvitingToTableInfo|{0}：{1}\nante {2}，Blinds {3}/{4} Carry {5}/{6}\n Jumlah Orang：{7}/{8}
+Blinds|Blinds:
+Ante|Ante:
+Carry|Miliki
+NumberOfPeople|Jumlah orang:
+FormatPeople|({0} orang)
+FormatAnte|Ante {0} 
+FormatBlinds|Blinds {0}/{1}
+PrivateTable|Private table 
+Diamonds|Diamond
+Score|Skor
+Chips|Chips
+Yuan|Rp
+MyPromotion|Promosi Saya
+MyPlayer|Pemain saya
+MyAgent|Agen SAYA
+AgencyRule|Peraturan Agen
+Agent|Agen
+Normal|Normal
+Freeze|Bekukan
+Unfreeze|Cairkan
+FormatAgentOpInfo|Konfirmasikan kepada anggota saat ini{0}{1}({2}){3}{4}
+BecomeAnAgent|Jadi Agen
+InviteFriends|Undang 
+Edit|Ubah
+Confirm|Konfrimasi
+CopyInviteSuccess|Link undangan berhasil disalin
+CowboyNotBetTip|Anda tidak dapat bermain dalam kondisi saat ini
+Times| 
+FormatContinue|Lanut({0})
+Fold|Fold
+Check|Check
+CallFormat|Ikut {0}
+Raise|Naikkan
+Blinds|Blinds
+Pot|Pot
+CheckOrFold|Check/Fold
+AutoCheck| Auto Check
+CallAny|Ikut Apapun
+Call|Ikut 
+NotEnoughChips|Chip tidak cukup
+NotEnoughChips2|Pengguna YTH! Menurut aturan permainan, jumlah maksimum chip Anda hanya memenuhi 1/7 dari total chips yang dibutuhkan.
+NotEnoughChipsTip| Chip di akun Anda kurang dari persyaratan, silahkan pergi ke toko untuk isi ulang
+LeaveTemp|Tinggalkan sementara
+ChangeChipSuccessTip1|Chip berhasil berubah, efektif pada awal game berikutnya
+ChangeChipSuccessTip2| Chip berhasil diubah!
+Show|Show
+MyWinChips|Saya memenangkan {0} chip
+Second|s
+Settlement|Penyelesaian 
+ConstructionTip|Sedang dibangun, mohon menunggu
+Today| Hari ini
+Tomorrow|Besok
+AfterTomorrow|Lusa
+Free|Gratis
+ConfirmExitGame|Apakah Anda yakin untuk keluar dari permainan?
+PermisionPhoto|Izin kamera
+PermisionWriteSD|Izin tulis masuk Kartu SD
+AddPermisionTip|Silakan tambahkan
+CancelAddPermision|Batalkan pengaturan izin!
+FormatPermisionTip|Pengguna YTH! Anda perlu menambahkan {0} {1} {2} untuk mengambil gambar!
+FormatPermisionTip2|Pengguna YTH!  Anda perlu menambahkan {0} {1} {2} untuk membuka album!
+WeChatPlayer|Pengguna WeChat
+FacebookPlayer|Pengguna Facebook
+UploadHeadImageTip|Pengguna YTH!  Saat ini Anda {0} {1} {2}, tidak perlu mengunggah avatar Anda!
+FirstCharge|Pembelian Pertama
+PartnershipFraudTip|Gagal verifikasi, saying sekali gagal mendaftar untuk game ini. Penampilan berulang dapat menyebabkan kredibilitas akun menurun!
+NetConnectFail|Permintaan gagal, harap konfirmasi apakah jaringan saat ini normal!
+GetOnlineRewardFail|Gagal menerima hadiah online!
+InviteSuccess|Undangan berhasil
+InviteFail|Undangan gagal
+CowboySitDownTip|Sayang! Anda harus membawa {0} koin emas saat Anda bermain!
+NotCheckSystemBankerTip|Tidak dapat melihat informasi sistem
+BetInfoTip|Saat ini saya seorang bandar dan tidak bisa ikut bermain
+BetInfoTip2|Tidak bisa bertaruh dalam status saat ini
+BetInfoTip3|Karena tidak ada taruhan untuk 3 pertandingan berturut-turut, maka pada permainan berikutnya akan secara otomatis meninggalkan game
+BetInfoTip4|Permainan selanjutnya akan bertaruh secara otomatis
+ApplyUpBankerSuccess|Permintaan menjadi bandar berhasil, telah ditambahkan ke daftar aplikasi
+ApplyUpBankerFail|Permintaan menjadi bandar gagal 
+ApplyDownBankerSuccess|Permintaan turun dari bandar berhasil
+ApplyDownBankerFail|Permintaan turun dari bandar gagal
+ReportSuccess|report Berhasil
+InputNotExceedSelfChipsTip|Jumlah chip  tidak dapat melebihi jumlah chip yang dimiliki
+TodayGiftLimit|Batas hadiah hari ini
+InputGiveChipsCount|Silakan masukkan jumlah chip
+Unopened|Tidak buka hadiah
+BaoZiFormatTm|yyyy-MM-dd hh:mm
+RedemptionVoucher|Tukar voucher
+Send|Kirim
+TenThousand| 
+NeedScore|Butuh Skor
+Exp|Exp
+Billion|Bilion 
+BeBank|Jadi Bandar
+NotBeBank|Turun dari Bandar
+NetErrorTip|Koneksi jaringan gagal,Harap konfirmasikan apakah jaringan saat ini normal,Terhubung?
+AddFriend|Tambah teman
+RemoveFriend|Hapus teman
+TodayLeftCount|Sisa saldo gratis hari ini {0}
+GiftBalanceMinLimit|Saldo Anda kurang dari {0}, tidak bisa memberikan hadiah
+PaymentTip1|Permintaan pembayaran dalam proses, mohon tunggu sebentar
+PaymentTip2|Verifikasi dalam proses, mohon tunggu sebentar
+PaymentTip3|Dalam proses pengecekan, mohon tunggu sebentar
+GoldPackageTitle1|Chip sedikit sekali 
+GoldPackageTitle2|Chip sedikit
+GoldPackageTitle3|Beberapa Chip
+GoldPackageTitle4|Chip sedikit lebih banyak
+GoldPackageTitle5|Sejumlah Chip
+BillingItemGoldTitle1|Tumpukan Chip
+BillingItemGoldTitle2|Kantong Chip
+BillingItemGoldTitle3|Kotak Chip
+BillingItemGoldTitle4|Koper Chip
+BillingItemGoldTitle5|Peti Chip
+BillingItemGoldTitle6|BrankasChip
+BillingItemDiamondTitle1|300 diamonds
+BillingItemDiamondTitle2|600 diamonds
+BillingItemDiamondTitle3|1280 diamonds
+BillingItemDiamondTitle4|3280 diamonds
+BillingItemDiamondTitle5|6480 diamonds
+BillingItemDiamondTitle30|Khusus pembelian pertama
+VirtualVoucher1|20.000 kredit
+VirtualVoucher2|50.000 kredit
+VirtualVoucher3|100.000 kredit
+PhoneRechargeTip|Penukaran pulsa telah berhasil. Pulsa akan masuk dalam waktu 12 jam

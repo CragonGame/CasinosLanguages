@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]收货地址[/color]
+NotifyTip|请务必填写真实姓名和联系方式,以便获奖后联系
+Receiver|收 货 人
+Phone|手机号码
+QQ|QQ号码
+Orange|微信号码
+GetAddress|收货地址
+Email|电子邮箱
+Text_Save|保存
+EditAddressName|[color=#42476D]姓名[/color]
+EditAddressPhoneNumber|[color=#42476D]手机号码[/color]
+EditAddressQQNumber|[color=#42476D]QQ号码[/color]
+EditAddressOrangeNumber|[color=#42476D]微信号码[/color]
+EditAddress|[color=#42476D]请务必填写详细的省、市、区（县）及街道门牌信息[/color]
+EditAddressEmail|[color=#42476D]邮箱地址[/color]

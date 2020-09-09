@@ -1,0 +1,17 @@
+Unknown|Bilinmiyor
+Address|Adres
+ReturnLogin|Giriş Sayfasına Geri Dön
+ExitCanLogin|Oturum açmaya geri döndükten sonra, telefon veya Facebook ile oturum açmak için yeniden seçin
+Logouting|Çıkış Yap...
+Text_SmallGift|Süsler
+Text_Gift|Hediye
+Text_BuyChips|Çip satın al
+Text_BuyDiamond|Elmas satın al
+Text_AddFriend|Arkadaş ekle
+Text_ReturnLogin|Girişe geri dön
+Text_StatisticalInformation|İstatistikler
+Text_FinishGames|Oynanan eller:
+Text_WinGames|Kazanan eller:
+Text_StartJoinTime|Katılma zamanı:
+Text_UploadHeadImage|Avatarı güncelle
+IndividualSignature|Lütfen imzanızı bırakın

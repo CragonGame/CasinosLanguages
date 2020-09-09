@@ -1,0 +1,18 @@
+﻿MyID|My Id:
+TextTitle|[color=#FFFFFF,#B8D1F6]Friend[/color]
+SearchPlayerTips|A nickname, e-mail, or personal account
+AbuseOthers|Insulting others
+IllegalDeal|Deceive player
+PornPic|Nudity
+UsePlug-in|UsePlug-In
+Btn_JoinDesk|Join table
+Btn_Message|Message
+Btn_Presented|Gift
+BtnAddFriend|Add Friend
+Btn_Report|Report
+Btn_Search|Search
+Text_Friend|Friend
+Text_Search|Search
+Text_TipAddFriend|Add friend
+Text_TipSearchAddFriend|Users can be searched using nicknames, E-mail or personal accounts. Send your personal account code to friends and they can add you as a friend.
+Text_YouHaveNoFriend|You don't have a friend

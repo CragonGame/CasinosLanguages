@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Хүргэлтийн хаяг[/color]
+NotifyTip|Та жинхэнэ нэр, холбоо барих хаягийг бөглөх хэрэгтэй,шагнал гардуулсны дараа холбоо бариарай
+Receiver|Хүлээн авагч
+Phone|утасны дугаар
+QQ|QQ дугаар
+Orange|wechat дугаар
+GetAddress|Хүргэлтийн хаяг
+Email|email
+Text_Save|хадгалах 
+EditAddressName|[color=#42476D]овог нэр[/color]
+EditAddressPhoneNumber|[color=#42476D]утасны дугаар[/color]
+EditAddressQQNumber|[color=#42476D]QQ дугаар[/color]
+EditAddressOrangeNumber|[color=#42476D]wechat дугаар[/color]
+EditAddress|[color=#42476D]Аймаг, хот, дүүрэг (гудамж), гудамжны дугаарын нарийвчилсан мэдээллийг бөглөх хэрэгтэй[/color]
+EditAddressEmail|[color=#42476D]emailхаяг[/color]

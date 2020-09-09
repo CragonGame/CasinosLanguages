@@ -1,0 +1,17 @@
+NotGiveSelfMagic|不可以給自己發送魔法表情
+SitTableSendMagic|旁觀者不能發送魔法表情
+AbuseOthers|辱罵他人
+IllegalDeal|欺騙玩家
+PornPic|黃色頭像
+UsePlug-in|使用外掛
+Unknown|未知
+Address|地址
+Text_SmallGift|頭像掛件
+Text_Gift|禮物
+Text_Report|舉報
+Text_ExchangeChip|換籌碼
+Text_LockChat|遮蔽聊天
+Text_Stand|站起
+Text_Presented|贈送
+AddFriend|添加好友
+RemoveFriend|删除好友

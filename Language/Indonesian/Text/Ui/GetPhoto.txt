@@ -1,0 +1,3 @@
+GetImage|Mengunggah avatar
+Btn_Photograph|Ambil foto
+Btn_Photo|Album

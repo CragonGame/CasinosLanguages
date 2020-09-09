@@ -1,0 +1,5 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Gift Detail[/color]
+SitTableSendGift|Observer cannot buy avatar pendants
+SendSingle|FOR ONE({0})
+SendAllTable|FOR ALL({0})
+Sell|Sell({0})

@@ -1,0 +1,5 @@
+﻿Text_Return|Lobby
+Text_Shop|Shop
+Text_Help|Help
+Text_CardType|Hand Ranks
+Text_Welfare|Bonus

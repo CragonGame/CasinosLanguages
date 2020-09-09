@@ -1,0 +1,14 @@
+﻿RewardPot|Jackpot Info
+RewardRecord|Jackpot Record
+Text_CardType|Hand ranks
+Text_Total|Total
+Text_Date|Date
+Text_TipAllPlayer|A small portion of all players ’profits will enter the prize pool
+Text_OpenType|Open Type
+Text_RoyalFlush|Royal flush
+Text_StraightFlush|Straight flush
+Text_FourOfAKind|4 of a kind
+Text_OpeningProportion|Reward rate
+Text_MaxMultiplier|Max multiple
+Text_Icon|Icon
+Text_Bonus|Reward

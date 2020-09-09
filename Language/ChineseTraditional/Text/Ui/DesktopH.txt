@@ -1,0 +1,6 @@
+ReadyTime|準備時間
+BetRestTime|下注時間
+BreathSpace|休息時間
+SettlementTime|結算時間
+BeBank|上莊
+NotBeBank|下莊

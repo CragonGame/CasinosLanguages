@@ -1,0 +1,6 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Ajak Bermain[/color]
+TextChipValue|Saldo:
+Btn_Confirm|Konfrimasi
+Text_YourBalance|Saldo
+TextTipsLeft|Lower Limit
+TextTipsRight|Upper limit

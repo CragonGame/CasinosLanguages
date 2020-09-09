@@ -1,0 +1,60 @@
+Btn0|Depozito
+Btn1|bahis bozdurma
+Btn2|Mevduat Geçmişi
+Btn3|Para çekme geçmişi
+DespositTitle|Depozit değerini girin:
+DespositTip|En düşük:#
+Amount|Miktar
+BankerName|Bankanın adı
+BankerAccount|Banka hesap numarası
+BankerAccountHolder|Hesap sahibinin ismi
+BtnSelectBanker|Banka seçin
+BtnDeposit|Depozito
+CashOutTitle| para çekme miktarını girin:
+CashOutTip|En düşük :#
+CashOutTip2|,Bakiyeniz:#
+ManualDesposit|Manuel depozito
+ManualCashOut|Manuel çekme
+BtnCashOut|para çekme
+Type|Tip
+Time|Tarih
+Status|Statü
+TxtCashOut|para çekme
+TxtDesposit|Depozito
+TxtStatusDespositFinished|Depozito tamamlandı
+TxtStatusDespositCancel|Depozito iptali
+TxtStatusDespositWait|Depozito bekleniyor
+TxtStatusCashOutFinished|para çekme tamamlandı
+TxtStatusCashOutCancel|Para çekme iptali
+TxtStatusCashOutWait|Para çekmek için bekleniyor
+TxtStatusUnKnow|Bilinmeyen durum
+TipCashOutSuccess|Para çekme isteği başarılı
+TipExistCashOut|İşlenmemiş bir para çekme talebiniz var,bu yüzden yeni bir istek oluşturamazsınız
+TipBankerNameNotFound|Banka adı mevcut değil
+TipIllegalWithdrawalAmount|Yanlış tutar girildi
+TipDespositSuccess|Para yatırma isteği başarıyla
+TipExistDesposit|İşlenmemiş bir para yatırma isteğiniz var,bu yüzden yeni bir istek oluşturamazsınız
+TipUnKnowError|bilinmeyen hata
+TipNotSelectBanker|Lütfen bir banka seçin
+TipNotBankerAccountNumber|Lütfen banka hesap numarasını girin
+TipNotBankerAccountHolder|Lütfen banka hesabı sahibinin adını girin
+DespositStep0|Adım 1: Opay'de tarama
+DespositStep1|2. Adım: Miktarı ve siparişi girin#
+DespositStep2|30 dakika içerisinde hesabınıza geçirilmizse,lütfen müşteri ile iletişime geçin
+BtnOpenOPayUrl|aç
+Remark|sipariş #: 
+BtnCopy|Kopya
+OrderNoteTip|Not: Siparişi belirtmelisiniz#.
+OpenOpay|Opay'ı Aç / İndir
+PhoneNum|önemse:
+AccountID|Hesap ID:
+CashOutStep1|1. Adım: Lütfen para çekme miktarını girin:
+CashOutStep2|2. Adım: Lütfen aşağıdaki para çekme bilgilerini girin
+CashOutStep3|3. Adım: Para çekmek için tıklayın
+CopyTip|Kopyalama başarısı
+SuggestAmount|Önerilen miktar: 100, 1000, 5000, 10000, 50000
+WayOne|1. Yol: Opay'de Tarama
+WayTwo|2. Yol: Banka havalesi
+CashoutBankerName|Bankanın adı veya Opay
+CashoutBankerAccount|Banka hesap numarası veya Opay hesabı
+CashoutBankerAccountHolder|Hesap sahibinin adı

@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Redeem for phone bill[/color]
+TxtToNumber|Selected redemption amount:
+TxtPhoneNumTitle|Enter the mobile phone number to be recharged:
+BtnOk|Confirm
+TxtTip|Note: Redemption time arrives within 12 hours

@@ -1,0 +1,5 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Detail hadiah[/color]
+SitTableSendGift|Penonton tidak dapat membeli liontin
+SendSingle|Pengirim({0})
+SendAllTable|Kirim ke seluruh meja({0})
+Sall|Jual({0})

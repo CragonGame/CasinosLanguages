@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]申請代理[/color]
+NotifyTip|請務必填寫有效聯繫方式,以便聯繫核實
+Receiver|申 請 人
+Phone|手機號碼
+Line|Line
+WhatsApp|WhatsApp
+Remark|備註
+Email|電子郵箱
+Text_Save|保存
+AgentApplyName|[color=#42476D]姓名[/color]
+AgentApplyPhoneNumber|[color=#42476D]手機號碼[/color]
+AgentApplyLineNumber|[color=#42476D]Line[/color]
+AgentApplyWhatsAppNumber|[color=#42476D]WhatsApp[/color]
+AgentApplyRemark|[color=#42476D]備註額外信息[/color]
+AgentApplyEmail|[color=#42476D]郵箱地址[/color]

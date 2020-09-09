@@ -1,0 +1,5 @@
+﻿EnterTable|Entering the table...
+GuestRegisterTips|Dear player, you are using the tourist pattern to play the game. The game data (including paid data) in the tourist mode (including paid data) is emptied after the game is deleted and the equipment is replaced. In order to protect your virtual property and enable you to get a better game experience, please register your account.
+Text_Cowboy|Cowboy
+ServicePhoneNum|Service Phone:+234 8135792298
+BtnServicePhone|Service Phone

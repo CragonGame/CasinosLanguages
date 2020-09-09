@@ -1,0 +1,6 @@
+Btn_ExitGame|离开
+Btn_StandUp|站起
+Btn_LeaveHalfWay|暂离
+Btn_InviteFriend|邀请
+Btn_CardType|牌型
+Text_Welfare|福利

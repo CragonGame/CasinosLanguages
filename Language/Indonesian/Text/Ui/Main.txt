@@ -1,0 +1,5 @@
+EnterTable|Sedang memasuki permainan...
+GuestRegisterTips|Dear pemain,Anda belum login permainan ini,demi keamanan dan bonus yang anda dapatkan tidak hilang,silakan daftar akun Anda!
+Text_Cowboy|Koboi
+ServicePhoneNum|Nomor pelayanan:+234 8135792298
+BtnServicePhone|Nomor pelayanan

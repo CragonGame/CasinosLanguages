@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Ajak teman bermain[/color]
+Text_Online|Aktif
+Text_OffLine|Tidak Aktif
+HaveInvited|Telah Diundang

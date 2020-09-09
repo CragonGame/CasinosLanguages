@@ -1,0 +1,7 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]郵件詳情[/color]
+GetAttachments|領取附件
+Chip|籌碼
+Coin|鑽石
+Yuan|元
+Confirm|確認
+Text_Accessory|附件

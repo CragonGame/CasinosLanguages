@@ -1,0 +1,21 @@
+﻿MatchMTTTitle|賽事{0}補償
+MatchMTTContent|你參加的賽事[color=#FFCC00]{0}[/color]因技術故障而解散， 補償在附件中領取！
+MatchRewardTitle|賽事{0}獎勵
+MatchRewardContent|親愛的[color=#FFCC00]{0}(ID:{1})[/color]，恭喜你在賽事[color=#FFCC00]{2}[/color]獲得第[color=#FFCC00]{3}[/color]名，獎勵在附件中領取！
+MatchSendBackTitle|返還賽事{0}報名費和服務費
+MatchSendBackNotEnoughPlayer|親愛的[color=#FFCC00]{0}(ID:{1})[/color]，你參加的賽事[color=#FFCC00]{2}[/color]因最終報名人數不足而解散， 返還的報名費和服務費在附件中領取！
+MatchSendBackPlayerCancel|親愛的[color=#FFCC00]{0}(ID:{1})[/color]，你參加的賽事[color=#FFCC00]{2}[/color]被創建方取消了， 返還的報名費和服務費在附件中領取！
+GiftTitle|收到玩家贈送的道具
+GiftContent|收到玩家[color=#FFCC00]{0}[/color]贈送的道具[color=#FFCC00]{1}[/color]
+GiftGoldTitle|收到金幣
+GiftGoldContent|收到[color=#FFCC00]{0}(ID:{1})[/color]贈送的[color=#FFCC00]{2}[/color]金幣
+SentGoldTitle|贈送金幣
+SentGoldContent|贈送給[color=#FFCC00]{0}(ID:{1})[/color][color=#FFCC00]{2}[/color]金幣
+RedEnvelopesTitle|喜獲紅包
+RedEnvelopesContent|親愛的[color=#FFCC00]{0}(ID:{1})[/color]，恭喜你獲得[color=#FFCC00]{2}[/color]元紅包。已自動發放到本賬號綁定的微信上，請及時查收！
+GoodsVoucherTitle|禮品{0}兌換憑據
+GoodsVoucherContent|親愛的[color=#FFCC00]{0}(ID:{1})[/color]，你兌換的[color=#FFCC00]{2}[/color]已經進入受理隊列，將在2個工作日內發給快遞小哥。請確保你在商城收貨地址中填寫的信息準備無誤，2個工作日期間客服人員會和你聯繫確認禮品的可選款式。
+GoldPackageTitle|{0}
+GoldPackageContent|親愛的[color=#FFCC00]{0}(ID:{1})[/color]，你從[color=#FFCC00]{2}[/color]獲得了[color=#FFCC00]{3}[/color]金幣
+BugFeedbackRewardTitle|熊貓德州撲克Bug反饋獎勵
+BugFeedbackRewardContent|感謝玩家[color=#FFCC00]{0}[/color]向官方反饋Bug，幫助平台改進，獎勵在附件中領取！

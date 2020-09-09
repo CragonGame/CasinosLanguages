@@ -1,0 +1,6 @@
+ReadyTime|бэлдээд
+BetRestTime|бооцооны өнжих цаг
+BreathSpace|Хүлээх цаг
+SettlementTime|тооцоо бодох цаг
+BeBank|Be a Banker
+NotBeBank|Leave Banker

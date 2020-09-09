@@ -1,0 +1,22 @@
+Exchange|Солилцох
+NotEnoughVoucher|Not enough vouchers
+Times|таймс 
+ShopVipTips|You can recharge {0} RMB to {1}, and get 1 growth value for every 1 RMB recharge
+Btn_ReceivingAddress|Хүргэлтийн хаяг
+Btn_Upgrade|Upgrade
+Text_Chip|Level
+Text_Consume|Consume
+Text_DoubledRemedies|Bonus multiplied
+Text_Gift1|бэлэг
+Text_GiftTicket|Бэлгийн гэрчилгээ
+Text_GiftTicket2|Бэлгийн гэрчилгээ
+Text_Level|шат
+Text_QQ|QQ
+Text_Recharge|цэнэглэх
+Text_RequiredGrowthValue|Growth value
+Text_Score|оноо
+Text_Score2|оноо
+Text_TextPoint|текстийн цэг
+Text_ShopVipTips2|нэг yuan нхадгалах  бүрийн бага зэрэг өсөлтийн утгыг олно
+Text_Trouble|Дахин цэнэглэх явцад ямар нэгэн асуудал гарвал WeChat хэрэглэгчийн үйлчилгээтэй холбогдоно уу：nvshendezhou
+Text_VIP|VIP

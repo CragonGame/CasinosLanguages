@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Apply agent[/color]
+NotifyTip|iletişim dogrulaması için lütfen geçerli bir bilgi girdiğinizden emin olun
+Receiver|Ad
+Phone|Mobil
+Line|Hat
+WhatsApp|WhatsApp
+Remark|Görüş
+Email|E-mail
+Text_Save|Kaydet
+AgentApplyName|[color=#42476D]Name[/color]
+AgentApplyPhoneNumber|[color=#42476D]Mobile[/color]
+AgentApplyLineNumber|[color=#42476D]Line[/color]
+AgentApplyWhatsAppNumber|[color=#42476D]WhatsApp[/color]
+AgentApplyRemark|[color=#42476D]Remark[/color]
+AgentApplyEmail|[color=#42476D]E-mail[/color]

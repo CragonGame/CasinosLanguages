@@ -1,0 +1,199 @@
+InviteFriendPlay|Найзтайгаа хамт тоглох 
+Player|Тоглогч 
+All-in|All in
+AllIn|All in
+Bet|Bet
+Offline|Холболт байхгүй 
+Cowboy|Cowboy
+Fishing|Загасчлах
+GFlowerDesktopH|Fried gold flower hundred people
+GFlowerDesktopPrivate|Fried golden flower хувын нууз ширээ 
+GFlowerDesktopNormal|Fried golden flower энгийн ширээ 
+TexasDesktopClassicPrivate|Texas хувын нууз ширээ 
+TexasDesktopClassic|Texas жирийн ширээ 
+TexasDesktopMustBet|Texas заавал боозоо тавих ширээ 
+TexasDesktopMustBetPrivate|Texas нууц хувын ширээ 
+TexasDesktopH|Texas 100 тоглогчийн өрөө 
+NotInDesktop|Hall
+DesktopMatch|Tournaments
+HighCard|High card
+HighCard2|High card
+Pair|Pair
+TwoPairs|Two pairs
+ThreeOfAKind|3 of a kind
+Straight|Straight
+Flush|Flush
+FullHouse|Full house
+FourOfAKind|4 of a kind
+StraightFlush|Straight flush
+RoyalFlush|Royal flush
+FourOfAKind2|4 of a kind
+StraightFlush2|Straight flush
+RoyalFlush2|Royal flush
+UnknownLoginMethod|Үл мэдэгдэх нэвтрэх арга
+ThirdLoginFail|Нэвтрэх үйл ажиллагаа бүтэлгүйтэв
+NotInstallWechat|WeChat is not installed
+SetHeadImageFail|Аватарыг тохируулах амжилтгүй болсон
+UploadHeadImageSuccess|Аватарыг амжилттай байршуул!
+GetAddressFail|Тээвэрлэлтийн хаягийг авч чадсангүй
+EditAddressFail|Тээврийн хаягийг засварлаж чадсангүй
+ModifyNickNameSuccess|Энэ хоч амжилттай өөрчлөгдсөн!
+ModifySignatureSuccess|Гарын үсэг амжилттай өөрчлөгдсөн!
+IPRefreshSuccess|IP байршил амжилттай шинэчлэгдэв!
+SendGiftSuccess|бэлгээ амжилттай явууллаа
+SendGiftFail|бэлэг явуулалт бүтэлгүйтлээ
+RechargeSuccessful|цэнэглэлт амжилттай
+NotFoundAppId|үүнээс үзэхэд app_id нийцэхгүй байна APP эсвэл app_signбуруу
+ParamInvalid|Хууль бус параметр
+MissParam|Параметр дутуу байна
+CertificateError|Сертификатын алдаа
+ChannelInternalError|сувгын дотоод алдаа
+RunTimeError|Ажиллах үеийн алдаа
+UnknownError|Үл таних алдаа гарсан байна
+CreateChargeReturnEmpty|Захиалгын мэдээлэл хоосон байна
+CreateChargeFail|шинээр цэнэглэлт бүтэлгүйтлээ
+CreateIAPChargeReturnEmpty|Апп доторх худалдан авах захиалгыг үүсгэх нь хоосон өгөгдлийг буцааж өгдөг
+CreateIAPChargeFail|Апп доторх худалдан авалтын захиалгыг үүсгэж чадсангүй
+PayTypeNotFound|төлбөрийн төрөл олдсонгүй
+OrderRepeated|Захиалга давтагдсан байна
+OrderAmountNotMatch|Захиалгын хэмжээ тохирохгүй байна
+InvalidOrder|захиалга хүчингүй
+InvalidTicket|тасалбар хүчингүй
+TestEnvOrder|туршилтын орчны
+PayNetFail|Төлбөрийн сүлжээний хүсэлт амжилтгүй боллоо
+PayCancel|You canceled the order.
+PayDelivery|Item has been paid for and is being requested for shipment.
+PayFail|Purchase failed. 
+PaySuccess|Successful purchase 
+PayConfirmChargeInfo|You have an order with an unpaid amount of [color=#FFCC00]{0}[/color]. Are you sure to continue payment?
+PayConfirmCharge|Confirm payment
+PayEnv|Purchase error, please make sure that Google Play services on your device are available!
+AddFriendSuccess|Найз нэмэх хүсэлт амжилттай болсон
+AddFriendFail|найз нэмэлт бүтэлгүйтлээ
+DealAddFriendSuccess|найз нэмэх шийдвэр амжилттай
+DealAddFriendFail|найз нэмэх шийдвэр бүтэлгүйтлээ
+DeleteFriendSuccess|найз хасалт амжттай
+DeleteFriendFail|найз хасалт бүтэлгүйтлээ
+InvitingToTableInfo|{0}：{1}\nante {2}，Blinds {3}/{4} Carry {5}/{6}\n хүний тоо：{7}/{8}
+Blinds|Blinds:
+Ante| Ante:
+Carry|Carry
+NumberOfPeople|хүний тоо:
+FormatPeople|({0}хүн)
+FormatAnte|Ante {0} 
+FormatBlinds|Blinds {0}/{1}
+PrivateTable|хувийн ширээ 
+Score|оноо
+Chips| 
+Yuan|RMB
+MyPromotion|Promotion
+MyPlayer|Players
+MyAgent|Agents
+AgencyRule|Rule
+Agent|орлогч
+Normal|хэвийн
+Freeze|хөлдөх
+Unfreeze|хайлах
+FormatAgentOpInfo|гишүүдийг баталгаажуулна уу{0}{1}({2}){3}{4}
+BecomeAnAgent|орлогч болох
+InviteFriends|найзуудыгаа урих 
+Edit|Засварлах
+Confirm|зөвшөөрөх
+CopyInviteSuccess|урихыг хуулбарлалт амжилттай
+CowboyNotBetTip|Эрхэм хүндэт! Одоогийн байдалд бооцоо тавьж чадахгүй байна
+Times|удаа
+FormatContinue|дахин эхлүүлэх({0})
+Fold|Fold
+Check|Check
+CallFormat|Call ${0}
+Raise|Raise
+Blinds|Blinds
+Pot|Pot
+CheckOrFold|Check Or Fold
+AutoCheck|Auto check
+CallAny|CallAny
+Call|Call $
+NotEnoughChips|бооцоо хангалтгүй байна
+NotEnoughChips2|Эрхэм хүндэт! Тоглоомын дүрмийн дагуу таны одоогийн хамгийн их бооцоо таны авч буй нийт чипний ердөө л 1/7 эзэлж чадна.
+NotEnoughChipsTip|Дансны чип нь энэ хүснэгтийн хамгийн бага чип шаардагдах хэмжээнээс бага байна, дэлгүүр дээр очиж чипс нэмэх үү!
+LeaveTemp|Түр орхих
+ChangeChipSuccessTip1|Чип солих нь амжилттай болсон бөгөөд дараагийн тоглолтын эхэнд хүчин төгөлдөр болно!
+ChangeChipSuccessTip2|бооцоог амжилттай солилоо
+Show|харуулах
+MyWinChips|Би {0} чип авсан
+Second|s
+Settlement|Төлбөр тооцоо
+ConstructionTip|Бүтээн байгуулалтын ажил хийгдэж байна
+Today|өнөөдөр
+Tomorrow|маргааш
+AfterTomorrow|Маргааш өдөр
+Free|үнэгүй
+ConfirmExitGame|Та тоглолтыг орхихдоо итгэлтэй байна уу?
+PermisionPhoto|Камерын зөвшөөрөл
+PermisionWriteSD|SD картын зөвшөөрлийг бичих
+AddPermisionTip|нэмэж өгхийг гуйж байна
+CancelAddPermision|нэмэх тохиргоог цуцлах!!
+FormatPermisionTip|  Одоо нэмэх хэрэгтэй байна{0}{1}{2}Зураг авах боломжтой!
+FormatPermisionTip2|  яг одоо нэмнэ үү{0}{1}{2}Зураг авах боломжтой!
+OrangePlayer|wechat-р тоглох
+FacebookPlayer|Facebookашиглах
+UploadHeadImageTip|  та одоогоор{0}{1}{2},зураг байршуулах шаардлагагүй!
+FirstCharge|цэнэг
+PartnershipFraudTip|Өрсөлдөөний эсрэг илрүүлэлтийг давсангүй,Харамсалтай нь энэ тоглоомын бүртгэл амжилтгүй болсон.。кредит Олон гарч ирснээр дансны уналтад хүргэж магадгүй юм.
+NetConnectFail|Хүсэлт амжилтгүй болсон，Одоогийн сүлжээ хэвийн байгаа эсэхийг шалгана уу!
+GetOnlineRewardFail|Онлайн шагнал хүлээн авч чадсангүй！
+InviteSuccess|Урилга амжилттай
+InviteFail|Урилга амжилтгүй болсон
+CowboySitDownTip|Эрхэм ээ, та суухын тулд {0} алтан зоос авчрах хэрэгтэй
+NotCheckSystemBankerTip|Системийн банкны талаар мэдээлэл үзэх боломжгүй байна
+BetInfoTip|Та одоогоор банкир байна, тоглогч усан санд бооцоо тавих боломжгүй
+BetInfoTip2|Одоогийн байдалд бооцоо тавьж чадахгүй байна
+BetInfoTip3|3 дараалсан бөмбөгийн улмаас бооцоо байхгүй，Дараагийн тоглолт автоматаар гарах болно
+BetInfoTip4|Дараагийн тоглоом автоматаар хэлэлцээрээс гарна
+ApplyUpBankerSuccess|өргөдөл гаргалт Амжилтанд хүрлээ，Програмын жагсаалтад нэгдэв
+ApplyUpBankerFail|Програм амжилтгүй боллоо!
+ApplyDownBankerSuccess|Амжилтанд хүрсэн өргөдөл
+ApplyDownBankerFail|хэлэлцээрийн өргөдөл амжилтгүй
+ReportSuccess|тайлан амжилттай
+InputNotExceedSelfChipsTip|Оролтын чипүүдийн тоо нь чипсийн тооноос хэтрэхгүй байх ёстой
+TodayGiftLimit|өнөөдрийн бэлэгний хязгаар
+InputGiveChipsCount|Бэлэг өгөх хэрэгтэй чипний тоог оруулна уу.
+Unopened|нээгдэхгүй байх
+BaoZiFormatTm|yyyy-MM-dd hh:mm
+RedemptionVoucher|Хөнгөлөлт үзүүлэх эрхийн бичиг
+Send|өгөх
+TenThousand| 
+NeedScore|заавал оноо тавих
+Exp|Exp
+Billion|тэрбум
+BeBank|Be a Banker
+NotBeBank|Leave Banker
+NetErrorTip|Сүлжээний холболт амжилтгүй боллоо. Одоогийн сүлжээ хэвийн байгаа эсэхийг баталгаажуулна уу?
+AddFriend|Найз нэмэх
+RemoveFriend|Устгах
+TodayLeftCount|Өнөөдөр үлдсэн бэлэгийн кредит {0}
+GiftBalanceMinLimit|Дансны үлдэгдэл нь {0} -с бага байх үед бэлэг өгөх боломжгүй!
+PaymentTip1|Please wait for payment
+PaymentTip2|Requesting verification, please wait
+PaymentTip3|Sending diamond，please wait 
+GoldPackageTitle1|A little bit of chips
+GoldPackageTitle2|A little chips
+GoldPackageTitle3|Some chips
+GoldPackageTitle4|A few more chips
+GoldPackageTitle5|Small amount of chips
+BillingItemGoldTitle1|A pile of chips
+BillingItemGoldTitle2|A lot of chips
+BillingItemGoldTitle3|A small box of chips
+BillingItemGoldTitle4|Box of chips
+BillingItemGoldTitle5|A big box of chips
+BillingItemGoldTitle6|A small pile of chips
+BillingItemDiamondTitle1|300 diamonds
+BillingItemDiamondTitle2|600 diamonds
+BillingItemDiamondTitle3|1280 diamonds
+BillingItemDiamondTitle4|3280 diamonds
+BillingItemDiamondTitle5|6480 diamonds
+BillingItemDiamondTitle30|First charge special
+VirtualVoucher1|20000 telepon bill
+VirtualVoucher2|50000 telepon bill
+VirtualVoucher3|100000 telepon bill
+PhoneRechargeTip|Successfully applied for phone recharge, expected to arrive within 12 hours!

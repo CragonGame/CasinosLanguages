@@ -1,0 +1,15 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Address[/color]
+NotifyTip|Please be sure to fill in your real name and contact details in order to contact you after the award.
+Receiver|Consignee
+Phone|Mobile
+QQ|QQ
+Orange|WeChat
+GetAddress|Address
+Email|Email
+Text_Save|Save
+EditAddressName|[color=#42476D]Name[/color]
+EditAddressPhoneNumber|[color=#42476D]Phone number[/color]
+EditAddressQQNumber|[color=#42476D]QQ number[/color]
+EditAddressOrangeNumber|[color=#42476D]WeChat number[/color]
+EditAddress|[color=#42476D]Please be sure to fill in the detailed information on the province, city, district (county) and street number.[/color]
+EditAddressEmail|[color=#42476D]Email[/color]

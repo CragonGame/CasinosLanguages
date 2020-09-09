@@ -1,0 +1,7 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]邮件详情[/color]
+GetAttachments|领取附件
+Chip|筹码
+Coin|钻石
+Yuan|元
+Confirm|确认
+Text_Accessory|附件

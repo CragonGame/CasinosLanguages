@@ -1,0 +1,6 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Take into game[/color]
+Btn_Confirm|Doğrulama
+TextChipValue|bakiyen:
+Text_YourBalance|Bakiyen
+TextTipsLeft|Minumum çip
+TextTipsRight|Maksimum çip

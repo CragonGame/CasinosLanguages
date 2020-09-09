@@ -1,0 +1,60 @@
+Promoter|Reklamcılık
+MyPromoter|Reklamcılık
+MyPlayers|Oyuncular
+MyAgent|Temsilciler
+AgentRule|Kural
+MemberInfo|Üye bilgisi
+MemberNum|Üye numarası
+TotalGongXianInfo|Katkı numarası
+RecevieRecord|Teslim alma kayıtları
+DirectPlayersNum|Oyuncular
+DirectAgentNum|Temsilciler
+NotReceiveHourReward|Saatlik ödüller:
+NotReceiveWeekReward|Haftalık ödüller:
+BtnReceiveHourReward|Topla
+BtnReceiveWeekReward|Topla
+ThisWeekGongXian|Bu Hafta
+DirectPlayers|Oyuncular
+1Agent|1 Seviye
+2Agent|2 Seviye
+3Agent|3 seviye
+PreRewardAward|Beklenen para iadeleri
+Announcement|Duyuru
+BtnEdit|Düzenleme
+BtnCopy|Kopya linki
+InviteFriends|Arkadaşlarını davet et
+Icon|Simge
+NickName|Takma Ad
+Type|Tip
+Status|Statü
+Operate|İşletmek
+LastWeekGongXian|Geçen hafta
+YestodayGongXian|Dün
+CurrentGongXian|Şimdiki
+DirectPlayersTotalGongXian|Oyuncular
+DirectAgentTotalGongXian|1 seviye
+2AgentTotalGongXian|2 seviye
+3AgentTotalGongXian|3 seviye
+WeekRebate|Para iade tipi
+Amount|Miktar
+ReceiveTime|Gün
+ReceiveWeekRebate|Hafta
+TotalGongXian|Toplam
+ReturnRate|Getiri oranı
+PromotionPlayerNum|Mikyar
+DirectGongXian|Oyuncular
+2AgentGongXian|2 seviye
+3AgentGongXian|3 seviye
+PresidentNickname|Takma ad
+DailyReward|Günlük ödül
+WeekReward|Haftalık ödül
+HourReward|Saatlik ödül
+MonthReward|Aylık ödül
+ReceiveSuccess|Alım başarılı
+RewardExpired|Ödülün süresi doldu
+RewardReceived|Ödül alındı
+IllegalReceive|Yasadışı operasyon, ödül bulunamadı
+QRCode|QR kodu:
+BtnSaveQRCode|Kaydet
+LastCollectWeekReward|Son toplama zamanı:
+LastCollectHourReward|Son toplama zamanı:

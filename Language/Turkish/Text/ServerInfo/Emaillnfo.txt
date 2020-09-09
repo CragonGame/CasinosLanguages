@@ -1,0 +1,20 @@
+MatchMTTTitle|Yarışma {0} yarışma
+MatchMTTContent|Katıldığınız maç [color=#FFCC00]{0}[/color] teknik arıza nedeniyle sona erdirildi. Tazminat ekte talep edilecektir!
+MatchRewardTitle|Yarışma {0} ödüller
+MatchRewardContent|Tatlım [color=#FFCC00]{0}(ID:{1})[/color],yer aldığınız için [color=#FFCC00]{2} tebrikler [/color] [color=#FFCC00] {3} [/color] , ödüller ekter toplanır!
+MatchSendBackTitle|Geri {0} giriş ücreti ve servis ücreti
+MatchSendBackNotEnoughPlayer|Tatlım [color=#FFCC00] {0} (ID: {1}) [/color], katıldığınız yarışma [color=#FFCC00]{2}[/color] kesin kaydın yetersizliği sebebiyle reddedildi, and iade Kayıt ücretleri ve hizmet ücretleri ekte toplanır
+MatchSendBackPlayerCancel|Tatlım [color=#FFCC00] {0} (ID: {1}) [/color],katıldığınız yarışma [color=#FFCC00]{2}[/color] kurucu tarafından iptal edildi, kayıt ücretinizi ve hizmet ücretini ekte toplayın
+GiftTitle|Oyuncudan hediye alındı.
+GiftContent|Oyuncudan hediye alındı [color=#FFCC00]{0}[/color] [color=#FFCC00]{1}[/color]
+GiftGoldTitle|Altın sikke al
+GiftGoldContent|Altın sikkeler[color=#FFCC00]{0}(ID:{1})[/color] [color=#FFCC00]{2}[/color] alındı
+SentGoldTitle|Hediye Altın Sikkeler
+SentGoldContent|Hediye [color=#FFCC00]{0}(ID:{1})[/color] [color=#FFCC00]{2}[/color]
+RedEnvelopesTitle|Kırmızı mektup
+RedEnvelopesContent|Tatlım [color=#FFCC00]{0}(ID:{1})[/color],Kırmızı yuan zarfı [color=#FFCC00]{2}[/color] aldığın için tebrikler. Otomatik olarak WeChat bu hesaba bağlı dağıtılmıştır, zamanında kontrol edin!
+GoodsVoucherContent|Tatlım [color=#FFCC00]{0}(ID:{1})[/color], kabul[color=#FFCC00] {2} [/color] sırasına girdiniz ve 2 işi günü içerisinde ekspres kardeşine gönderin. Lütfen alışveriş merkezinin  teslimat adresinde doldurduğunuz bilgilerin doğru olduğundan emin olun. Müşteri hizmetleri personeli, hediyenin isteğe bağlı stilini 2 iş günü içinde onaylamak için sizinle irtibata geçecektir
+GoldPackageTitle|{0}
+GoldPackageContent|Tatlım [color=#FFCC00]{0}(ID:{1}) [/color], altın sikkeler elde ettin [color=#FFCC00]{3}[/color]  [color=#FFCC00]{2}[/color]
+BugFeedbackRewardTitle|Pokerily Texas Hold'em Bug Feedback Reward
+BugFeedbackRewardContent|Oyuncular sayesinde [color = # FFCC00] {0} [/ color] hataları resmi kişiye bildirdikleri için platformun gelişmesini sağladıkları için  ve ekteki ödülleri aldıkları için

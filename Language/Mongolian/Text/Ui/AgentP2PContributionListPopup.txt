@@ -1,0 +1,6 @@
+RewardType|Reward Type
+Date|Date
+Op|Operate
+TotalGongXian|Total taxs
+Reward|Reward
+Tip|Note: Total daily taxs for the last 15 days

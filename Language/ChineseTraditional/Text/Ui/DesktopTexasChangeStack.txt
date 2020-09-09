@@ -1,0 +1,6 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]帶入牌桌[/color]
+TextChipValue|你的餘額:
+Btn_Confirm|確認
+Text_YourBalance|你的餘額
+TextTipsLeft|牌桌下限
+TextTipsRight|牌桌上限

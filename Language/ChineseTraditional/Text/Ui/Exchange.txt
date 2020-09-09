@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]話費兌換[/color]
+TxtToNumber|選取的兌換數額:
+TxtPhoneNumTitle|輸入接收的手機號碼:
+BtnOk|確認兌換
+TxtTip|注意:兌換時間12小時以內到賬

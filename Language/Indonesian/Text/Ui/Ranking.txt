@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Rangking[/color]
+Text_RankChip|Chip
+Text_RankDiamond|Diamond
+Text_RankingRedEnvelopes|Amplop Merah

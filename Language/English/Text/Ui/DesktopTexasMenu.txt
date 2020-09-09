@@ -1,0 +1,6 @@
+﻿Btn_ExitGame|Leave table
+Btn_StandUp|Stand up
+Btn_LeaveHalfWay|Sit out
+Btn_InviteFriend|Invite friends
+Btn_CardType|Hand Ranks
+Text_Welfare|Bonus

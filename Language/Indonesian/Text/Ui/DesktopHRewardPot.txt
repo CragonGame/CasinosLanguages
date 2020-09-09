@@ -1,0 +1,14 @@
+RewardPot|Pool Prize
+RewardRecord|Riwayat Jackpot
+Text_CardType|Jenis Kartu
+Text_Total|Total
+Text_Date|Tanggal
+Text_TipAllPlayer|Sebagian kecil dari keuntungan semua pemain akan pergi ke Prize Pool
+Text_OpenType|Tipe
+Text_RoyalFlush|Royal flush
+Text_StraightFlush|Straight Flush
+Text_FourOfAKind|Four of A Kind
+Text_OpeningProportion|Draw ratio
+Text_MaxMultiplier|Kelipatan Max
+Text_Icon|Avatar
+Text_Bonus|Hadiah

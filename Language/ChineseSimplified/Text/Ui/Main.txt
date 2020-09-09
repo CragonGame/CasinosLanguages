@@ -1,0 +1,5 @@
+EnterTable|正在进入桌子...
+GuestRegisterTips|亲爱的玩家，您正在使用游客模式进行游戏，游客模式下的游戏数据（包含付费数据）在删除游戏、更换设备后清空！为了保障您的虚拟财产安全，以及让您获得更完善的游戏体验，请您注册账号！
+Text_Cowboy|牛仔
+ServicePhoneNum|客服电话:+234 8135792298
+BtnServicePhone|客服电话

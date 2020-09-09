@@ -1,0 +1,5 @@
+Text_StayOB|Bystand
+Text_MatchShare|Sharing
+Text_BacktoLobby|kembali ke beranda
+MTTResultTip1|anda telah selesai dalam pertandingan,ranking dan bonus akan di tampilkan saat pendaftaran ditutup!
+MTTResultTip2|sedikit lagi masuk …..Final,siapkan hatimu untuk mencoba lagi.

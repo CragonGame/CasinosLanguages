@@ -1,0 +1,8 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]每日下注獎勵[/color]
+BetRechCanCollectBox|達到{0}下注量即可領取寶箱累加{1}獎勵
+HasBeenReceivedTreasure|已領取過該寶箱
+Btn_OneKeyCollection|一鍵領取
+Text_Reward|獎勵
+Text_Bet|下注
+Text_BetRewardTips|玩家在閑家位下注量會進行積累，積累到一定額度可以領取對應寶箱以及之前寶箱的累加獎勵。累計額度及領取獎勵將在每天8點重置，未領獎勵時，請玩家注意及時領取。
+Text_CurrentBetTotal|目前累計下注

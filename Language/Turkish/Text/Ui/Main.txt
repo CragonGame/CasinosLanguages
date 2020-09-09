@@ -1,0 +1,5 @@
+EnterTable|Masaya giriyor...
+GuestRegisterTips|Sevgili oyuncu, oyun oynamak için turist modelini kullanıyorsun. Turist modundaki (ücretli veriler dahil) oyun verileri (ücretli veriler dahil), oyun silindikten ve ekipman değiştirildikten sonra seni korumak için boşaltılır. 
+Text_Cowboy|Kovboy
+ServicePhoneNum|Servis Telefonu:+234 8135792298
+BtnServicePhone|Servis Telefonu 

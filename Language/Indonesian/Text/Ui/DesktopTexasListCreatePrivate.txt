@@ -1,0 +1,8 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Buat private room[/color]
+Btn_Create|Buat
+Text_SelectTable|Pilih meja
+Text_SelectAnte|Pilih urutan
+Text_SelectSeat|Pilih tempay duduk
+BtnSeatSix|6 orang
+BtnSeatNine|9 orang
+CreatePrivateInfo|Ante {0} blinds {1}/{2} carry {3}/{4}

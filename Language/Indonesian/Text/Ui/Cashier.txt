@@ -1,0 +1,60 @@
+Btn0|Isi ulang
+Btn1|Penarikan
+Btn2|Riwayat Isi Ulang
+Btn3|Riwayat Penarikan
+DespositTitle|Silakan masukkan jumlah isi ulang:
+DespositTip|Jumlah isi ulang minimum adalah:
+Amount|Jumlah
+BankerName|Nama Bank
+BankerAccount|No Rekening
+BankerAccountHolder|Nama Pemegang Bank
+BtnSelectBanker|Pilih Bank
+BtnDeposit|Isi Ulang
+CashOutTitle|Silakan masukkan jumlah isi ulang:
+CashOutTip|Jumlah isi ulang minimum adalah:
+CashOutTip2|Saldo:
+ManualDesposit|Setoran manual
+ManualCashOut|Penarikan Manual
+BtnCashOut|Penarikan
+Type|Jenis
+Time|Waktu
+Status|status
+TxtCashOut|Penarikan
+TxtDesposit|Setorkan
+TxtStatusDespositFinished|Pembayaran selesai
+TxtStatusDespositCancel|Batalkan pembayaran
+TxtStatusDespositWait|Tunggu
+TxtStatusCashOutFinished|Penarikan selesai
+TxtStatusCashOutCancel|Batalkan Penarikan
+TxtStatusCashOutWait|Tunggu
+TxtStatusUnKnow|Status tidak diketahui
+TipCashOutSuccess|Pengajuan penatikan berhasil
+TipExistCashOut|Penarikan sebelumnya belum diproses
+TipBankerNameNotFound|Nama bank salah
+TipIllegalWithdrawalAmount|Jumlah yang dimasukkan salah
+TipDespositSuccess|Pengajuan setoran berhasil
+TipExistDesposit|penyetoran sebelumnya belum di proses
+TipUnKnowError|Eror
+TipNotSelectBanker|Silahkan pilih Bank
+TipNotBankerAccountNumber|Silahkan isi nomor rekening
+TipNotBankerAccountHolder|Silakan isi nama pemegang kartu bank
+DespositStep0|Pertama, pakai kode dengan Opay
+DespositStep1|Kedua, Masukkan jumlah dan pesanan#
+DespositStep2|Jika Anda tidak mengkredit akun Anda dalam 30 menit, silakan hubungi layanan pelanggan
+BtnOpenOPayUrl|Buka
+Remark|Order #: 
+BtnCopy|Salin
+OrderNoteTip|Pastikan Anda mengisi order #.
+OpenOpay|Opay Buka/Unduh Opay
+PhoneNum|Telpon CS:
+AccountID|Akun ID:
+CashOutStep1|Langkah 1：Silakan masukkan jumlah penarikan tunai:
+CashOutStep2|Langkah 2: Silakan masukkan informasi penarikan beriku
+CashOutStep3|Langkah 3: Klik untuk menarik
+CopyTip|Salinan berhasil
+SuggestAmount|Jumlah yang disarankan: 100, 1000, 5000, 10000, 50000
+WayOne|Metode 1: Pindai kode dengan Opay
+WayTwo|Metode 2: Transfer Bank
+CashoutBankerName|Opay Nama Bank atau Opay ID
+CashoutBankerAccount|Nomor kartu bank atau akun Opay
+CashoutBankerAccountHolder|Nama pemegang akun bank atau Opay

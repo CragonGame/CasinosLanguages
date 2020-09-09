@@ -1,0 +1,5 @@
+EnterTable|正在進入桌子...
+GuestRegisterTips|親愛的玩家，您正在使用遊客模式進行遊戲，遊客模式下的遊戲數據（包含付費數據）在刪除遊戲、更換設備後清空！為了保障您的虛擬財產安全，以及讓您獲得更完善的遊戲體驗，請您註冊賬號！
+Text_Cowboy|牛仔
+ServicePhoneNum|客服電話:+234 8135792298
+BtnServicePhone|客服電話

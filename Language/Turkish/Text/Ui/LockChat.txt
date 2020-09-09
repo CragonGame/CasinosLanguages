@@ -1,0 +1,3 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Bu masa için sohbeti engelle[/color]
+Btn_AllPlayer|Tüm oyuncular
+Btn_Onlooker|Seyirciler

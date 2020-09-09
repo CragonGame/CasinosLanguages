@@ -1,0 +1,3 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]屏蔽桌内聊天[/color]
+Btn_AllPlayer|所有玩家
+Btn_Onlooker|旁观玩家

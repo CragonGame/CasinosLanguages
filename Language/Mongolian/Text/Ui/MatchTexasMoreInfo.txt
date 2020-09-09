@@ -1,0 +1,54 @@
+People|хүн
+Today|Өнөөдөр
+MatchFee|Бүртгэлийн хураамж
+SixSeat|6 хүний суудал
+NineSeat|9 хүний суудал
+Second|s
+OrangeRedEnvelopes|WeChat Шагнал
+Chip|алт
+Enter|Орох
+FreeMatch|Үнэгүй тоглоом
+WaitStart|[size=20][color=#4C87D9]Эхлэхийг хүлээнэ үү[color][size]
+SignUp|бүртгүүлэх
+CancelSignUp|бүртнщгэлээ цуцлах
+NotOpenYet|[size=20][color=#4C87D9]Эхлэх болоогүй[color][size]
+SignUpDelay|Late reg.
+SignUpDeadLine|Reg.ends in
+BeginNow|Starts in
+Tomorrow|Маргааш
+AfterTomorrow|Нөгөөдөр
+QuitMatchTip|Buy-in таны дансанд төлбөрийг буцаах болно. Та тэтгэвэрт гарахдаа итгэлтэй байна уу?
+SignUpTip|Нөхөн сэргээх боломжтой,Та баталж байна уу? [size=17](Consumption{0}+{1}Техасын валют)[/size]
+RebuyTip|Can rebuy,Times: [color=#DDBB0E]{0}[/color] The blind level[color=#DDBB0E]{1}[/color]can enable[color=#DDBB0E]{2}[/color]can exchange[color=#DDBB0E]{3}[/color]chips!
+AddOnTip|Can addon,Times: [color=#DDBB0E]{0}[/color] The blind level[color=#DDBB0E]{1}[/color]can enable[color=#DDBB0E]{2}[/color]can exchange[color=#DDBB0E]{3}[/color]chips!
+SnowBallMatchReward|Value preserving reward:[color=#CFB37A]%s[/color] SnowBallMatchTip|[size=22][color=#CFB37A]The more the number of participants, the higher the number of awards, the higher the total reward.[/color][/size]
+Text_Summary|Summary
+Text_SaiKuang|Game fnfo
+Text_MatchRank|Rank
+Text_Blind|Blind
+Text_Reward|Reward
+Text_EntryFee|Buy-in:
+Text_MatchBeginTime|Start time:
+Text_StopSignUpTm|Reg.ends in:
+Text_NumberOfEntries|Entries:
+Text_InitScore|Starting score:
+Text_Rebuy|Rebuy
+Text_Addon|Add-on
+Text_Share|Share
+Text_SignUp|Register
+Text_Rank|Rank
+Text_MasterPoint|Master Level
+Text_RewardNote|Details
+Text_CurrentMatchRank|My Position
+Text_NoMatchRankTip|No ranking data
+Text_NumberOfEntries1|Entries:
+Text_RewardNum|RewardNum
+Text_AverageChip|Avg.Stack
+Text_MatchTm|Running
+Text_CurrentLevel1|Current Level
+Text_Ante|Ante
+Text_NextLevel|Next Level
+Text_CurrentLevel|Current Level:
+Text_NoMatchInfoTip|No game data
+Text_MatchLevel|Level
+Text_BlindnessTime|Blinds Up

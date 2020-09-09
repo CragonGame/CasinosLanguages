@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Тохируулах[/color]
+Btn_SelectLanguage|хэл сонгох
+Text_About|Тухай
+Text_Developer|хөгжүүлэгч  сонголт
+Text_SoundEffect|Sound
+Text_Music|Хөгжим
+Text_AutoRotation|Rotation
+BtnSwitchLan|сонголт
+Text_TxtLanguageTitle|хэл：
+ChineseSimplified|简体中文
+ChineseTraditional|繁体中文
+English|English
+Mongolian|Монгол
+Indonesian|Indonesia
+Turkish|Türk

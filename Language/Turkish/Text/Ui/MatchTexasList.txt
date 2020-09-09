@@ -1,0 +1,31 @@
+Free|Ücretsiz
+People| İnsan
+Today|Bugün
+MatchFee|Destekleme
+SixSeat|6 koltuk
+NineSeat|9 koltuk
+Second|s
+OrangeRedEnvelopes|Bonus
+Chip|çipler
+Enter|Giriş
+WaitStart|[size=20][color=#4C87D9]başlamak için beklecolor][size]
+SignUp|Kayıt ol
+CancelSignUp|İptal et
+NotOpenYet|[size=20][color=#4C87D9]Announced[color][size]
+SignUpDelay|Geç kayıt
+SignUpDeadLine|Kayıt sona erdi
+BeginNow|Başla
+Today|Bugün
+Tomorrow|Yarın
+AfterTomorrow|Yarından sonra
+QuitMatchTip|Katılım ücreti iade edilecektir. Geri çekilmek istedğinizden emin misiniz?
+SignUpTip|Kayıt yarışmasını onaylıyor musunuz? [size=17](consumption of{0}+{1} chips) [/size]
+AllMatch|Turnuvalar
+MyMatch|Turnuvalarım
+Text_NoMatchInfoTip1|Yarışma yok. Lütfen resmi bildirimi bekleyin.
+Text_MatchInfomation|oyun bilgileri
+Text_Reward|Ödüş
+Text_MatchBeginTime1|Başlama zamanı
+Text_EntryFee1|Destekleme
+Text_NotSignUpMatchInfo|Henüz bir yarışma için kayıt olmadınız, gidin ve kaydolun.
+Text_GotoSignUp|Kayıt ol

@@ -1,0 +1,2 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]найзын хүсэлт нэмэх[/color]
+Btn_Accept|хүлээн зөвшөөрөх

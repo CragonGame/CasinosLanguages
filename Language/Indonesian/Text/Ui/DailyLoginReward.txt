@@ -1,0 +1,11 @@
+Day1|Hari ke 1
+Day2|Hari ke 2
+Day3|Hari ke 3
+Day4|Hari ke 4
+Day5|Hari ke 5
+Day6|Hari ke 6
+Day7|Hari ke 7
+Text_DoubleVip|Bonus VIP 2x lipat
+Text_WeeklyReward|Berdasarkan jumlah hari kumulatif check-in yang ditentukan setiap minggu, Anda bisa mendapatkan hadiah yang sesuai
+Btn_GetDailyReward|Absen untuk bonus
+Btn_BecomeVIP|Jadi VIP

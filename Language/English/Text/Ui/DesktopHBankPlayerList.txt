@@ -1,0 +1,4 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Bankers[/color]
+ConditionOfBeBanker|On the condition of be banker:{0},Lower than {1} auto leave
+Text_BeBank|Be a Banker
+Text_NotBeBank|Leave Banker

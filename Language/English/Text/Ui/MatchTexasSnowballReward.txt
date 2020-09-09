@@ -1,0 +1,6 @@
+﻿People|
+Reward|Reward
+Text_SnowBallTips|Progressive game system, with basic reward, the more the number of entries, the greater the total reward, the number of participants to determine the number of awards and reward distribution ratio.
+Text_PlayAndRewardNum|Entries/RewardNum
+Text_Rank|Rank
+Text_RewardRate|Reward Ratio

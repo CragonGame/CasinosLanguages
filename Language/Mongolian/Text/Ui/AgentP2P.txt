@@ -1,0 +1,56 @@
+Promoter|Promoter
+MyPromoter|Invite Info
+MyAgent|Agent
+MyPlayer|Player Club
+MyClub|Agent Club
+AgentRule|Rules
+MemberInfo|Member Taxs
+MemberNum|Member Number
+TotalGongXianInfo|Taxs Info
+RecevieRecord|Collection records
+PlayersNum|Players Number
+RankTaxs|Taxs Ranking:
+Players|Players
+Announcement|Announcement
+AnnouncementTip|Please enter the announcement
+BtnEdit|Edit
+BtnCopy|Copy
+BtnSaveQRCode|Save
+InviteFriends|Invite Friends
+Icon|Icon
+NickName|Name
+Type|Type
+Status|Status
+Operate|Collect
+Details|Details
+RewardType|Reward Type
+Date|Date
+Op|Operate
+Amount|Amount
+Reward|Reward
+ReceiveTime|Collect Time
+ReceiveWeekRebate|Week Rewards
+TotalGongXian|Total Taxs
+ReturnRate|Return Rate
+PresidentNickname|Nick Name
+RewardList|Reward List
+ApplyTime|Apply Time
+PhoneNum|Mobile
+Email|E-mail
+Tip|Note: Total daily taxs for the last 15 days
+QRCode|Promote QR code:
+TxtPlayerId|Please enter player ID
+BtnSearch|Search
+BtnReceive|Collect
+Player|Player
+President|Chairman
+BtnApplyAgent|Apply agent
+BtnCancelApplyAgent|Cancel agent
+Top100|Top 100
+WeekReward|Week Reward
+HourReward|Hour Reward
+MonthReward|Month Reward
+ReceiveSuccess|Receive success
+RewardExpired|Reward expired
+RewardReceived|Reward received
+IllegalReceive|Illegal operation, the reward was not found

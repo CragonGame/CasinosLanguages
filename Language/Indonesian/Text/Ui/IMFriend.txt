@@ -1,0 +1,18 @@
+MyID|ID Saya:
+TextTitle|[color=#FFFFFF,#B8D1F6]Teman[/color]
+SearchPlayerTips|Silakan masukkan nama atau ID pemain
+AbuseOthers|marah ke yang lain
+IllegalDeal|pemain pembohong
+PornPic|avatar kuning
+UsePlug-in|gunakan plug-in
+Btn_JoinDesk|Ikut Main
+Btn_Message|Pesan
+Btn_Presented|memberi
+BtnAddFriend|tambahkan teman
+Btn_Report|report
+Btn_Search|Cari 
+Text_Friend|Teman
+Text_Search|Cari 
+Text_TipAddFriend|tambahkan teman
+Text_TipSearchAddFriend|Anda dapat mencari pemain dengan nama panggilan atau ID. Kirim ID Anda ke teman, dan mereka dapat menambahkan Anda sebagai teman.
+Text_YouHaveNoFriend|Anda tidak punya teman

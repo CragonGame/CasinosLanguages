@@ -1,0 +1,28 @@
+﻿Billing|Props
+Gold|Chips
+Diamond|Diamond
+GoldPackage|Chip Bags
+GoodsVoucher|Ticket
+RedEnvelopes|Bonus
+GiftTmp|Ornaments
+Drinks|Drink
+Pets|Pet
+Food|Real thing
+Goods|Goods
+Clothes|Clothes
+Jewelry|Jewelry
+Cigarette|Cigarette
+Toy|Toy
+Flower|Flower
+Emoticon|Emoticon
+GiftNormal|Luxury gift
+Transport|Car
+Boat|Boat
+Houses|Luxury home
+Luxury|Luxury
+Consume|Consume
+GoldConsume|Consumable chip props
+DiamondConsume|Consumption of diamond props
+MagicExpression|Magic Emoj
+GoldMagicExpression|Magic emoj that consumes chips
+DiamondMagicExpression|Magic emoj that consumes diamonds

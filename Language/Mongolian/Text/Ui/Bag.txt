@@ -1,0 +1,6 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]үүргэвч[/color]
+Btn_BuyMore|Buy More
+Text_Consume|Consumables
+Text_Gift|бэлэг
+Text_NoConsumeTips|Одоогоор хэрэглээний бүтээгдэхүүн байхгүй байна
+Text_NoGiftTips|Танид одоогоор бэлэг алга

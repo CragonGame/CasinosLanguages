@@ -1,0 +1,4 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Ranking[/color]
+Text_RankChip|Chips
+Text_RankDiamond|Diamonds
+Text_RankingRedEnvelopes|Bonus

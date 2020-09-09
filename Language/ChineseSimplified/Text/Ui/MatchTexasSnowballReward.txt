@@ -1,0 +1,6 @@
+People|人
+Reward|奖励
+Text_SnowBallTips|滚雪球赛制，设有基本保底奖励，参赛人次越多总奖励越大，参赛人数决定奖励人数和奖励分配比例。
+Text_PlayAndRewardNum|参赛人数/奖励人数
+Text_Rank|名次
+Text_RewardRate|奖励比例

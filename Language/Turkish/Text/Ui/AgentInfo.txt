@@ -1,0 +1,3 @@
+MemberNum|Üye numarası
+Announcement|Duyuru
+PresidentNickname|Temsilci takma adı

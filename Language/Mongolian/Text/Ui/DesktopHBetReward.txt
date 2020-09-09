@@ -1,0 +1,8 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Daily Bet Reward[/color]
+BetRechCanCollectBox|To reach {0}, you can collect the box accumulative {1} reward
+HasBeenReceivedTreasure|Шагналын хайрцаг ирлээ
+Btn_OneKeyCollection|Авах
+Text_Reward|шагнал
+Text_Bet|Бооцоо
+Text_BetRewardTips|Тоглогчид амралтын газарт бооцооны хэмжээг хуримтлуулж, холбогдох эрдэнэсийн хайрцаг болон өмнөх эрдэнэсийн хайрцгийг авахын тулд тодорхой хэмжээгээр хуримтлуулна. Хуримтлагдсан хэмжээ, шагналын хэмжээг өдөрт 8 оноогоор буцааж өгнө. Шагнал хүлээж аваагүй тохиолдолд тоглогч цагтаа түүнд анхаарлаа хандуулах хэрэгтэй.
+Text_CurrentBetTotal|хуримтлагдсан бооцоо

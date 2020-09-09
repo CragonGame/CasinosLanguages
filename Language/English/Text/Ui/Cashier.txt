@@ -1,0 +1,60 @@
+Btn0|Deposit
+Btn1|Cash Out
+Btn2|Deposit History
+Btn3|Cashout History
+DespositTitle|Enter the value of deposit:
+DespositTip|Minimun:#
+Amount|Amount
+BankerName|Bank's name
+BankerAccount|Bank account number
+BankerAccountHolder|Name of the account holder
+BtnSelectBanker|Select Bank
+BtnDeposit|Deposit
+CashOutTitle|Enter the value of withdrawal:
+CashOutTip|Minimun:#
+CashOutTip2|,Your balance:#
+ManualDesposit|Manual deposit
+ManualCashOut|Manual cashout
+BtnCashOut|Cash Out
+Type|Type
+Time|Date
+Status|Status
+TxtCashOut|Cash Out
+TxtDesposit|Deposit
+TxtStatusDespositFinished|Deposit completed
+TxtStatusDespositCancel|Deposit cancel
+TxtStatusDespositWait|Waiting for deposit
+TxtStatusCashOutFinished|Cashout completed
+TxtStatusCashOutCancel|Cashout cancel
+TxtStatusCashOutWait|Waiting for cashout
+TxtStatusUnKnow|Unknown state
+TipCashOutSuccess|Cashout request successfully
+TipExistCashOut|You have a unprocessed cashout request,so you cannot create a new request
+TipBankerNameNotFound|Bank name does not exist
+TipIllegalWithdrawalAmount|Incorrect amount entered
+TipDespositSuccess|Deposit request successfully
+TipExistDesposit|You have a unprocessed deposit request,so you cannot create a new request
+TipUnKnowError|unknown error
+TipNotSelectBanker|Please select a bank
+TipNotBankerAccountNumber|Please fill in the bank account number
+TipNotBankerAccountHolder|Please fill in the name of the bank account holder
+DespositStep0|Step 1: Scan in Opay
+DespositStep1|Step 2: Enter amount and order#
+DespositStep2|If your account is not credited within 30 mins,please contact customer 
+BtnOpenOPayUrl|Open
+Remark|Order #: 
+BtnCopy|Copy
+OrderNoteTip|Note: You must indicate order #.
+OpenOpay|Open/Download Opay
+PhoneNum|care on:
+AccountID|Account ID:
+CashOutStep1|Step 1: Please enter the amount of withdrawal:
+CashOutStep2|Step 2: Please enter the following withdrawal information
+CashOutStep3|Step 3: Click to cashout
+CopyTip|Copy success
+SuggestAmount|Suggested amount: 100, 1000, 5000, 10000, 50000
+WayOne|Way 1:Scan in Opay
+WayTwo|Way 2:Bank transfer
+CashoutBankerName|Bank's name or Opay
+CashoutBankerAccount|Bank account number or Opay account
+CashoutBankerAccountHolder|Name of the account holder

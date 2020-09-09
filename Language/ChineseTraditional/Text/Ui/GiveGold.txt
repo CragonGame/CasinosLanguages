@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]贈送籌碼[/color]
+TxtTo|贈送對象:
+TxtToNumber|贈送數量:
+BtnOk|確認
+BtnDel|刪

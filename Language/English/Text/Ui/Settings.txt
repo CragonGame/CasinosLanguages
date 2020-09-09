@@ -1,0 +1,15 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Setting[/color]
+Btn_SelectLanguage|Select
+Text_About|About
+Text_Developer|Developer op
+Text_SoundEffect|Sound
+Text_Music|Music
+Text_AutoRotation|Rotation
+BtnSwitchLan|Select
+Text_TxtLanguageTitle|Language:
+ChineseSimplified|简体中文
+ChineseTraditional|繁体中文
+English|English
+Mongolian|Монгол
+Indonesian|Indonesia
+Turkish|Türk

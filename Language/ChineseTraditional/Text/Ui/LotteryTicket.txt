@@ -1,0 +1,6 @@
+NoBet|沒有下注
+Text_TimeOfLastReward|上次開獎時間
+Text_Time|時間
+Text_Reward|獎金
+Text_NickName|昵稱
+Text_LotteryTicketRule|幫助

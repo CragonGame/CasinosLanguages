@@ -1,0 +1,6 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Чип тохируулах[/color]
+TextChipValue|Таны үлдэгдэл:
+Btn_Confirm|батлах
+Text_YourBalance|Таны үлдэгдэл
+TextTipsLeft|Min Chips
+TextTipsRight|Max Chips

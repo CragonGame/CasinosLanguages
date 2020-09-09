@@ -1,0 +1,52 @@
+AlreadyLogin|Таны данс өөр газар нэвтэрсэн байна
+ConfirmPhone|Гар утасны дугаараа баталгаажуулна уу
+EnterGameFailed|Тоглоомонд орж чадсангүй
+EnterPhone|Утасны дугаараа бичнэ үү
+EnterPwdTips1|Нууц үгээ бичнэ үү
+EnterPwdTips2|6 болон түүнээс дээш тооны нууц үг оруулна уу
+Logining|Нэвтэрч байна, түр хүлээнэ үү
+LoginSuccessful|Нэвтрэх амжилттай ...
+PhoneCode|Баталгаажуулах дугаар
+GetPhoneCodeSuccess|Гар утасны баталгаажуулах кодыг амжилттай авлаа
+Registering|Бүртгүүлж байна, түр хүлээнэ үү
+RegisterSuccessful|бүртгэл амжилттай болсон
+Resend|Дахин илгээх
+ResetPwding|Нууц үг шинэчлэх
+ResetPwdSuccessful|Нууц үгийг амжилттай тохирууллаа
+SearchCountry|Улсаа оруулна уу
+SendCodeToPhone|Энэ дугаар луу баталгаажуулах код илгээнэ
+VersionInfo|Програмын хувилбар: {0}, зохиолын хувилбар: {1},  Мэдээллийн хувилбар: {2}&{3} {4}
+OrangeLogining|WeChat-д нэвтрэх хүсэлтийг илгээж байна ...
+NotInstallWechat|WeChat is not installed
+Btn_Cancel|Цуцлах
+Btn_Login1|Орох
+Btn_LoginReturn|Буцах
+Btn_Register|бүртгүүлэх
+Btn_ResetPwd|Нууц үг солих
+Image_AccountLogin|хаягаар нэвтрэх
+Image_GuestLogin|Зочингоор орох
+Image_WeChatLogin|wechat-руу нэвтрэх
+Text_CragonAgreement|Cragon Game Service Agreement
+Text_LastStep|Өмнөх алхам
+Text_NextStep|Дараагийн алхам
+Text_PhoneCodeSended|Баталгаажуулах дугаар таны утаслуу явуулсан
+Text_ReadAndAgree|Би аль хэдийнээ уншиж танилцсан
+Text_Register|Бүртгүүлэх
+Text_Resend|Дахин илгээх
+Text_SetNewPwd|Шинэ нууц үг тавих
+Text_TipWarn|тоглоомын хориглох зүйлс: Хулгайн тоглоомуудаас татгалзах,Өөрийгөө хамгаалах тал дээр анхаарлаа хандуулаx, Мэхлэгдэхээс болгоомжил, Тоглолтонд донтох, Тохиромжтой хугацаа Эрүүл амьдралыг эрхэмлэх
+ServerStatus|Серверийн байдал：[color=#00ff00]Ердийн[/color]
+BtnUrl|Website
+BtnChangeLog|Update
+BtnSwitchLan|Хэл сонгох
+BtnEnglish|English
+BtnChineseTraditional|Traditional Chinese
+Text_TxtLanguageTitle|хэл：
+ChineseSimplified|Simplified Chinese
+ChineseTraditional|Traditional Chinese
+English|English
+Mongolian|Монгол
+Indonesian|Indonesia
+Turkish|Turkish
+ServicePhoneNum|Service Phone:+234 8135792298
+BtnServicePhone|Service Phone

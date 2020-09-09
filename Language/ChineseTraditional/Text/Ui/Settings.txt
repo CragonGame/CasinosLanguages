@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]設置[/color]
+Btn_SelectLanguage|選擇語言
+Text_About|關於
+Text_Developer|開發者選項
+Text_SoundEffect|音效
+Text_Music|音樂
+Text_AutoRotation|螢幕旋轉
+BtnSwitchLan|選擇
+Text_TxtLanguageTitle|語言：
+ChineseSimplified|简体中文
+ChineseTraditional|繁体中文
+English|English
+Mongolian|Монгол
+Indonesian|Indonesia
+Turkish|Türk

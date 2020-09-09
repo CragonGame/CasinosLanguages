@@ -1,0 +1,60 @@
+Btn0|充值
+Btn1|提现
+Btn2|充值记录
+Btn3|提现记录
+DespositTitle|请输入充值金额:
+DespositTip|最低充值金额为:
+Amount|金额
+BankerName|银行名称
+BankerAccount|银行账号
+BankerAccountHolder|账户持有人姓名
+BtnSelectBanker|选择银行
+BtnDeposit|充值
+CashOutTitle|请输入提现金额:
+CashOutTip|最低提现金额:
+CashOutTip2|你的余额:
+ManualDesposit|人工存款
+ManualCashOut|人工提现
+BtnCashOut|提现
+Type|类型
+Time|时间
+Status|状态
+TxtCashOut|提现
+TxtDesposit|存款
+TxtStatusDespositFinished|存款完成
+TxtStatusDespositCancel|存款取消
+TxtStatusDespositWait|等待存款
+TxtStatusCashOutFinished|提现完成
+TxtStatusCashOutCancel|提现取消
+TxtStatusCashOutWait|等待提现
+TxtStatusUnKnow|未知状态
+TipCashOutSuccess|提现申请成功
+TipExistCashOut|前一个提现未处理
+TipBankerNameNotFound|银行名字不存在
+TipIllegalWithdrawalAmount|输入金额非法
+TipDespositSuccess|存款申请成功
+TipExistDesposit|前一个存款未处理
+TipUnKnowError|未知错误
+TipNotSelectBanker|请选择银行
+TipNotBankerAccountNumber|请填写银行卡号
+TipNotBankerAccountHolder|请填写银行卡持有者名字
+DespositStep0|第一步: 使用Opay扫码
+DespositStep1|第二步: 输入金额和order#
+DespositStep2|如果你在30分钟内未记入您的帐户，请与客服联系
+BtnOpenOPayUrl|打开
+Remark|Order #: 
+BtnCopy|拷贝
+OrderNoteTip|注意: 请你务必填写order #.
+OpenOpay|打开/下载 Opay
+PhoneNum|客服电话:
+AccountID|账号ID:
+CashOutStep1|第一步:请输入提现金额:
+CashOutStep2|第二步:请输入以下提款信息
+CashOutStep3|第三步:点击提现
+CopyTip|拷贝成功
+SuggestAmount|建议金额: 100, 1000, 5000, 10000, 50000
+WayOne|方式1:使用Opay扫码
+WayTwo|方式2:银行转账
+CashoutBankerName|银行名称或者Opay
+CashoutBankerAccount|银行卡号或者Opay账号
+CashoutBankerAccountHolder|账号持有人名字

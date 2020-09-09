@@ -1,0 +1,13 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]福利[/color]
+Text_OnlineReward|在線獎勵
+Text_OnlineRewardInfo|在線到一定時長後可以領取一些籌碼
+BtnGetOnlineReward|領取
+Text_TimedReward|定時獎勵
+Text_TimedRewardInfo|每天12點,18點起的1小時內可以領取一些籌碼
+BtnGetTimingReward|領取
+Text_FirstLoginReward|每日首次登陸獎勵
+Text_FirstLoginRewardInfo|每日首次登陸可以領取一些籌碼獎勵喲！
+BtnGetReward|領取
+OnlineRewardInfo|點擊領取[color=#D9D919]{0}[/color]籌碼在線獎勵
+OnlineRewardInfo2|再過[color=#CC3299]{0}[/color]後，可領取[color=#D9D919]{1}[/color]籌碼在線獎勵
+TimedRewardInfo|每天[color=#CC3299]12~13[/color]點，[color=#CC3299]18~19[/color]點各領取[color=#D9D919]{0}[/color]籌碼定時獎勵

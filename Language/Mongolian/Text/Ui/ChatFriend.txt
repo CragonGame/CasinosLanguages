@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Мэдээ мэдээлэл[/color]
+Btn_Send|Илгээх
+Text_NoConversation|зүүн доод талын товчлуурыг дарж,найзтайгаа яриа эхлүүлэх
+Text_NoteDeleteRecord|Тэмдэглэл: Энэ найзтайгаа чат түүхийг устгахын тулд avatar дээр удаан дарна уу

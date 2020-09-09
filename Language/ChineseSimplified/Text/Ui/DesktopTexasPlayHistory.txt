@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]牌局回顾[/color]
+Dealer|庄家
+SmallBlind|小盲
+BigBlind|大盲

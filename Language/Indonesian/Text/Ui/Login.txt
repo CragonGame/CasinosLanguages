@@ -1,0 +1,53 @@
+AlreadyLogin|Anda sudah masuk di tempat lain
+ConfirmPhone|Konfirmasikan nomor ponsel
+EnterGameFailed|Gagal masuk
+EnterPhone|masukkan No. Ponsel
+EnterPwdTips1|Silakan masukkan kata sandi
+EnterPwdTips2|Silakan masukkan kata sandi 6 digit atau lebih
+Logining|Sedang proses masuk, harap tunggu
+LoginSuccessful|Login berhasil...
+PhoneCode|Kode verifikasi
+GetPhoneCodeSuccess|Berhasil memperoleh kode verifikasi
+Registering|Mendaftar, harap tunggu
+RegisterSuccessful|Pendaftaran akun berhasil
+Resend|Kirim Ulang
+ResetPwding|Reset ulang kata sandi ...
+ResetPwdSuccessful|Reset kata sandi berhasil
+SearchCountry|Masukkan negara
+SendCodeToPhone|Kirim kode verifikasi ke nomor ini
+VersionInfo|versi sekarang{0},versi lama{1},versi data{2}&{3} {4}
+OrangeLogining|Meminta untuk masuk WeChat...
+NotInstallWechat|WeChat tidak terpasang
+Btn_Cancel|batal
+Btn_Login1|Masuk
+Btn_LoginReturn|kembali masuk
+Btn_Register|Daftar
+Btn_ResetPwd|Reset kata sandi
+Image_AccountLogin|Login akun
+Image_GuestLogin|Login Tamu
+Image_WeChatLogin|
+Text_CragonAgreement|Perjanjian Layanan
+Text_LastStep|Sebelumnya
+Text_NextStep|Selanjutnya
+Text_PhoneCodeSended|Kode verifikasi telah dikirim ke ponsel Anda.
+Text_ReadAndAgree|Saya telah membaca dan setuju
+Text_Register|Daftar
+Text_Resend|Kirim ulang
+Text_SetNewPwd|Reset kata sandi
+Text_TipWarn|Penolakan untuk game yang tidak baik,pembajakan, siaga untuk melindungi diri sendiri, waspadai penipuan, kecanduan game, melukai tubuh Anda, mengatur waktu secara wajar, menikmati hidup sehat. 
+ServerStatus|   Server status:[color=#00ff00]Normal[/color]
+BtnUrl|instal di website
+BtnChangeLog|perbarui tanggal
+BtnSwitchLan|pilih
+BtnChinese|china(Aks.sederhana)
+BtnEnglish|inggris
+BtnChineseTraditional|china(Aks.Traditional)
+Text_TxtLanguageTitle|bahasa:
+ChineseSimplified|china(Aks.sederhana)
+ChineseTraditional|china(Aks.Traditional)
+English|Inggris
+Mongolian|Mongolian
+Indonesian|Indonesia
+Turkish|Turki
+ServicePhoneNum|Nomor pelayanan:+234 8135792298
+BtnServicePhone|Nomor pelayanan=Nomor pelayanan

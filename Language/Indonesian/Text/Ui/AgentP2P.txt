@@ -1,0 +1,58 @@
+Promoter|Promoter
+MyPromoter|Promosi Saya
+MyAgent|bawahan saya
+MyPlayer|Lapangan pemain
+MyClub|Lapangan bawahan
+AgentRule|Aturan bawahan
+MemberInfo|Konstribusi anggota
+MemberNum|Jumlah Anggota
+TotalGongXianInfo|Data konstribusi
+RecevieRecord|riwayat terima
+PlayersNum|jumlah pemain
+RankTaxs|Peringkat konstribusi:
+Players|teman pemain
+PreRewardAward|Reward 
+Announcement|Pengumuman
+AnnouncementTip|Silakan masukkan pengumuman
+BtnEdit|Edit
+BtnCopy|Copy 
+BtnSaveQRCode|Simpan
+InviteFriends|Undang
+Icon|Avatar
+NickName|Nama
+Type|Jenis
+Status|Status
+Operate|Ambil
+Details|Detail 
+RewardType|Jenis hadiah
+Date|Tanggal
+Op|Pengoperasian
+Amount|saldo
+Reward|Jumlah komisi
+ReceiveTime|waktu ambil
+ReceiveWeekRebate|Terima rabat mingguan
+TotalGongXian|Total Kontribusi
+ReturnRate|Hadiah rabat
+PresidentNickname|Nama ketua
+RewardList|Daftar Pemasukan
+ApplyTime|Waktu Pengajuan
+PhoneNum|No. HP
+Email|Email
+Tip|Catatan: Total kontribusi harian dalam 15 hari terakhir
+QRCode|bagikan kode QR:
+TxtPlayerId| Silakan masukkan ID pemain
+BtnSearch|Cari
+BtnReceive|Ambil
+Player|Pemain
+President|Ketua
+BtnApplyAgent|Aplikasi untuk Agen 
+BtnCancelApplyAgent|Ubah
+Top100|peringkat sampai 100
+DailyReward|Rabat harian
+WeekReward|Rabat mingguan
+HourReward|Rabat waktu
+MonthReward|Rabat bulanan
+ReceiveSuccess|Berhasil terima
+RewardExpired|Hadiah kadarluwrsa
+RewardReceived|Hadiah telah diterima
+IllegalReceive|Pengguna tidak normal,tidak menemukan hadiah

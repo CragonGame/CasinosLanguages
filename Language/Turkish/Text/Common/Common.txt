@@ -1,0 +1,200 @@
+﻿InviteFriendPlay|Arkadaşlarını oynamaya davet et
+Player|Oyuncu
+All-in|Rest
+AllIn|Rest
+Bet|Bahis
+Offline|Çevrim dışı
+Cowboy|Kovboy
+Fishing|Fishing
+GFlowerDesktopH|100 kişiye kızartılmış altın çiçek
+GFlowerDesktopPrivate|Özel masaya kızartılmış altın çiçek
+GFlowerDesktopNormal|Ortak masaya kızartılmış altın çiçek
+TexasDesktopClassicPrivate|Texsas özel masa
+TexasDesktopClassic|Holdem masa
+TexasDesktopMustBet|Texsas bahis masası olmalı
+TexasDesktopMustBetPrivate|Texsas özel bahis masası olacak 
+TexasDesktopH|Texsas yüzlerce insan
+NotInDesktop|Giriş salonu
+DesktopMatch|Turnuvalar
+HighCard|Yüksek kart
+HighCard2|Yüksek kart
+Pair|per
+TwoPairs|Döper
+ThreeOfAKind|üçlü
+Straight|Kent
+Flush|Renk
+FullHouse|Full
+FourOfAKind|Kare
+StraightFlush|Sıralı renk
+RoyalFlush|Royal Floş
+FourOfAKind2|Kare
+StraightFlush2|Sıralı renk
+RoyalFlush2|Royal Floş
+UnknownLoginMethod|Bilinmeyen giriş yöntemi
+ThirdLoginFail|Üçüncü taraf girişi başarısız oldu
+NotInstallWechat|WeChat kurulu değil
+SetHeadImageFail|Fotoğraf yüklenemedi
+UploadHeadImageSuccess|Fotoğraf başarıyla yüklendi
+GetAddressFail|Teslimat adresi almada başarısız olundu
+EditAddressFail|Gönderim adresinin düzenlenmesi başarısız oldu
+ModifyNickNameSuccess|Takma ad başarıyla değiştirildi!
+ModifySignatureSuccess|İmza başarıyla değiştirildi!
+IPRefreshSuccess|IP konumu başarıyla yenilendi!
+SendGiftSuccess|Hediye başarısı
+SendGiftFail|Hediye başarısız oldu
+RechargeSuccessful|Ödeme başarılı
+NotFoundAppId|Karşılık gelen uygulama bulunamıyor veya uygulama_id'e göre uygulama_imzası yanlış
+ParamInvalid|Kanal değiştirgesi geçersiz
+MissParam|Gerekli değiştirgeler eksik
+CertificateError|Sertifika hatası
+ChannelInternalError|İç sunucu hatası
+RunTimeError|Program hatası
+UnknownError|Bilinmeyen hata
+CreateChargeReturnEmpty|Sipariş iade verileri oluşturma boş
+CreateChargeFail|Sipariş oluşturma başarısız oldu, hata kodu =
+CreateIAPChargeReturnEmpty|IAP sipariş iade veri oluşturma boş
+CreateIAPChargeFail|Bir IAP siparişi oluşturmada başarısız olundu,hata kodu =
+PayTypeNotFound|Ödeme tipi bulunamadı, Ödeme tipi =
+OrderRepeated|Sipariş tekrarlanır
+OrderAmountNotMatch|sipariş tutarı eşleşmiyor
+InvalidOrder|Geçersiz sipariş
+InvalidTicket|Geçersiz bilet
+TestEnvOrder|Deney ortamı isteği
+PayNetFail|Ödeme ağı isteği başarısız oldu
+PayCancel|You canceled the order.
+PayDelivery|Item has been paid for and is being requested for shipment.
+PayFail|Purchase failed. 
+PaySuccess|Successful purchase 
+PayConfirmChargeInfo|[color=#FFCC00]{0}[/color] tutarında ödenmemiş bir siparişiniz var. Ödemeye devam etmek istediğinizden emin misiniz?
+PayConfirmCharge|ödemeyi Onayla
+PayEnv|Satın alma hatası, lütfen cihazınızdaki Google Play hizmetlerinin kullanılabilir olduğundan emin olun!
+AddFriendSuccess|Arkadaşınızı başarıyla ekleme isteği
+AddFriendFail|Arkadaş ekleme isteği başarısız oldu
+DealAddFriendSuccess|Arkadaşlık isteğinin eklenmesini başarıyla işleme
+DealAddFriendFail|Arkadaş ekleme isteği süreci başarısız oldu
+DeleteFriendSuccess|Bir arkadaşı başarıyla silme isteği
+DeleteFriendFail|Arkadaş silme isteği başarısız oldu
+InvitingToTableInfo|{0}：{1}\nante {2}，Körler {3}/{4} Taşıma {5}/{6}\n insan sayısı：{7}/{8}
+Blinds|Körler:
+Ante|Bop:
+Carry|Taşıma
+NumberOfPeople|Insan sayısı:
+FormatPeople|({0} insan)
+FormatAnte|Bop {0} 
+FormatBlinds|Körler {0}/{1}
+PrivateTable|Özel masa 
+Diamonds| Elmaslar
+Score| Skorlar
+Chips| Çipler
+Yuan|Yuan
+MyPromotion|Yükselme
+MyPlayer|Oyuncular
+MyAgent|Temsilciler
+AgencyRule|Kural
+Agent|Temsilci
+Normal|Normal
+Freeze|Bloke etmek
+Unfreeze|Açılmak
+FormatAgentOpInfo|Geçerli üye işlemini onaylama{0}{1}({2}){3}{4}
+BecomeAnAgent|Temsilci olun
+InviteFriends|Arkadaşlarını davet et
+Edit|Düzenleme
+Confirm|Doğrulama
+CopyInviteSuccess|Davet bağlantısını başarıyla kopyala
+CowboyNotBetTip|Tatlım! Şu anki durum bahis yapamaz.
+Times| 
+FormatContinue|devam et({0})
+Fold|Pas
+Check|Gör
+CallFormat|Varım${0}
+Raise|Artır
+Blinds|Körler
+Pot|Pot
+CheckOrFold|Gör/Pas
+AutoCheck|Oto gör
+CallAny|Hepsine varım
+Call|Varım $
+NotEnoughChips|Yetersiz çip
+NotEnoughChips2|Tatlım! Oyun kurallarına göre, mevcut maksimum bahsiniz, taşıdığınız toplam fiş sayısının sadece 1 / 7'si olabilir.
+NotEnoughChipsTip|Hesap çipi bu masanın minimum çip talebinden daha azdır, ya alışveriş merkezine  git yada biraz daha çip ekle!
+LeaveTemp|Geçici olarak terk et
+ChangeChipSuccessTip1|Çip yenileme başarılı  ve bir sonraki oyunun başında geçerli olucak!
+ChangeChipSuccessTip2|Başarılı çip yenileme!
+Show|Gösteri
+MyWinChips| {0} çip kazandım
+Second|s
+Settlement|Yerleşme
+ConstructionTip|Yapım aşamasında,takipte kalın!
+Today|Bugün
+Tomorrow|Yarın
+AfterTomorrow|yarından sonra
+Free|ücretsiz
+ConfirmExitGame|Oyundan çıkmak istediğine emin misin?
+PermisionPhoto|Kamera izinleri
+PermisionWriteSD|SD kart izinlerini yaz
+AddPermisionTip|Lütfen ekle
+CancelAddPermision|İzin ayarlarını iptal edin!
+FormatPermisionTip|Tatlım!Fotoğraflar çekmek için {0}{1}{2} eklemeniz gerekir!
+FormatPermisionTip2|Tatlım! Albümü açmak için {0}{1}{2}'yi eklemeye ihtiyacın var
+OrangePlayer|WeChat kullanıcısı
+FacebookPlayer|Facebook kullanıcısı
+UploadHeadImageTip|Tatlım! Sen {0}{1}{2}'sin, avatar yüklemene gerek yok!
+FirstCharge|İlk alım
+PartnershipFraudTip|Teknik incelemeden sonra, diğer oyuncuları kandırdınız, kaydınızın başarısız olması beni çok üzüyor.Birden fazla görünüm hesap kredilerinin düşmesine neden olabilir
+NetConnectFail|İstek başarısız oldu. Lütfen geçerli ağın normal olduğunu onaylayın!
+GetOnlineRewardFail|Online ödülleri almak başarısız
+InviteSuccess|Davet başarılı
+InviteFail|Davet başarısız
+CowboySitDownTip|Tatlım!Otur ve   {0} altın bozuklukları taşı
+NotCheckSystemBankerTip|Sistem bankacı bilgileri görüntülenemiyor
+BetInfoTip|Şu anda bir bankacısınız, oyuncu havuzunda bahis oynayamazsınız
+BetInfoTip2|Tatlım! Mevcut durum bahis yapamaz.
+BetInfoTip3|Art arda üç oyunda bahis olmadığı için, bir sonraki oyun otomatik olarak koltuktan kalkacaktır
+BetInfoTip4|Bir sonraki oyun otomatik terk edecek
+ApplyUpBankerSuccess|Bir bankacı olmak için başvurun ve bankacılara katılın
+ApplyUpBankerFail|Bahisçi olmak için başvurmak başarısız oldu
+ApplyDownBankerSuccess|Başarı için başvurun
+ApplyDownBankerFail|Hata için başvurun
+ReportSuccess|Başarılı rapor
+InputNotExceedSelfChipsTip|Çip giriş sayısı taşıdığı çip sayısını geçemez.
+TodayGiftLimit|Bugünün hediye limiti
+InputGiveChipsCount|Lütfen hediye etmeniz gereken çip sayısını girin
+Unopened|Kapalı
+BaoZiFormatTm|yyyy-MM-dd hh:mm
+RedemptionVoucher|Bilet
+Send|Gönder
+TenThousand| 
+NeedScore|Gerekli puan
+Exp|Üs
+Billion|Milyar
+BeBank|Kurpiyer ol
+NotBeBank|Kurpiyeri bırak
+NetErrorTip|Ağ bağlantısı başarısız oldu, lütfen geçerli ağın normal olarak yeniden bağlanıp bağlanmadığını onaylayın?
+AddFriend|Arkadaş ekle
+RemoveFriend|Sil
+TodayLeftCount|Bugün kalan hediye kredisi {0}
+GiftBalanceMinLimit|Hesap bakiyesi {0}'den küçükse hediye edilemez!
+PaymentTip1|Lütfen ödeme için bekleyin
+PaymentTip2|Doğrulama talep ediyor, lütfen bekleyin
+PaymentTip3|Elmas gönderme, lütfen bekleyin 
+GoldPackageTitle1|Birazcık çip
+GoldPackageTitle2|Biraz çip
+GoldPackageTitle3|Biraz çip
+GoldPackageTitle4|Biraz daha çip
+GoldPackageTitle5|Küçük miktarda çip
+BillingItemGoldTitle1|Bir yığın çip
+BillingItemGoldTitle2|Bir sürü çip
+BillingItemGoldTitle3|Küçük bir çip kutusu
+BillingItemGoldTitle4|Çip kutusu
+BillingItemGoldTitle5|Büyük bir çip kutusu
+BillingItemGoldTitle6|Küçük bir çip yığını
+BillingItemDiamondTitle1|300 elmas
+BillingItemDiamondTitle2|600 elmas
+BillingItemDiamondTitle3|1280 elmas
+BillingItemDiamondTitle4|3280 elmas
+BillingItemDiamondTitle5|6480 elmas
+BillingItemDiamondTitle30|İlk ücret özel
+VirtualVoucher1|20000 telepon bill
+VirtualVoucher2|50000 telepon bill
+VirtualVoucher3|100000 telepon bill
+PhoneRechargeTip|12 saat içinde ulaşması beklenen kredilerin geri alınması için başarıyla başvuruldu!

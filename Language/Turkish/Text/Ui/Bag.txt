@@ -1,0 +1,6 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Backpack[/color]
+Btn_BuyMore|Daha fazla satın al
+Text_Consume|Tüketim malzemesi
+Text_Gift|Hediye
+Text_NoConsumeTips|Tüketim malzemesi yok
+Text_NoGiftTips|Hediye yok

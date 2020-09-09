@@ -1,0 +1,320 @@
+Horn|Küçük Hoparlörler
+ChangeNameCard|Kartı Yeniden Adlandır
+1 Star TreasureBoxGold|One star gold chest
+2 Star TreasureBoxGold|Two star gold chest
+3 Star TreasureBoxGold|Three star gold chest
+4 Star TreasureBoxGold|Four star gold chest
+5 Star TreasureBoxGold|Five star gold chest
+1 Star TreasureBoxSilver|One star silver chest
+2 Star TreasureBoxSilver|Two star silver chest
+3 Star TreasureBoxSilver|Three star silver chest
+4 Star TreasureBoxSilver|Four star silver chest
+5 Star TreasureBoxSilver|Five star silver chest
+1 Star TreasureBoxCopper|One star copper chest
+2 Star TreasureBoxCopper|Two star copper chest
+3 Star TreasureBoxCopper|Three star copper chest
+4 Star TreasureBoxCopper|Four star copper chest
+5 Star TreasureBoxCopper|Five star copper chest
+GoldPackageTitle1|360,000 çip
+GoldPackageTitle2|860,000 çip
+GoldPackageTitle3|1.8 Milyon çip
+GoldPackageTitle4|5 Milyon çip
+GoldPackageTitle5|12 Milyon çip
+GoldPackageBody1|360.000 çip almak için tıklayın
+GoldPackageBody2|860.000 çip almak için tıklayın
+GoldPackageBody3| 1.8 milyon çip almak için tıklayın 
+GoldPackageBody4|5 milyon çip almak için tıklayıns
+GoldPackageBody5|12 milyon çip almak için tıklayın
+GoodsVoucherTitle1|iPhoneX 256G kupon
+GoodsVoucherTitle2|Huawei P20Pro 64G kupon
+GoodsVoucherTitle3|iPadMini4 kupon
+GoodsVoucherTitle4|Beats Powerbeats3 kupon
+GoodsVoucherTitle5|Huawei charging kupon
+GoodsVoucherTitle6|100 Yuan Bill kartı
+GoodsVoucherTitle7|OPPO R15 128G kupon
+BillingItemDiamondTitle1|300
+BillingItemDiamondTitle2|600
+BillingItemDiamondTitle3|1280
+BillingItemDiamondTitle4|3280
+BillingItemDiamondTitle5|6480
+Water|Su
+Orange Juice|Portakal Suyu	
+Cocktail|Kokteyl
+Coffee|Kahve
+Mineral water|Maden Suyu
+Blue Cocktail|Blue Cocktail
+Cold drink|Soğuk İçecek
+Milk|Süt
+Beer|Bira
+Summer drink|Yaz İçeceği
+Ice cream|Dondurma
+Cake|Kek
+Rice|Pilav
+Hamburger|Hamburger
+Waffle|Gözleme
+Noodles|Erişte
+Apple|Elma
+Hot dog|Sosisli Sandviç
+French fries|Patates kızartması
+Doughnut|Donat
+Zebra|Zebra
+Dog|Köpek
+Monkey|Maymun
+Chicken|Tavuk
+Tiger|Kaplan
+Horse|At
+Cat|Kedi
+Cattle|Sığır
+Lion|Aslan
+Rabbit|Tavşan
+Snail|Salyangoz
+Tortoise|Kaplumbağa
+Duck|Ördek
+Sheep|Koyun
+Parrot|Papağan
+Pig|Domuz
+The bench|Tezgah
+Cup|Fincan
+Notebook computer|Dizüstü bilgisayar
+Shovel|Kürek
+Guitar|Gitar
+Roll of paper|Kağıt tomarı
+Brain|Beyin
+Mobile phone|Mobil telefon
+Book|Kitap
+Skull|Kafatası
+Pillow|Yastık
+Landline|Sabit hat
+Bag|Çanta
+Knapsack|Sırt çantası
+Shoes|Ayakkabılar
+Pink skirt|Pembe etek
+High-heeled shoes|Topuklu ayakkabılar
+Black suit|Siyah elbise
+Red dress|Kırmızı kıyafet
+Blue dress|Mavi kıyafet
+Blue bag|Mavi çanta
+Full dress|Resmi elbise
+Leather shoes|Deri ayakkabılar
+Chinese tunic suit|Çin tunik elbisesi
+Platinum ring|Platin yüzük
+White Watch|Beyaz saat
+White jade|Beyaz Yeşim Taşı
+The Stone Flower|Mücevher Çiçek
+Gemstone rings|Değerli taş yüzükleri
+Gem Necklace|Mücevher kolye
+On the ring|Yüzük üzerinde
+Pink Diamond|Pembe Elmas
+Ruby|Yakut
+Red watch|Kırmızı saat
+An crown|Bir taç
+Gold|Altın
+Golden shell|Altın kabuk
+Gold ring|Altın yüzük
+The golden bird|Altın kuş
+Blue Watch|Mavi Saat
+Blue Diamond|Mavi Elmas
+Jade|Yeşim Taşı
+Pearl Ring|İnci yüzük
+Cigar|Puro
+Smoke|Sigara
+Pipe|Pipo
+A carton of cigars|Bir Karton Puro
+A carton of cigarettes|Bir karton sigara
+A box of cigars|Bir kutu puro
+Bear|Ayı
+Dinosaur|Dinozor
+Cube|Küp
+Football|Futbol
+Yellow duck|Küçük Sarı Ördek
+LittlePig|Küçük Domuz
+Marc jacobs|Pembe Papatya
+Chinese rose|Çin Gülü
+Orange daisy|Turuncu papatya
+Poppy powder|Pembe güzellik
+Red rose|Kırmızı gül
+Rose gift box|Gül Hediye Kutusu
+Rose bunch|Demet Gül
+Carnation|Karanfil
+Camellia|Japon Gülü
+Red lips|Kırmızı dudaklar
+Kiss|Öpücük
+Red sports car|Kırmızı spor araba
+Open car|Üstü Açılabilen Araba
+White sports car|Beyaz Spor Araba
+Yellow sports car|Sarı Spor Araba
+Black motorcycle|Siyah motorsiklet
+Business Vehicle|İş aracı
+SUV|Spor Amaçlı Taşıt
+Mini|Mini
+Bicycle|Bisiklet
+Red motor|Kırmızı motor
+The Beatles|The Beatles
+Canoe|Kano
+Luxury yacht|Lüks Yat
+Yacht|Yat
+Sailboat|Yelkenli Tekne
+Red Cruise|Kırmızı Tekne
+Wooden boat|Ahşap Tekne
+The white ship|Beyaz Gemi
+Fairy tale castle|Peri Masalı Kalesi
+Villa|Villa
+Log cabin|Ahşap Kulübe
+Luxury shop|Lüks Alışveriş
+Pink Green|Pembe Yeşil
+Dream Castle|Rüya Kale
+Snowy room|Karlı Oda
+Luxury Castle|Lüks Kale
+Temple|Tapınak
+Old bell tower|Eski Çan Kulesi
+Small courtyard|Küçük Avlu
+Gemstone Bracelet|Değerli Bilezik
+Gemstone Dragonfly|Değerli Yusufçuk
+The gold watch|Altın Saat
+The golden watch|Altın Saat
+Emerald Ring|Zümrüt Yüzük
+Necklace|Kolye
+Brooch|Süs iğnesi
+Pearl|İnci
+Diamond Watch|Elmas saat
+WaterDetail|Kaynar Su
+Orange JuiceDetail|Portakal Sıuı
+CocktailDetail|Kokteyl
+CoffeeDetail|Kahve
+Mineral waterDetail|Maden suyu
+Blue CocktailDetail|Mavi kokteyl
+Cold drinkDetail|Soğuk İçecek
+MilkDetail|Süt
+BeerDetail|Bira
+Summer drinkDetail|Yaz İçeceği
+Ice creamDetail|Dondurma
+CakeDetail|Kek
+RiceDetail|Pilav
+HamburgerDetail|Hamburger
+WaffleDetail|Gözleme
+NoodlesDetail|Erişte
+AppleDetail|Elma
+Hot dogDetail|Sosisli Sandviç	
+French friesDetail|Patates Kızartması
+DoughnutDetail|Donat
+ZebraDetail|Zebra
+DogDetail|Köpek
+MonkeyDetail|Maymun
+ChickenDetail|Tavuk
+TigerDetail|Kaplan
+HorseDetail|At
+CatDetail|Kedi
+CattleDetail|Sığır
+LionDetail|Aslan
+RabbitDetail|Tavşan
+SnailDetail|Salyangoz
+TortoiseDetail|Kaplumbağa
+DuckDetail|Kaz
+SheepDetail|Koyun
+ParrotDetail|Papağan
+PigDetail|Domuz
+The benchDetail|Tezgah
+CupDetail|Fincan
+Notebook computerDetail|Dizüstü Bilgisayar
+ShovelDetail|Kürek
+GuitarDetail|Gitar
+Roll of paperDetail|Kağıt Tomarı
+BrainDetail|Brain
+Mobile phoneDetail|Mobil Telefon
+BookDetail|Kitap
+SkullDetail|Kafatası
+PillowDetail|Yastık
+LandlineDetail|Sabit Hat
+BagDetail|Çanta
+KnapsackDetail|Sırt çantası
+ShoesDetail|Ayakkabılar
+Pink skirtDetail|Pempe Etek
+High-heeled shoesDetail|Topuklu Ayakkabılar
+Black suitDetail|Siyah Elbise
+Red dressDetail|Kırmızı Kıyafet
+Blue dressDetail|Mavi Kıyafet
+Blue bagDetail|Mavi Çanta
+Full dressDetail|Resmi Elbise
+Leather shoesDetail|Deri Ayakkabılar
+Chinese tunic suitDetail|Çin Tunik Elbisesi
+Platinum ringDetail|Platin Yüzük
+White WatchDetail|Beyaz Yüzük
+White jadeDetail|Beyaz Yeşim Taşı
+The Stone FlowerDetail|Mücevher Çiçek
+Gemstone ringsDetail|Değerli Taş Yüzükleri
+Gem NecklaceDetail|Değerli Kolye
+On the ringDetail|Yüzük üzerinde
+Pink DiamondDetail|Pembe Elmas
+RubyDetail|Yakut
+Red watchDetail|Kırmızı Saat
+An crownDetail|Bir Taç
+GoldDetail|Gold
+Golden shellDetail|Altın kabuk
+Gold ringDetail|Altın Yüzük
+The golden birdDetail|Altın Saat
+Blue WatchDetail|Mavi Saat
+Blue DiamondDetail|Mavi Elmas
+JadeDetail|Yeşim taşı
+Pearl RingDetail|İnci yüzük
+DiamondsDetail|Elmaslar
+CigarDetail|Puro
+SmokeDetail|Sigara
+PipeDetail|Pipo
+A carton of cigarsDetail|Bir Karton Puro
+A carton of cigarettesDetail|Bir Karton Sigara
+A box of cigarsDetail|Bir Kutu Puro
+BearDetail|Ayı
+DinosaurDetail|Dinozor
+CubeDetail|Küp
+FootballDetail|Futbol
+Yellow duckDetail|Yeşil Ördek
+LittlePigDetail|Küçük Domuz
+Marc jacobsDetail|Pempe Papatya
+Chinese roseDetail|Çin Gülü
+Orange daisyDetail|Turuncu Papatya
+Poppy powderDetail|Pembe güzellik
+Red roseDetail|Kırmızı Gül
+Rose gift boxDetail| Hediye  Gül Kutusu
+Rose bunchDetail|Gül Demeti
+CarnationDetail|Karanfil
+CamelliaDetail|Japon gülü
+Red lipsDetail|Kırmızı dudaklar
+KissDetail|Öpücük
+Red sports carDetail|Kırmızı Spor Araba
+Open carDetail|Üstü Açılabilir Araba
+White sports carDetail|Beyaz Spor Araba
+Yellow sports carDetail|Sarı Spor Araba
+Black motorcycleDetail|Siyah Motorsiklet
+Business VehicleDetail|İs Aracı
+SUVDetail|Spor Amaçlı Taşıt
+MiniDetail|Mini
+BicycleDetail|Bisiklet
+Red motorDetail|Kırmızı Motor
+The BeatlesDetail|The Beatles
+CanoeDetail|Kano
+Luxury yachtDetail|Lüks Yat
+YachtDetail|Yat
+SailboatDetail|Yelkenli Tekne
+Red CruiseDetail|Kırmızı Tekne
+Wooden boatDetail|Ahşap Tekne
+The white shipDetail|Beyaz Gemi
+Fairy tale castleDetail|Peri Masalı Kalesi
+VillaDetail|Villa
+Log cabinDetail|Ahşap kulübe
+Luxury shopDetail|Lüks Alışveriş
+Pink GreenDetail|Pembe Yeşil
+Dream CastleDetail|Rüya Kale
+Snowy roomDetail|Karlı Oda
+Luxury CastleDetail|Lüks Kale
+TempleDetail|Sakura Kar Manzaralı Oda
+Old bell towerDetail|Eski Çan Kalesi
+Small courtyardDetail|Küçük Avlu
+Gemstone BraceletDetail|Değerli Bilezik
+Gemstone DragonflyDetail|Değerli Yusufçuk
+The gold watchDetail|Altın Saat
+The golden watchDetail|Altın Saat
+Emerald RingDetail|Zümrüt Yüzük
+NecklaceDetail|Kolye
+BroochDetail|Süs iğnesi
+PearlDetail|İnci
+Diamond WatchDetail|Elmas Saat

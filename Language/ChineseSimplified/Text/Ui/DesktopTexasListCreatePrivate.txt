@@ -1,0 +1,8 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]创建私桌[/color]
+Btn_Create|创建
+Text_SelectTable|选择桌子
+Text_SelectAnte|选择前注
+Text_SelectSeat|选择座位
+BtnSeatSix|6人桌
+BtnSeatNine|9人桌
+CreatePrivateInfo|前注 {0}，盲注 {1}/{2} 携带 {3}/{4}

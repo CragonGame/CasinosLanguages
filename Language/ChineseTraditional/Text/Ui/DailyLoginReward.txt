@@ -1,0 +1,11 @@
+Day1|第1天
+Day2|第2天
+Day3|第3天
+Day4|第4天
+Day5|第5天
+Day6|第6天
+Day7|第7天
+Text_DoubleVip|啟用VIP獎勵加倍
+Text_WeeklyReward|每週累計簽到到達指定天數，即可獲得相應獎勵
+Btn_GetDailyReward|簽到領取
+Btn_BecomeVIP|成為VIP

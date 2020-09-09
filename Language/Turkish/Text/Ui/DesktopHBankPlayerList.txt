@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Bankers[/color]
+ConditionOfBeBanker|Kasacı olma durumunda:{0},otomatik izinden {1} daha düşük
+Text_BeBank|Kasacı ol
+Text_NotBeBank|Kasacılığı bırak

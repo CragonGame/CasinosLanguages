@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Address[/color]
+NotifyTip|Ödül sonrasında sizinle iletişim kurmak için lütfen gerçek adınızı ve iletişim bilgilerinizi girdiğinizden emin olun.
+Receiver|Alıcı
+Phone|Mobil
+QQ|QQ
+Orange|WeChat
+GetAddress|Adres
+Email|Email
+Text_Save|Kaydet
+EditAddressName|[color=#42476D]Name[/color]
+EditAddressPhoneNumber|[color=#42476D]Phone number[/color]
+EditAddressQQNumber|[color=#42476D]QQ number[/color]
+EditAddressOrangeNumber|[color=#42476D]WeChat number[/color]
+EditAddress|[color=#42476D]Lütfen il, şehir, ilçe (ilçe) ve sokak numarası hakkında ayrıntılı bilgileri doldurduğunuzdan emin olun.[/color]
+EditAddressEmail|[color=#42476D]Email[/color]

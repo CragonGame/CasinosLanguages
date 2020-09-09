@@ -1,0 +1,6 @@
+NoBet|Lewati
+Text_TimeOfLastReward|Waktu undian terakhir
+Text_Time|Waktu
+Text_Reward|Bonus
+Text_NickName|Nama
+Text_LotteryTicketRule|Bantuan

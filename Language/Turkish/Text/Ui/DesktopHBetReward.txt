@@ -1,0 +1,8 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Daily Bet Reward[/color]
+BetRechCanCollectBox|ulaşmak için {0}, birikmiş ödül kutusunu toplayabilirsin {1} 
+HasBeenReceivedTreasure|Hazine sandığı alındı
+Btn_OneKeyCollection|Elde et
+Text_Reward|Ödül
+Text_Bet|Bahis
+Text_BetRewardTips|Oyuncular oyuncunun pozisyonunda toplanacak, ve ilgili hazine sandığını almak için belirli bir miktar biriktirecekler ve önceki hazine sandığının birikmiş ödülünü toplayacaklar. Birikmiş miktar ve ödüller her gün GMT+8'de sıfırlanacak . Ödül alınmazsa,oyuncu zamanında buna dikkat etmelidir.
+Text_CurrentBetTotal|Toplam bahis

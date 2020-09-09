@@ -1,0 +1,3 @@
+GetImage|上傳頭像中
+Btn_Photograph|拍照
+Btn_Photo|相簿

@@ -1,0 +1,53 @@
+AlreadyLogin|Hesabınıza başka bir yerde girildi
+ConfirmPhone|Cep telefonu numarasını onaylayın
+EnterGameFailed|Oyuna girilemedi
+EnterPhone|Lütfen telefon numarasını girin
+EnterPwdTips1|Şifrenizi giriniz Lütfen
+EnterPwdTips2|Lütfen 6 veya daha fazla bir şifre girin
+Logining|Oturum açılıyor, lütfen bekleyin
+LoginSuccessful|Giriş başarılı...
+PhoneCode|Doğrulama kodu
+GetPhoneCodeSuccess|Telefon doğrulama kodu başarıyla alındı
+Registering|Kayıt olunuyor, lütfen bekleyin
+RegisterSuccessful|Hesap kaydı başarılı
+Resend|yeniden gönder
+ResetPwding|Şifreyi yenile...
+ResetPwdSuccessful|Başarılı şifre yenileme
+SearchCountry|Lütfen ülkeyi girin
+SendCodeToPhone|Bu numaraya bir doğrulama kodu SMS'i gönderecek
+VersionInfo|Paket sürümü: {0},  Komut dosyası sürümü: {1},  Veri sürümü: {2}&{3} {4}
+OrangeLogining|WeChat girişi isteniyor...
+NotInstallWechat|WeChat kurulu değil
+Btn_Cancel|iptal
+Btn_Login1|Giriş
+Btn_LoginReturn|Dönüş
+Btn_Register|Şimdi üye Ol
+Btn_ResetPwd|Şifreyi yenile
+Image_AccountLogin|Hesap girişi
+Image_GuestLogin|Misafir girişi
+Image_WeChatLogin|
+Text_CragonAgreement|Cragon Oyun Hizmet Sözleşmesi
+Text_LastStep|Önceki
+Text_NextStep|Sonraki adım
+Text_PhoneCodeSended|Telefonunuza bir doğrulama kodu gönderildi.
+Text_ReadAndAgree|Okudum ve kabul ettim
+Text_Register|Şimdi üye Ol
+Text_Resend|Yeniden gönder
+Text_SetNewPwd|Yeni bir şifre belirleyin
+Text_TipWarn|Kötü oyuna direnmek korsan oyunu reddetmektir. Kendinizi korumaya dikkat edin. Aldatılmaktan sakının. Ölçülü oyun, iyi beyin, bağımlılık yapıcı oyun, vücuda zarar vermek, zamanı ayarla, sağlıklı yaşamın tadını çıkar.
+ServerStatus|   Server status:[color=#00ff00]Normal[/color]
+BtnUrl|İnternet sitesi
+BtnChangeLog|Güncelleme
+BtnSwitchLan|seç
+BtnChinese|Çince
+BtnEnglish|İngilizce
+BtnChineseTraditional|Çin geleneği
+Text_TxtLanguageTitle|Dil:
+ChineseSimplified|Basitleştirilmiş Çince
+ChineseTraditional|Geleneksel çince
+English|İngilizce
+Mongolian|Монгол
+Indonesian|Endonezya
+Turkish|Türk
+ServicePhoneNum|Servis telefonu:+234 8135792298
+BtnServicePhone|Servis telefonu

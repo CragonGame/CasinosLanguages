@@ -1,0 +1,5 @@
+Text_StayOB|Seyirciler
+Text_MatchShare|Paylaş
+Text_BacktoLobby|Geri
+MTTResultTip1|Yarışmayı tamamladınız, yarışma sıralamalarınız ve ödülleriniz son tarihten sonra doğrullanmış olacaktır!
+MTTResultTip2|Neredeyse ödül çemberine giriyordunuz,modunu topla ve yeniden başla!

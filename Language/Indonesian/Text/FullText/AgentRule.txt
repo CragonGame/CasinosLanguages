@@ -1,0 +1,7 @@
+﻿1. Pendapatan mingguan, UTC + 01: 00 setiap hari Senin dapat menerima penghasilan minggu lalu;
+2. Cari pemain, Kontribusi mingguan >100 juta, imbalan 25%  
+3. Cari pemain, Kontribusi mingguan >200 juta, imbalan 30%  
+4 Cari pemain, Kontribusi mingguan >400 juta, imbalan 35%  
+5. Cari pemain, Kontribusi mingguan >1M, imbalan 40%  
+6. Cari Agen. Dapatkan 10% dari pemain di bawah Agen Lv.1, 5% dari pemain di bawah Agen Lv.2, dan 1% dari pemain di bawah Agen Lv.3;
+7. Contoh: Direktur Agen & Agen Lv.1,2,3 berada di bawah Direktur Agen memiliki total 10 miliar, dan masing-masing Agen Lv.1,2,3 memiliki 10 Agen bawahan. Maka total komisi mingguan yang diterima oleh Direktur Agen adalah: 10 miliar * 40% + 10 (Agen Lv.1) * 10 miliar * 10% + 100 (Agen Lv.2) * 10 miliar * 5% + 1000 (Agen Lv.3) * 10 miliar * 1% = 164 miliar;

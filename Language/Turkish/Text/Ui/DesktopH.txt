@@ -1,0 +1,6 @@
+﻿ReadyTime|Hazır
+BetRestTime|Bahis
+BreathSpace|Mola
+SettlementTime|Yerleşme
+BeBank|Kasacı ol
+NotBeBank|Kasacılığı bırak

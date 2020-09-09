@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Review[/color]
+Dealer|Dealer
+SmallBlind|SB
+BigBlind|BB

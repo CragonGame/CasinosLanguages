@@ -1,0 +1,2 @@
+Btn_QuitGame|гарах
+Btn_Back|Арилгах

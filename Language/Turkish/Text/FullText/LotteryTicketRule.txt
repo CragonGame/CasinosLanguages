@@ -1,0 +1,7 @@
+﻿[size=27][b]Rule[/b][/size]
+	Each round has a 60 second bet time and a 10 second settlement time. The player can make a bet on the card during the countdown process or repeat the bet according to the previous round of bets. If the player loses, the amount of the bet will be lost. If the player wins, the multiple X bet marked on the award will be awarded.
+
+[size=27][b]Jackpot rules[/b][/size]
+    4 of a Kind were awarded Jackpot 5% gold coins.
+	Straight flush were awarded Jackpot 10% gold coins.
+	Royal flush were awarded 20% of Jackpot's gold coins.

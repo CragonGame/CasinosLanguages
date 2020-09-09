@@ -1,0 +1,5 @@
+Text_Return|Salon
+Text_Shop|Mağaza
+Text_Help|Yardım
+Text_CardType|El sıralamaları
+Text_Welfare|Bonus

@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Review[/color]
+Dealer|Satıcı
+SmallBlind|KK
+BigBlind|BK

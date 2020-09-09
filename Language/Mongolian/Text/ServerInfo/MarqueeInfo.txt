@@ -1,0 +1,24 @@
+﻿SysNotice|System Notice
+Fishing|Fishing
+GFlower|Golden flower table
+Texas|Beat the Bank
+NiuNiu|Hundreds of Niu Niu tables
+ZhongFB|Zhong Fa Bai
+ForestParty|Forest Party
+LotteryTicket|Lottery Ticket
+Cowboy|Cowboy
+WinBetPot0|Congratulations to {0} for winning {2} on {1}, and luck fortune!
+WinBetPot1|Congratulations to {0} for winning {2} on {1}, and making a lot of money!
+WinBetPot2|Congratulations to {0} for winning {2} on {1}, Fortune Hengtong!
+WinRewardPot|Congratulations to {0} for winning the prize pool of {2} on {1}, and heaven fortune!
+WinBetPotVIP0|Congratulations to {0}(VIP{1}) for winning {3} on {2}, and luck fortune!
+WinBetPotVIP1|Congratulations to {0}(VIP{1}) for winning {3} on {2}, and making a lot of money!
+WinBetPotVIP2|Congratulations to {0}(VIP{1}) for winning {3} on {2}, Fortune Hengtong!
+WinRewardPotVIP|Congratulations to {0}(VIP{1}) for winning the prize pool of {3} on {2}, and heaven fortune!
+MatchRewardChips|Congratulations to player {0} (Id: {1}) for getting {3} in {2} and rewarding {4} chips
+MatchRewardRedEnvelopes|Congratulations to player {0} (Id: {1}) for getting the {3} place in {2} and rewarding {4} yuan red envelope
+MatchRewardItem|Congratulations to the player {0} (Id: {1}) for getting the {3} place in {2} and got: {4}
+MatchRewardAll|Congratulations to the player {0} (Id: {1}) for getting the {3} place in {2}, rewarding {4} chips, {5} yuan red envelope, getting: {6}
+MatchRewardChipsRed|Congratulations to the player {0} (Id: {1}) for getting the {3} place in {2}, rewarding {4} chips, {5} yuan red envelope
+MatchRewardChipsItem|Congratulations to the player {0} (Id: {1}) for getting the {3} place in {2}, rewarded {4} chips, and got: {5}
+MatchRewardRedItem|Congratulations to the player {0} (Id: {1}) for getting the {3} place in {2} and rewarding the {4} yuan red envelope, getting: {5}

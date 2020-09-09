@@ -1,0 +1,6 @@
+Btn_ExitGame|Kembali
+Btn_StandUp|Berdiri
+Btn_LeaveHalfWay|Lewati
+Btn_InviteFriend|Undang
+Btn_CardType|Jenis kartu
+Text_Welfare|Hadiah

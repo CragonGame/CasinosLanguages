@@ -1,0 +1,6 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Backpack[/color]
+Btn_BuyMore|Buy More
+Text_Consume|Consumables
+Text_Gift|Gift
+Text_NoConsumeTips|No Consumables
+Text_NoGiftTips|No Gifts

@@ -1,0 +1,3 @@
+﻿1. Agen bisa mendapatkan 20% dari seluruh pemain dari hasil promosinya;
+2. Agen dapat menyesuaikan informasi pengumumannya sesuai kebutuhan, dan perlu informasi kontak agen, rekening bank dan informasi lainnya;
+3. Seluruh pemain melakukan transaksi;

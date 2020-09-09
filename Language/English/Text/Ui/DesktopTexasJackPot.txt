@@ -1,0 +1,3 @@
+﻿Text_Winner|Winner
+Text_Golds|Golds
+Text_Time|Time

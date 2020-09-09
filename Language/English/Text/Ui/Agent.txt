@@ -1,0 +1,60 @@
+﻿Promoter|Advertising
+MyPromoter|Advertising
+MyPlayers|Players
+MyAgent|Agents
+AgentRule|Rule
+MemberInfo|Member Info
+MemberNum|Member Number
+TotalGongXianInfo|Contribution Info
+RecevieRecord|Receive Records
+DirectPlayersNum|Players
+DirectAgentNum|Agents
+NotReceiveHourReward|Hour Rewards:
+NotReceiveWeekReward|Week Rewards:
+BtnReceiveHourReward|Collect
+BtnReceiveWeekReward|Collect
+ThisWeekGongXian|This Week
+DirectPlayers|Players
+1Agent|1 Level
+2Agent|2 Level
+3Agent|3 Level
+PreRewardAward|Expected rebates
+Announcement|Announcement
+BtnEdit|Edit
+BtnCopy|Copy Link
+InviteFriends|Invite Friends
+Icon|Icon
+NickName|NickName
+Type|Type
+Status|Status
+Operate|Operate
+LastWeekGongXian|Last Week
+YestodayGongXian|Yestoday
+CurrentGongXian|Current
+DirectPlayersTotalGongXian|Players
+DirectAgentTotalGongXian|1 Level
+2AgentTotalGongXian|2 Level
+3AgentTotalGongXian|3 Level
+WeekRebate|Rebate Type
+Amount|Amount
+ReceiveTime|Day
+ReceiveWeekRebate|Week
+TotalGongXian|Total
+ReturnRate|Return Rate
+PromotionPlayerNum|Amount
+DirectGongXian|Players
+2AgentGongXian|2 Level
+3AgentGongXian|3 Level
+PresidentNickname|Nickname
+DailyReward|Daily Reward
+WeekReward|Week Reward
+HourReward|Hour Reward
+MonthReward|Month Reward
+ReceiveSuccess|Receive success
+RewardExpired|Reward expired
+RewardReceived|Reward received
+IllegalReceive|Illegal operation, the reward was not found
+QRCode|QR code:
+BtnSaveQRCode|Save
+LastCollectWeekReward|Last collect time:
+LastCollectHourReward|Last collect time:

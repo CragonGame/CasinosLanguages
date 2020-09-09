@@ -1,0 +1,6 @@
+﻿New a match
+1. New match in club does not consume the room card, Players can invite friends to participate in the event for free.
+2. Players can enter the registration event through the invitation link or the competition password, and can only participate in the competition with the consent of the host.
+3. The scoreboard is used to record the situation of the game. It will not be taken out of the room or exchanged for gold coins after the game is over.
+4. When the number of participants is less than 2 at the start of the match, the match will be automatically disbanded.
+5. The match creators are fully responsible for the rules and prizes of the games they create. Panda Texas Hold'em does not assume any responsibility.

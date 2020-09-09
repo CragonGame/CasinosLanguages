@@ -1,0 +1,6 @@
+RewardType|Ödül tipi
+Date|Tarih
+Op|İşleme
+TotalGongXian|Toplam vergiler
+Reward|Ödül
+Tip|Not: Son 15 güne ait toplam günlük vergiler

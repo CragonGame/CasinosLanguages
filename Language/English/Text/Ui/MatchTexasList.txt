@@ -1,0 +1,31 @@
+﻿Free|Free
+People| 
+Today|Today
+MatchFee|Buy-in
+SixSeat|6 seats
+NineSeat|9 seats
+Second|s
+OrangeRedEnvelopes|Bonus
+Chip|Chips
+Enter|Enter
+WaitStart|[size=20][color=#4C87D9]Wait for the start[color][size]
+SignUp|Register
+CancelSignUp|Cancel
+NotOpenYet|[size=20][color=#4C87D9]Announced[color][size]
+SignUpDelay|Late reg.
+SignUpDeadLine|Reg.ends in
+BeginNow|Starts in
+Today|Today
+Tomorrow|Tomorrow
+AfterTomorrow|AfterTomorrow
+QuitMatchTip|Buy-in will be refunded. Are you sure to retire?
+SignUpTip|Do you confirm the registration competition?[size=17](consumption of{0}+{1} chips) [/size]
+AllMatch|Tournaments
+MyMatch|My Tournaments
+Text_NoMatchInfoTip1|There is no competition. Please wait for the official notice.
+Text_MatchInfomation|Game info
+Text_Reward|Reward
+Text_MatchBeginTime1|Starts Time
+Text_EntryFee1|Buy-in
+Text_NotSignUpMatchInfo|Don't register for any competition yet, go and register.
+Text_GotoSignUp|Register

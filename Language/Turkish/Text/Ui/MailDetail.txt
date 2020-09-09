@@ -1,0 +1,7 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Mail details[/color]
+GetAttachments|Edin
+Chip|Çipler
+Coin|Elmas
+Yuan|Yuan
+Confirm|Doğrula
+Text_Accessory|Ekler

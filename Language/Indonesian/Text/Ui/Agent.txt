@@ -1,0 +1,58 @@
+Promoter|Promoter
+MyPromoter|Promosi Saya
+MyPlayers|Pemain saya
+MyAgent|bawahan saya
+AgentRule|Aturan bawahan
+MemberInfo|Detail anggota
+MemberNum|jumlah anggota
+TotalGongXianInfo|Riwayat konstribusi
+RecevieRecord|riwayat terima
+DirectPlayersNum|jumlah pemain
+DirectAgentNum|jumlah bawahan
+NotReceiveHourReward|hadiah yang bisa di terima
+NotReceiveWeekReward|bisa terima hadiah mingguan
+BtnReceiveHourReward|terima hadiah
+BtnReceiveWeekReward|terima hadiah mingguan
+ThisWeekGongXian|konstribusi minggu ini
+DirectPlayers|teman pemain
+1Agent|bahawan Level 1
+2Agent|bahawan Level 2
+3Agent|bahawan Level 3
+PreRewardAward|reward
+Announcement|pengumuman
+BtnEdit|edit
+BtnCopy|copy link
+InviteFriends|Undang
+Icon|profil
+NickName|nama
+Type|tipe
+Status|status
+Operate|operasi
+LastWeekGongXian|kontribusi minggu lalu
+YestodayGongXian|kontribusi kemarin
+CurrentGongXian|kontribusi saat ini
+DirectPlayersTotalGongXian|kontribusi pemain
+DirectAgentTotalGongXian|kontribusi bawahan
+2AgentTotalGongXian|kontribusi bahwahan Level 2
+3AgentTotalGongXian|kontribusi bahwahan level 3
+WeekRebate|kembali
+Amount|saldo
+ReceiveTime|waktu ambil
+ReceiveWeekRebate|terima rabat mingguan
+TotalGongXian|total kontribusi
+ReturnRate|hadiah rabat
+PromotionPlayerNum|jumlah pengembangan
+DirectGongXian|konstribusi langsung
+2AgentGongXian|konstribusi lev 2
+3AgentGongXian|kostribusi lev 3
+PresidentNickname|nama ketua
+DailyReward|rabat harian
+WeekReward|rabat mingguan
+HourReward|rabat waktu
+MonthReward|rabat bulanan
+ReceiveSuccess|berhasil terima
+RewardExpired|hadiah kadarluwrsa
+RewardReceived|hadiah telah diterima
+IllegalReceive|pengguna tidak normal,tidak menemukan hadiah
+QRCode|bagikan kode QR:
+BtnSaveQRCode|simpan

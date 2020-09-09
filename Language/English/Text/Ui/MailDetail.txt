@@ -1,0 +1,7 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Mail details[/color]
+GetAttachments|Get
+Chip|Chips
+Coin|Diamond
+Yuan|RMB
+Confirm|Confirm
+Text_Accessory|Attachments

@@ -1,0 +1,53 @@
+AlreadyLogin|您的帐号已在别处登录
+ConfirmPhone|确认手机号码
+EnterGameFailed|进入游戏失败
+EnterPhone|请输入手机号
+EnterPwdTips1|请输入密码
+EnterPwdTips2|请输入6位及以上的密码
+Logining|正在登录中，请稍候
+LoginSuccessful|登录成功...
+PhoneCode|验证码
+GetPhoneCodeSuccess|成功获取手机验证码
+Registering|正在注册中，请稍候
+RegisterSuccessful|帐号注册成功
+Resend|重发
+ResetPwding|重置密码中...
+ResetPwdSuccessful|重置密码成功
+SearchCountry|请输入国家
+SendCodeToPhone|将发送验证码短信到这个号码
+VersionInfo|应用版本: {0},  脚本版本: {1},  数据版本: {2}&{3} {4}
+OrangeLogining|正在请求微信登录…
+NotInstallWechat|未安装微信
+Btn_Cancel|取消
+Btn_Login1|登   录
+Btn_LoginReturn|返回
+Btn_Register|立刻注册
+Btn_ResetPwd|重置密码
+Image_AccountLogin|账号登录
+Image_GuestLogin|游客登录
+Image_WeChatLogin|
+Text_CragonAgreement|螭龙游戏服务协议
+Text_LastStep|上一步
+Text_NextStep|下一步
+Text_PhoneCodeSended|验证码已发送到您的手机。
+Text_ReadAndAgree|我已经阅读过并且同意
+Text_Register|立刻注册
+Text_Resend|重发
+Text_SetNewPwd|设置新密码
+Text_TipWarn|抵制不良游戏 拒绝盗版游戏 注意保护自我 谨防上当受骗 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活
+ServerStatus|   服务器状态：[color=#00ff00]正常[/color]
+BtnUrl|官网下载
+BtnChangeLog|更新日志
+BtnSwitchLan|选择
+BtnChinese|中文
+BtnEnglish|英文
+BtnChineseTraditional|繁体中文
+Text_TxtLanguageTitle|语言：
+ChineseSimplified|简体中文
+ChineseTraditional|繁体中文
+English|英文
+Mongolian|蒙古文
+Indonesian|印尼语
+Turkish|土耳其语
+ServicePhoneNum|客服电话:+234 8135792298
+BtnServicePhone|客服电话

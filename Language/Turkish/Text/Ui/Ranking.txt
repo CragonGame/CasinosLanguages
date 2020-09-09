@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Sıralama/color]
+Text_RankChip|Çipler
+Text_RankDiamond|Elmaslar
+Text_RankingRedEnvelopes|Bonus

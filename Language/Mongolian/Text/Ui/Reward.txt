@@ -1,0 +1,13 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Bonus[/color]
+Text_OnlineReward|онлайн дахин
+Text_OnlineRewardInfo|Та тодорхой хугацаанд интернетэд орсны дараа алт авах боломжтой.
+BtnGetOnlineReward|хүлээн авах
+Text_TimedReward|цагийн урамшуулал
+Text_TimedRewardInfo|Та өдөр бүр 12:00 цагт, 18:00 цагаас 1 цаг хүртэл алт цуглуулж болно.
+BtnGetTimingReward|хүлээн авах
+Text_FirstLoginReward|өдөр тутмын нэвтрэх шагнал
+Text_FirstLoginRewardInfo|Та өдөр бүр эхний удаа нэвтэрч орохдоо бооцооны урамшууллыг авах боломжтой!
+BtnGetReward|хүлээн авах
+OnlineRewardInfo|Click to collect[color=#D9D919]{0}[/color] чип онлайн шагнал
+OnlineRewardInfo2|after[color=#CC3299]{0}[/color]can get [color=#D9D919]{1}[/color] чип онлайн шагнал
+TimedRewardInfo|өдөр бүр[color=#CC3299]12~13[/color],[color=#CC3299]18~19[/color] тус бүр авах [color=#D9D919]{0}[/color] чип цаг хязгаарлагдмал шагнал

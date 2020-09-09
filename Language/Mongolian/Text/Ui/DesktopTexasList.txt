@@ -1,0 +1,19 @@
+BtnPlayNow|Одоо эхлэх
+BtnCreatePrivate|New Table
+Text_Shield_FullTable|Hide Full
+Text_TxtBlind|Жижиг/том сохор
+Text_TxtBuyin|Min/Max Buy-in
+Text_TxtPlayer|тоглогч
+StartScratch|Жижиг ширээ
+MiddleClass|Medium Table
+TexasTycoon|Том ширээ
+FriendTable|Найзын ширээ
+白手起家|Small Table
+牛刀小试|Small Table
+越战越勇|Small Table
+展露风骚|Medium Table
+商业大亨|Medium Table
+无可比拟|Medium Table
+金融巨鳄|Big Table
+紫禁之巅|Big Table
+冠军王座|Big Table

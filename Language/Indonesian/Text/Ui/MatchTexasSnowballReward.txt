@@ -1,0 +1,6 @@
+People|orang
+Reward|Hadiah
+Text_SnowBallTips|Snowball tip tidak ada kepastian hadiah,pembagian jumlah hadiah akan diselisih dengan jumlah pemain .
+Text_PlayAndRewardNum|jumlah pemain
+Text_Rank|rangking
+Text_RewardRate|proporsi hadiah

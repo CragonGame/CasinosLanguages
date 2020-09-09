@@ -1,0 +1,2 @@
+Btn_QuitGame|Pes et
+Btn_Back|İptal et

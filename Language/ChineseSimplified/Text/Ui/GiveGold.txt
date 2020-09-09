@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]赠送筹码[/color]
+TxtTo|赠送对象:
+TxtToNumber|赠送数量:
+BtnOk|确认
+BtnDel|删

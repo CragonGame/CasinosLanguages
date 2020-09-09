@@ -1,0 +1,53 @@
+﻿AlreadyLogin|Your account has been logged in elsewhere
+ConfirmPhone|Confirm mobile number
+EnterGameFailed|Entering the game failed
+EnterPhone|Please enter phone number
+EnterPwdTips1|Please enter your password
+EnterPwdTips2|Please enter a password of 6 or more
+Logining|Signing in, please wait
+LoginSuccessful|Login successful...
+PhoneCode|Verification code
+GetPhoneCodeSuccess|Successfully get the phone verification code
+Registering|Registering, please wait
+RegisterSuccessful|Account registration is successful
+Resend|Resend
+ResetPwding|Reset password...
+ResetPwdSuccessful|Reset password successfully
+SearchCountry|Please enter the country
+SendCodeToPhone|Will send a verification code SMS to this number
+VersionInfo|Bundle version: {0},  Script version: {1},  Data version: {2}&{3} {4}
+OrangeLogining|Requesting WeChat login...
+NotInstallWechat|WeChat is not installed
+Btn_Cancel|Cancel
+Btn_Login1|Login
+Btn_LoginReturn|Return
+Btn_Register|Register now
+Btn_ResetPwd|Reset Password
+Image_AccountLogin|Account login
+Image_GuestLogin|Guest Login
+Image_WeChatLogin|
+Text_CragonAgreement|Cragon Game Service Agreement
+Text_LastStep|Previous
+Text_NextStep|Next step
+Text_PhoneCodeSended|A verification code has been sent to your phone.
+Text_ReadAndAgree|I have read and agreed
+Text_Register|Register now
+Text_Resend|Resend
+Text_SetNewPwd|Set a new password
+Text_TipWarn|Resist the bad game reject the pirated game. Pay attention to protect yourself. Beware of being deceived. Moderate game, good brain, addictive game, hurt the body, arrange time, enjoy healthy life.
+ServerStatus|   Server status:[color=#00ff00]Normal[/color]
+BtnUrl|Website
+BtnChangeLog|Update
+BtnSwitchLan|Select
+BtnChinese|Chinese
+BtnEnglish|English
+BtnChineseTraditional|ChineseTraditional
+Text_TxtLanguageTitle|Language:
+ChineseSimplified|Simplified Chinese
+ChineseTraditional|Traditional Chinese
+English|English
+Mongolian|Mongolian
+Indonesian|Indonesia
+Turkish|Turkish
+ServicePhoneNum|Service Phone:+234 8135792298
+BtnServicePhone|Service Phone

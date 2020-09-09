@@ -1,0 +1,33 @@
+AverageScore|Avg.Stack
+TotalRewardGold|Total Reward
+PlayerNumReward|Reward circle
+RaiseBlindNext|Next game will blind up
+RaiseBlindTm|Blind up
+WaitMatchBegine|Menunggu memulai permainan
+MatchBegine|Kompetisi akan segera dimulai, sistem mengalokasikan kursi pemain
+ExitMatchTip|Meninggalkan setengah permainan, sistem akan secara otomatis menjadi tuan rumah untuk Anda, Anda dapat mengklik dalam permainan saya untuk memasukkan kembali permainan. Anda yakin akan pergi?
+Btn_RebuyChip|Beli Chip
+Btn_AddonChip|Tambahkan chip
+Text_Pot:|Pot:
+Text_WaitGameBegin|Menunggu untuk memulai
+Text_ReturnGame|Lanjutkan
+Btn_Fold|Fold
+Btn_CheckOrFold|Check/Fold
+Btn_CallAny|AnyCall
+Btn_AddBet|Raise
+白手起家|Dasar
+牛刀小试|Dasar
+越战越勇|Dasar
+展露风骚|Lanjut
+商业大亨|Lanjut
+无可比拟|Lanjut
+金融巨鳄|Ahli
+紫禁之巅|Ahli
+冠军王座|Ahli
+GuessHandCardDesc1|Tangan berikutnya berisi Ace dan mendapat [color=#cccc00]6x[/color] lipat hadiah
+GuessHandCardDesc2|Jika kartu berikutnya adalah pair,Anda akan mendapatkan [color=#cccc00]15x[/color] hadiah
+GuessHandCardDesc3|Tangan berikutnya melawan A dapat [color=#cccc00]200x[/color] lipat hadiah
+GuessHandCardTip1|Taruhan gagal dan sisa chip tidak cukup untuk bermain
+GuessHandCardTip2|Selamat atas tebakan tebakan tangan! Hasilkan {0} chip
+GuessHandCardTip3|Sayang sekali tebakan Anda meleset
+Bet|Pasang

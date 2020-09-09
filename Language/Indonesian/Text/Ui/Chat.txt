@@ -1,0 +1,50 @@
+QuickChat1|破他!破他!破他!
+QuickChat2|111111
+QuickChat3|222222
+QuickChat4|333333
+QuickChat5|444444
+QuickChat6|Tidak punya Chip, tidak bisa jadi bandar
+QuickChat7|Sistem mengirimkan chips,cepat! 
+QuickChat8|Sistem tidak akan membiarkan kita menang, hati-hati!
+QuickChat9|Hati-hati, seseorang akan memenangkan semua chip !!
+QuickChat10|Istirahat, minta taruhan lebih banyak chip!
+QuickChat11|Berusaha lebih keras, Anda akan menang!
+QuickChat12| Saya beruntung, salah saya memang?
+QuickChat13|Hanya satu kali, kehilangan semua chip!
+QuickChat14|Kehilangan semua chip, yuk tidur!
+QuickChat15|Cepatlah, waktu sangat berharga!
+QuickChat16|Yuk buka  kartunya lalu naikkan!
+QuickChat17|Jagoan saya sudah gak sabar menang
+QuickChat18|Jangan sok pintar, nanti kalah
+QuickChat19|Kamu mainnya bagus sekali, apakah semua orang tahu?
+QuickChat20|Jangan ambil keputusan gegabah
+QuickChat21|Senang bisa bermain dengan Anda
+QuickChat22|Bermain jujur dan fair
+QuickChat23|Texas Hold’em ini adalah kemenangan besar
+QuickChat24|Lanjur bertarung besok hari 
+QuickChat25|Wow, kita semua dapat kartu besar
+QuickChat26|hi, saya menang lagi, terima kasih semuanya. 
+QuickChat27|Kamu actor yang sesungguhnya
+QuickChat28|Percaya keberuntungan, kenapa masih pake teknologi?
+QuickChat29|Anda sudah bertaruh, sebaiknya main sampai akhir
+QuickChat30|Anda sangat beruntung, tetapi saya memiliki teknologi yang bagus!
+QuickChat31|Jika Anda memiliki pair, Anda harus main sampai akhir!
+QuickChat32|Jangan membaca kartu saya, baca tangan saya
+QuickChat33|Saya beruntung bermain kartu, dan saya pandai menawar!
+QuickChat34|Hei, mohon saran.
+QuickChat35|Oh, I am an old cowboy
+QuickChat36|Uang untuk saya, hanyalah angka!
+QuickChat37|Apakah Anda berani bermain lagi?
+QuickChat38|Hei, teman saya selalu menang
+QuickChat39|Berjuang untuk stabilitas, langkah demi langkah untuk menang
+QuickChat40|Tahukah Anda bahwa saya dari Dubai?
+QuickChat41|Kekuatan elf membimbing saya.
+QuickChat42|Saya ingin memenangkan chip kalian semua.
+QuickChat43|Cool is an attitude.
+SendNoEmpty|Tidak bisa mengirim pesan
+Btn_Send|Kirim
+Text_QuickPhrase|Frasa cepat
+Setting|Pengaturan
+Current|Saat ini
+World|Dunia
+InputChatContent|[color=#999999]Masukkan teks obrolan[/color]

@@ -1,0 +1,28 @@
+Billing|төлбөртэй тулгуур
+Gold|алт
+Diamond|Алмаз
+GoldPackage|алт уут
+GoodsVoucher|Эд зүйлс купон
+RedEnvelopes|улаан цүнх
+GiftTmp|чимэглэл
+Drinks|ундаа
+Pets|тэжээвэр амьтан
+Food|хоол
+Goods|Бараанууд
+Clothes|хувцас
+Jewelry|Үнэт эдлэл
+Cigarette|тамхи
+Toy|тоглоом
+Flower|цэцэг
+Emoticon|нүүрний хувьрал 
+GiftNormal|Тансаг бэлэг
+Transport|Машин
+Boat|завь
+Houses|Тансаг гэр
+Luxury|Тансаг
+Consume|Consume
+GoldConsume|Чип хэрэглэх
+DiamondConsume|Алмаз хэрэглэх
+MagicExpression|Шидэт эможи
+GoldMagicExpression|Magic Emoji нь Golds ашиглан худалдан авалт хийдэг
+DiamondMagicExpression|Magic Emoji нь Diamonds ашиглан худалдан авалт хийдэг

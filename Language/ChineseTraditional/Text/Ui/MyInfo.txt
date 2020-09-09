@@ -1,0 +1,17 @@
+Unknown|未知
+Address|地址
+ReturnLogin|返回登錄
+ExitCanLogin|返回到登錄界面后，重新選擇使用手機登錄或者微信登錄
+Logouting|註銷中...
+Text_SmallGift|頭像掛件
+Text_Gift|禮物
+Text_BuyChips|充值籌碼
+Text_BuyDiamond|充值鑽石
+Text_AddFriend|查詢好友
+Text_ReturnLogin|返回登錄
+Text_StatisticalInformation|牌局統計
+Text_FinishGames|完成局數
+Text_WinGames|贏取局數
+Text_StartJoinTime|註冊時間
+Text_UploadHeadImage|上傳頭像
+IndividualSignature|請留下你的個性簽名

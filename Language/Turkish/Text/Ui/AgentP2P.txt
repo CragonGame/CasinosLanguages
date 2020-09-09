@@ -1,0 +1,56 @@
+Promoter|Destekleyici
+MyPromoter|Davet bilgileri
+MyAgent|Temsilci
+MyPlayer|Oyuncu kulübü
+MyClub|Temsilci kulübü
+AgentRule|Kurallar
+MemberInfo|Üye Vergileri
+MemberNum|Üye numarası
+TotalGongXianInfo|Vergi Listesi
+RecevieRecord|Koleksiyon kayıtları
+PlayersNum|Oyuncu Sayısı
+RankTaxs|Vergi Sıralaması:
+Players|Oyuncular
+Announcement|Duyuru
+AnnouncementTip|Lütfen duyuruyu girin
+BtnEdit|Düzenle
+BtnCopy|kopya
+BtnSaveQRCode|Kaydet
+InviteFriends|Arkadaşlarını davet et
+Icon|Simge
+NickName|Ad
+Type|Tip
+Status|Statü
+Operate|Topla
+Details|Detaylar
+RewardType|Ödül Tipi
+Date|tarih
+Op|İşletme
+Amount|Miktar
+Reward|Ödül
+ReceiveTime|Toplama zamanı
+ReceiveWeekRebate|Haftalık ödüller
+TotalGongXian|Toplam Vergiler
+ReturnRate|Dönüş Oranı
+PresidentNickname|Takma ad
+RewardList|Ödül Listesi
+ApplyTime|Başvuru zamanı
+PhoneNum|Mobil
+Email|E-mail
+Tip|Not: Son 15 gün için toplam günlük vergiler
+QRCode|Promosyon QR kodu:
+TxtPlayerId|Lütfen oyuncu kimliğini girin
+BtnSearch|Ara
+BtnReceive|Topla
+Player|Oyuncu
+President|Başkan
+BtnApplyAgent|Temsilciye başvur
+BtnCancelApplyAgent|Temsilciyi iptal et
+Top100|Top 100
+WeekReward|Haftalık ödül
+HourReward|Saatlik ödül
+MonthReward|Aylık ödül
+ReceiveSuccess|Başarılı alım
+RewardExpired|Ödülün süresi doldu
+RewardReceived|Ödül alındı
+IllegalReceive|Yasadışı operasyon, ödül bulunamadı

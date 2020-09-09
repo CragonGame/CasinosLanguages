@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]алт илгээх[/color]
+TxtTo|To
+TxtToNumber|Number
+BtnOk|Батлах
+BtnDel|Del

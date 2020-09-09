@@ -1,0 +1,7 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Detail Email[/color]
+GetAttachments|Ambil Arship
+Chip|chip
+Coin|Berlian
+Yuan|Rupiah
+Confirm|OK
+Text_Accessory|Arship

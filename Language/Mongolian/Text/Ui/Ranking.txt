@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Эрэмбэлэх[/color]
+Text_RankChip|алт
+Text_RankDiamond|алмазны
+Text_RankingRedEnvelopes|Шагнал

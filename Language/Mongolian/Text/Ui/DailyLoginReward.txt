@@ -1,0 +1,11 @@
+Day1|Өдөр 1
+Day2|Өдөр 2
+Day3|Өдөр 3
+Day4|Өдөр 4
+Day5|Өдөр 5
+Day6|Өдөр 6
+Day7|Өдөр 7
+Text_DoubleVip|VIP идэвхжүүлэх нь хоёр дахин нэмэгдэнэ
+Text_WeeklyReward|Accumulated check-ins every week to reach the specified number of days, will receive corresponding rewards
+Btn_GetDailyReward|Шагнал авах!
+Btn_BecomeVIP|VIP Тоглогч болох

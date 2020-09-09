@@ -1,0 +1,20 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Aplikasi untuk Agen[/color]
+NotifyTip|Harap isi setidaknya satu metode kontak yang valid untuk di hubungi
+Receiver|Penerima
+Phone|No. HP
+Line|Line
+WhatsApp|WhatsApp
+Remark|Komentar
+Email|Email
+BtnSave|Terapkan
+BtnEdit|Ubah aplikasi
+BtnCancel|Ubah
+Tip_Apply_Success|Permintaan berhasil
+Tip_Cancel_Success|Pembatalan berhasil
+Tip_Cancel_Fail|Pembatalan gagal
+AgentApplyName|[color=#42476D]Nama[/color]
+AgentApplyPhoneNumber|[color=#42476D]No. HP[/color]
+AgentApplyLineNumber|[color=#42476D]Line[/color]
+AgentApplyWhatsAppNumber|[color=#42476D]WhatsApp[/color]
+AgentApplyRemark|[color=#42476D]Tambahan informasi[/color]
+AgentApplyEmail|[color=#42476D]Email[/color]

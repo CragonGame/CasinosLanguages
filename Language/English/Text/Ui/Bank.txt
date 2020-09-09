@@ -1,0 +1,17 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Safe[/color]
+DepositTips|Save chips cannot be 0.
+DepositTips1|The number of chips entered exceeds the account chip.
+GetoutAmountTips|Can't take out the chip is 0~
+GetoutAmountTips1|Enter more chips than safe chips
+Btn_TakeChips|Take Chips
+Btn_SaveChips|Save Chips
+Text_SaveChips|Save Chips
+Text_TakeChips|Take Chips
+Text_YourBalance|Your balance
+Text_BankBalance|Bank balance
+Text_UpperTakeChips|Take chips max limit
+Text_LowerTakeChips|Take chips min limit
+Text_PleaseEnterTakeChipsAmount|Please enter your want chips
+Text_PleaseEnterSaveChipsAmount|Please enter your want to save
+Text_UpperSaveChips|Save chips max limit
+Text_LowerSaveChips|Save chips min limit

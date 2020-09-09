@@ -1,0 +1,17 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Kasa[/color]
+DepositTips|kaydedilen çipler 0 olamaz .
+DepositTips1|Girilen çip sayısı hesap çipini aşıyor.
+GetoutAmountTips|Kullanılamayan çip miktarı 0~
+GetoutAmountTips1|Güvenli çiplerden daha fazla çip girin
+Btn_TakeChips|çip al
+Btn_SaveChips|Çipleri kaydet
+Text_SaveChips|Çipleri kaydet
+Text_TakeChips|Çip al
+Text_YourBalance|senin bakiyen
+Text_BankBalance|banka hesap bakiyesi
+Text_UpperTakeChips|en yüksek limitte çip al
+Text_LowerTakeChips|en az limitte çip al
+Text_PleaseEnterTakeChipsAmount|istediğiniz çip miktarını girin
+Text_PleaseEnterSaveChipsAmount|Kaydetmek istediğiniz çip miktarını girin
+Text_UpperSaveChips|En yüksek limitte çipleri kaydet
+Text_LowerSaveChips|En az limitte çipleri kaydet

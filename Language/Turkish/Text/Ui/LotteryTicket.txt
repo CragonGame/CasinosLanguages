@@ -1,0 +1,6 @@
+NoBet|bahis yok
+Text_TimeOfLastReward|Son ödülün zamanı
+Text_Time|Zaman
+Text_Reward|Ödül
+Text_NickName|Takma ad
+Text_LotteryTicketRule|Kural

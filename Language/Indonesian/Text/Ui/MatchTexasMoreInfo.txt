@@ -1,0 +1,55 @@
+People| orang
+Today|hari ini
+MatchFee|uang daftar
+SixSeat|6 orang
+NineSeat|9 orang
+Second|detik
+OrangeRedEnvelopes|bonus 
+Chip|chip
+Enter|memasuki
+FreeMatch|Pertandingan Gratis
+WaitStart|[size=20][color=#4C87D9]menunggu mulai[color][size]
+SignUp|daftarkan diri
+CancelSignUp|batalkan pendaftaran
+NotOpenYet|[size=20][color=#4C87D9]sementara belum dibuka[color][size]
+SignUpDelay|telat daftar
+SignUpDeadLine|perbatasan daftar
+BeginNow|segera mulai
+Tomorrow|besok
+AfterTomorrow|Lusa
+QuitMatchTip|jika keluar dari pertandingan,maka uang pendaftraan dan uang admin akan di kembalikan ,Anda yakin untuk keluar?
+SignUpTip|Anda yakin ingin daftar perlombaan ini?[size=17](Membutuhkan {0} + {1} Koin Texas)[/size]
+RebuyTip|Can rebuy,Times: [color=#DDBB0E]{0}[/color]The blind level[color=#DDBB0E]{1}[/color]can enable[color=#DDBB0E]{2}[/color]can exchange[color=#DDBB0E]{3}[/color]chips!
+AddOnTip|Can addon,Times: [color=#DDBB0E]{0}[/color]The blind level[color=#DDBB0E]{1}[/color]can enable[color=#DDBB0E]{2}[/color]can exchange[color=#DDBB0E]{3}[/color]chips!
+SnowBallMatchReward|Nilai hadiah yang dijamin:[color=#CFB37A]{0}[/color]
+SnowBallMatchTip|[size=22][color=#CFB37A]semankin jumlah pemain,semakin banyak hadiah,dan semakin tinggi hadiah yang di dapat![/color][/size]
+Text_Summary|Ikhtisar
+Text_SaiKuang|suasana lomba
+Text_MatchRank|rangking
+Text_Blind|Blind
+Text_Reward|Hadiah
+Text_EntryFee|Uang pendaftaran:
+Text_MatchBeginTime|Waktu mulai lomba:
+Text_StopSignUpTm|Perbatasan pendaftaran:
+Text_NumberOfEntries|Jumlah pemain:
+Text_InitScore|Pengingat kartu pemula:
+Text_Rebuy|beli ulang
+Text_Addon|beli
+Text_Share|bagikan
+Text_SignUp|daftar
+Text_Rank|rangking
+Text_MasterPoint|master
+Text_RewardNote|Aturan hadiah
+Text_CurrentMatchRank|rangking saat ini
+Text_NoMatchRankTip|sementara tidak ada pembagian rangking
+Text_NumberOfEntries1|jumlah orang yang ikut dalam lomba
+Text_RewardNum|jumlah orang yang dapat hadiah
+Text_AverageChip|chip rata-rata
+Text_MatchTm|waktu yang dibutuhkan saat tanding
+Text_CurrentLevel1|level sekarang
+Text_Ante|taruhan
+Text_NextLevel|level selanjutnya
+Text_CurrentLevel|Level sekarang:
+Text_NoMatchInfoTip|sementara tidak ada tandingan
+Text_MatchLevel|Level
+Text_BlindnessTime|waktu blind

@@ -1,0 +1,33 @@
+AverageScore|Avg.Stack
+TotalRewardGold|Нийт шагнал
+PlayerNumReward|Шагналын тойрог
+RaiseBlindNext|Next game will blind up
+RaiseBlindTm|Blind up
+WaitMatchBegine|Эхлэхийг хүлээж байна
+MatchBegine|Тоглолт эхлэх гэж байна，Систем суудлаа хуваарилж байна шүү
+ExitMatchTip|The system will be automatically hosted for you when you leave the game. You can click and re-enter the competition in my competition. Is it confirmed to leave?
+Btn_RebuyChip|Rebuy Chips
+Btn_AddonChip|Add-on Chips
+Text_Pot:|Pot:
+Text_WaitGameBegin|Тоглолтыг хүлээх
+Text_ReturnGame|Тоглолтонд буцах
+Btn_Fold|Fold
+Btn_CheckOrFold|Check/Fold
+Btn_CallAny|AnyCall
+Btn_AddBet|Raise
+白手起家|Small Table
+牛刀小试|Small Table
+越战越勇|Small Table
+展露风骚|Medium Table
+商业大亨|Medium Table
+无可比拟|Medium Table
+金融巨鳄|Big Table
+紫禁之巅|Big Table
+冠军王座|Big Table
+GuessHandCardDesc1|Next hand[color=#cccc00] has A[/color]，get[color=#cccc00] 6x [/color]reward
+GuessHandCardDesc2|Next hand[color=#cccc00] is a pair[/color]，get[color=#cccc00] 15x [/color]reward
+GuessHandCardDesc3|Next hand[color=#cccc00] is AA[/color]，get[color=#cccc00] 200x [/color]reward
+GuessHandCardTip1|Guess hand-card bet fails with insufficient chips left in the account!
+GuessHandCardTip2|Congratulations on guessing your hand! get {0} rewards
+GuessHandCardTip3|Guess hand-card was missed!
+Bet|Bet

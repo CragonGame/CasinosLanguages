@@ -1,0 +1,2 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Email[/color]
+Text_YouHaveNoMail|Email kosong

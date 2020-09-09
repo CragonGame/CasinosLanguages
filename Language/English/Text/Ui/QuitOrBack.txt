@@ -1,0 +1,2 @@
+﻿Btn_QuitGame|Quit
+Btn_Back|Cancel

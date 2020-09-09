@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Pesan[/color]
+Btn_Send|Kirim
+Text_NoConversation|Tekan tombol di sudut kiri bawah untuk memilih teman untuk mengobrol
+Text_NoteDeleteRecord|Tekan lama avatar untuk menghapus catatan obrolan dengan teman ini

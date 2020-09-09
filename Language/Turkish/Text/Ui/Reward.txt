@@ -1,0 +1,13 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Bonus[/color]
+Text_OnlineReward|Çevrimiçi ödül
+Text_OnlineRewardInfo|Belirli bir süre çevrimiçi olduktan sonra biraz çip alabilirsiniz.
+BtnGetOnlineReward|Topla
+Text_TimedReward|Zaman sınırlı Bonus
+Text_TimedRewardInfo|her gün 12'de ve 18'den 1 saat kadar biraz çip toplayabilirsiniz.
+BtnGetTimingReward|Topla
+Text_FirstLoginReward|Günlük Bonus
+Text_FirstLoginRewardInfo|Her gün ilk kez giriş yaptığınızda bazı çip ödülleri alabilirsiniz!
+BtnGetReward|Topla
+OnlineRewardInfo|Click to collect[color=#D9D919]{0}[/color] chip online reward
+OnlineRewardInfo2|after[color=#CC3299]{0}[/color]can get [color=#D9D919]{1}[/color] chip online reward
+TimedRewardInfo|every day[color=#CC3299]12~13[/color],[color=#CC3299]18~19[/color] each get [color=#D9D919]{0}[/color] chip time-limited reward

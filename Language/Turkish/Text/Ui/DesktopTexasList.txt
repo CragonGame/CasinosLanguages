@@ -1,0 +1,19 @@
+BtnPlayNow|Şimdi oyna
+BtnCreatePrivate|Yeni masa
+Text_Shield_FullTable|hide full
+Text_TxtBlind|Küçük/Büyük kör
+Text_TxtBuyin|Minumum/Maksimum Destekleme
+Text_TxtPlayer|Oyuncular
+StartScratch|Küçük masa
+MiddleClass|Orta masa
+TexasTycoon|Büyük masa
+FriendTable|arkadaş masası
+白手起家|Küçük masa
+牛刀小试|Küçük masa
+越战越勇|Küçük masa
+展露风骚|Orta masa
+商业大亨|Orta masa
+无可比拟|Orta masa
+金融巨鳄|Büyük masa
+紫禁之巅|Büyük masa
+冠军王座|Büyük masa

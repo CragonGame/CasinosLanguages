@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Jumlah Anggota[/color]
+NotifyTip|Silakan masukan data diri yang benar untuk bisa kami hubungin
+Receiver|Penerima
+Phone|No. HP
+Line|Line
+WhatsApp|WhatsApp
+Remark|Komentar
+Email|Email
+Text_Save|Simpan
+AgentApplyName|[color=#42476D]Nama[/color]
+AgentApplyPhoneNumber|[color=#42476D]No. HP[/color]
+AgentApplyLineNumber|[color=#42476D]Line[/color]
+AgentApplyWhatsAppNumber|[color=#42476D]WhatsApp[/color]
+AgentApplyRemark|[color=#42476D]Tambahan informasi[/color]
+AgentApplyEmail|[color=#42476D]Email[/color]

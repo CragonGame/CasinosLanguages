@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]ayar[/color]
+Btn_SelectLanguage|Seç
+Text_About|Hakkında
+Text_Developer|Geliştirici opsiyon
+Text_SoundEffect|Ses
+Text_Music|Müzik
+Text_AutoRotation|Rotasyon
+BtnSwitchLan|Seç
+Text_TxtLanguageTitle|dil:
+ChineseSimplified|简体中文
+ChineseTraditional|繁体中文
+English|English
+Mongolian|Монгол
+Indonesian|Indonesia
+Turkish|Türk

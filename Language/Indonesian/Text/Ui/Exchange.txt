@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Tukar pulsa[/color]
+TxtToNumber|Nominal:
+TxtPhoneNumTitle|Masukin nomor handphone:
+BtnOk|Yakin
+TxtTip|perhatian penukaran ini membutuhkan 12jam 

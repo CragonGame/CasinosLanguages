@@ -1,0 +1,6 @@
+﻿NoBet|None Bet
+Text_TimeOfLastReward|Time of last reward
+Text_Time|Time
+Text_Reward|Reward
+Text_NickName|Nickname
+Text_LotteryTicketRule|Rule

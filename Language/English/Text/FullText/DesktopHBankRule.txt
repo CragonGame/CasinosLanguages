@@ -1,0 +1,17 @@
+﻿Be banker rules:
+1. Players have the opportunity to play as a banker. Be banker needs to carry the system's prescribed chips.
+2. In accordance with the order in which the players apply for banker, they will take turns to bet banker in the order. If no other players are in banker, the current banker can always, and the player can choose to leave dealer at the time of settlement.
+3. If no one applies to be banker, the system is the banker
+
+Player bet quota rules:
+1. The player's maximum bet is 1/7 of the total number of chips he carries. For example, if the player carries 1 million, he can only bet a maximum of 142,857.
+
+Winning and losing rules:
+The majority of the authorities wins, the same type of banker wins
+
+Prize pool pumping:
+1. Any participation in betting is considered to be involved in the prize pool.
+2. The banker or the player actually wins 3% of the accumulated chips.
+3. Multiple players hit the prize pool and are allocated according to the bet ratio. The more players bet, the more rewards they receive.
+4. If you hit multiple winning combination in the same round, it will be awarded to the largest card combination.
+The final interpretation of the game's rules of play belongs to Panda Texas Hold'em.

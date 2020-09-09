@@ -1,0 +1,22 @@
+﻿Exchange|Exchange
+NotEnoughVoucher|Not enough vouchers
+Times| 
+ShopVipTips|You can recharge {0} RMB to {1}, and get 1 growth value for every 1 RMB recharge
+Btn_ReceivingAddress|Address
+Btn_Upgrade|Upgrade
+Text_Chip|Chips
+Text_Consume|Consume
+Text_DoubledRemedies|Bonus multiplied
+Text_Gift1|Gift
+Text_GiftTicket|Gift ticket
+Text_GiftTicket2|Gift ticket
+Text_Level|Level
+Text_QQ|QQ
+Text_Recharge|Recharge
+Text_RequiredGrowthValue|Growth value
+Text_Score|Score
+Text_Score2|Score
+Text_TextPoint|Score:
+Text_ShopVipTips2|Get a little growth value for every 1RMB charge
+Text_Trouble|If there is any problem with the recharge process, please contact customer service WeChat:vshendezhou
+Text_VIP|VIP

@@ -1,0 +1,17 @@
+Unknown|未知
+Address|地址
+ReturnLogin|返回登录
+ExitCanLogin|返回到登录界面后，重新选择使用手机登录或者微信登录
+Logouting|注销中...
+Text_SmallGift|头像挂件
+Text_Gift|礼物
+Text_BuyChips|充值筹码
+Text_BuyDiamond|充值钻石
+Text_AddFriend|查找好友
+Text_ReturnLogin|返回登录
+Text_StatisticalInformation|牌局统计
+Text_FinishGames|完成局数:
+Text_WinGames|赢取局数:
+Text_StartJoinTime|注册时间:
+Text_UploadHeadImage|上传头像
+IndividualSignature|请留下你的个性签名

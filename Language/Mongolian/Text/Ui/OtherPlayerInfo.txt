@@ -1,0 +1,17 @@
+NotGiveSelfMagic|Өөрийгөө илбэ өгөхгүй байх
+SitTableSendMagic|Observer cannot send magical expressions
+AbuseOthers|бусдыг доромжлох
+IllegalDeal|хуурамч тоглогч
+PornPic|Порнограф зураг
+UsePlug-in|Залгагчийн хэрэглээ
+Unknown|Үл мэдэгдэх
+Address|хаяг
+Text_SmallGift|Аватар зүүлт
+Text_Gift|бэлэг
+Text_Report|Тайлан
+Text_ExchangeChip|чип солилцох
+Text_LockChat|Чат хийхийг хоригло
+Text_Stand|босох
+Text_Presented|Gift
+AddFriend|Add Friend
+RemoveFriend|Delete

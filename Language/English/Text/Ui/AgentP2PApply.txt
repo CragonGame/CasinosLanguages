@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Apply agent[/color]
+NotifyTip|Please be sure to fill in a valid contact information for contact verification
+Receiver|Name
+Phone|Mobile
+Line|Line
+WhatsApp|WhatsApp
+Remark|Remark
+Email|E-mail
+Text_Save|Save
+AgentApplyName|[color=#42476D]Name[/color]
+AgentApplyPhoneNumber|[color=#42476D]Mobile[/color]
+AgentApplyLineNumber|[color=#42476D]Line[/color]
+AgentApplyWhatsAppNumber|[color=#42476D]WhatsApp[/color]
+AgentApplyRemark|[color=#42476D]Remark[/color]
+AgentApplyEmail|[color=#42476D]E-mail[/color]

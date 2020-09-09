@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Aplikasi untuk listing[/color]
+ConditionOfBeBanker|Kondisi jadi bandar: {0}, lebih rendah dari {1} bandar secara otomatis turun
+Text_BeBank|Jadi Bandar
+Text_NotBeBank|Turun dari Bandar

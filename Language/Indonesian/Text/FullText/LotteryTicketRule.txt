@@ -1,0 +1,7 @@
+﻿[size=27][b]Peraturan Dasar[/b][/size]
+	Setiap putaran memiliki waktu pengundian 60 detik dan waktu penyelesaian 10 detik. Pemain dapat bertaruhan kartu selama proses hitung mundur atau mengulangi taruhan sesuai dengan putaran sebelumnya. Jika pemain kalah, akan kehilangan semua saldo taruhannya.Jika pemain menang, akan mendapatkan kelipatan X yang ditandai pada hadiah.
+
+[size=27][b]Peraturan Jackpot[/b][/size]
+	Coba kamu tebak 5 jenis kartu poker; jika 4 jackpot dapat 5% koin 
+	Coba kamu tebak Straight flush; jika benar dapat 10% koin 
+	Coba kamu tebak Royal Straight Flush; jika benar dapat 20% koin

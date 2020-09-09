@@ -1,0 +1,6 @@
+Buat Turnamen 
+1. Buat turnamen di lingkaran kartu tanpa menggunakan kartu kamar, pemain dapat mengundang teman untuk berpartisipasi secara gratis.
+2. Pemain dapat memasuki acara pendaftaran melalui tautan undangan atau kata sandi acara. Hanya setelah tuan rumah setuju mereka dapat berpartisipasi dalam acara tersebut.
+3. Papan skor digunakan untuk merekam situasi permainan. Setelah permainan selesai, ruangan tidak akan dibawa keluar, juga tidak akan ditukar dengan koin Texas.
+4. Pada awal kompetisi, jika ada kurang dari 2 peserta, acara akan dibubarkan secara otomatis.
+5. Pembuat acara bertanggung jawab penuh atas aturan dan hadiah dari permainan yang ia buat, dan Panda Texas Hold'em tidak bertanggung jawab

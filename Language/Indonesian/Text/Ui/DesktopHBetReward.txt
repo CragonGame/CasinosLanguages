@@ -1,0 +1,8 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Hadiah taruhan harian[/color]
+BetRechCanCollectBox|Raih {0} jumlah taruhan untuk menerima kumulatif harta karun{1} hadiah
+HasBeenReceivedTreasure|Harta karun telah diterima
+Btn_OneKeyCollection|Ambil hadiah
+Text_Reward|Bonus
+Text_Bet|Taruhan
+Text_BetRewardTips|Pemain akan mengakumulasi jumlah taruhan di kursi pemain. Jika mereka mencapai jumlah tertentu, mereka dapat menerima peti harta karun yang sesuai dan hadiah kumulatif dari peti harta karun sebelumnya. Jumlah yang terakumulasi dan hadiah akan diatur ulang setiap hari pada jam 8. Jika Anda tidak menerima hadiah, harap perhatikan untuk mengumpulkannya tepat waktu.
+Text_CurrentBetTotal|Taruhan kumulatif saat ini

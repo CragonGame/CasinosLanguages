@@ -1,0 +1,19 @@
+BtnPlayNow|Mulai Segera
+BtnCreatePrivate|Private Room
+Text_Shield_FullTable|Filter Table Penuh
+Text_TxtBlind|Buta Kecil/Besar
+Text_TxtBuyin|Min/Max Buy-in
+Text_TxtPlayer|Jumlah pemain
+StartScratch|Dasar
+MiddleClass|Lanjut
+TexasTycoon|Ahli
+FriendTable|Meja teman
+白手起家|Dasar
+牛刀小试|Dasar
+越战越勇|Dasar
+展露风骚|Lanjut
+商业大亨|Lanjut
+无可比拟|Lanjut
+金融巨鳄|Ahli
+紫禁之巅|Ahli
+冠军王座|Ahli

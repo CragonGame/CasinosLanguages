@@ -1,0 +1,17 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]保险箱[/color]
+DepositTips|存入筹码不能为0哦~
+DepositTips1|输入筹码数量超过账户筹码了
+GetoutAmountTips|取出筹码不能为0哦~
+GetoutAmountTips1|输入筹码数量超过保险箱筹码了
+Btn_TakeChips|取筹码
+Btn_SaveChips|存筹码
+Text_SaveChips|存筹码
+Text_TakeChips|取筹码
+Text_YourBalance|账户筹码
+Text_BankBalance|保险箱筹码
+Text_UpperTakeChips|取筹码上限
+Text_LowerTakeChips|取筹码下限
+Text_PleaseEnterTakeChipsAmount|请输入取出筹码数量
+Text_PleaseEnterSaveChipsAmount|请输入存入筹码数量
+Text_UpperSaveChips|存筹码上限
+Text_LowerSaveChips|存筹码下限

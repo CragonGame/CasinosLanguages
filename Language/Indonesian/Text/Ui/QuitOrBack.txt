@@ -1,0 +1,2 @@
+Btn_QuitGame|keluar
+Btn_Back|batalkan

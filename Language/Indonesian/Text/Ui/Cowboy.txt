@@ -1,0 +1,36 @@
+Text_CowboyWinBetPot|2x
+Text_DrawBetPot|19x
+Text_BullWin|2x
+Text_SameColorBetPot|2.3x
+Text_ConnCardBetPot|3.3x
+Text_PairBetPot|8.5x
+Text_SameColorConnCardBetPot|12.5x
+Text_PairABetPot|100x
+Text_HighCardBetPot|2.2x
+Text_TwoPairsBetPot|3.1x
+Text_SanTiaoBetPot|4.8x
+Text_HuluBetPot|20x
+Text_JinGangBetPot|246x
+CardOpening|Buka Kartu 
+CardSending|Mengirim Kartu 
+Text_TxtTrendLeft|W/L Tren
+Text_TxtHandRecord|Hand Record
+Text_TxtCardTypeRecord|Card Record
+Text_TxtHandCardTitle|Kemenangan terakhir
+Text_TxtReward|Total Bonus
+Text_TxtRewardTimeTitle|Waktu
+Text_TxtRankTitle|Ranking
+Text_TxtNameTitle|Nama Pemain
+Text_TxtRewardTitle|Jumlah Kemenangan
+Text_TxtTip|Petunjuk:catat jumlah dan waktu dari pasangan tangan terakhir <pair A>
+Text_TxtCardTypeTip|Catat jenis kartu terakhir sebagai <4 of a kind/Flush/Royal Flush>jumlah dan waktu
+TxtExit|Kembali
+TxtStandup|Berdiri
+TxtChangeTable|Ganti Kursi
+Text_RedWon|Merah Menang:
+Text_BlueWon|Biru Menang:
+Text_Draw|Seri:
+Text_Straight_Flush|StraightFlush:
+Text_PairA|PairA:
+Text_FullHouse|FullHouse:
+Text_KingKong|4 of a kind/StraightFlush/RoyalFlush:

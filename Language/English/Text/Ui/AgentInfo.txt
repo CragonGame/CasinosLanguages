@@ -1,0 +1,3 @@
+﻿MemberNum|Member Number
+Announcement|Announcement
+PresidentNickname|Agent Nickname

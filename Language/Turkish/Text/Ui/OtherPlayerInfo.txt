@@ -1,0 +1,17 @@
+NotGiveSelfMagic|Kendinize sihirli ifadeler gönderemezsiniz
+SitTableSendMagic|Seyirciler sihirli ifadeler gönderemezler
+AbuseOthers|başkalarına hakaret
+IllegalDeal|Aldatıcı oyuncu
+PornPic|Pornografik resim
+UsePlug-in|UsePlug-In
+Unknown|Bilinmiyor
+Address|Adres
+Text_SmallGift|Küçük Hediye
+Text_Gift|Hediye
+Text_Report|Bildiri
+Text_ExchangeChip|Çip değiş tokuşu
+Text_LockChat|sohbeti kapat
+Text_Stand|Kalk
+Text_Presented|Hediye
+AddFriend|arkadaş ekle 
+RemoveFriend|sil

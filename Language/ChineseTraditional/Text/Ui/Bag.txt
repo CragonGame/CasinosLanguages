@@ -1,0 +1,6 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]背包[/color]
+Btn_BuyMore|購買更多
+Text_Consume|消耗品
+Text_Gift|禮物
+Text_NoConsumeTips|目前沒有消耗品
+Text_NoGiftTips|目前沒有禮物

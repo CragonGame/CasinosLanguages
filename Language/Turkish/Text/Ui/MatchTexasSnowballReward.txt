@@ -1,0 +1,5 @@
+People|
+Reward|Ödül
+Text_SnowBallTips|Progresif oyun sistemi, temel ödül ile, daha fazla giriş sayısı, daha fazla toplam ödül,  katılımcıların sayısı ödül dağıtım oranı ve ödül sayısını  belirleyecek.
+Text_Rank|Sıra
+Text_RewardRate|Ödül oranı

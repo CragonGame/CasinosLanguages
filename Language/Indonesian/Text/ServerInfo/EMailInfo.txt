@@ -1,0 +1,21 @@
+﻿MatchMTTTitle|Turnamen {0} Kompensasi 
+MatchMTTContent|Turnamen yang Anda ikuti di [color = # FFCC00] {0} [/ color] dibubarkan karena kegagalan teknis, dan kompensasi akan diterima dalam lampiran!
+MatchRewardTitle|Turnamen {0} Bonus
+MatchRewardContent|Yang terhormat [color=#FFCC00]{0}(ID:{1})[/color], selamat karena mendapatkan tempat [color=#FFCC00]{3}[/color] di acara [color=#FFCC00]{2}[/color], hadiah diterima dalam lampiran!
+MatchSendBackTitle| Pengembalian {0} biaya registrasi dan pelayanan turnamen
+MatchSendBackNotEnoughPlayer|yang terhormat [color=#FFCC00]{0}(ID:{1})[/color], turnamen yang Anda ikuti di [color = # FFCC00] {2} [/ color] dibubarkan karena tidak cukupnya jumlah pendaftar, pengembalian biaya pendaftaran dan biaya layanan bisa di lihat dalam lampiran!
+MatchSendBackPlayerCancel|yang terhormat [color=#FFCC00]{0}(ID:{1})[/color],  Acara yang Anda ikuti di  [color=#FFCC00]{2}[/color]  dibatalkan oleh pembuatnya, pengembalian biaya pendaftaran dan biaya layanan bisa di lihat dalam lampiran!
+GiftTitle|Terima alat dari pemain
+GiftContent|Menerima hadiah dari pemain [color=#FFCC00]{0} {1}[/color]
+GiftGoldTitle| Terima Koin
+GiftGoldContent|Menerima [color=#FFCC00]{2}[/color] koin emas dari [color=#FFCC00] {0} (ID: {1}) [/color]
+SentGoldTitle|Berikan koin emas
+SentGoldContent|Hadiah untuk [color=#FFCC00]{0} (ID: {1}) {2}[/color] koin emas
+RedEnvelopesTitle|Dapatkan Hadiah
+RedEnvelopesContent|Yang Terhormat [color=#FFCC00] {0} (ID: {1}) [/color], selamat telah mendapatkan [color=#FFCC00] {2} [/color] RP Hadiah. Sudah di transfer secara otomatis ke akun WeChat yang terikat dengan akun ini, silakan periksa waktuny.
+GoodsVoucherTitle|Hadiah {0} voucher penukaran
+GoodsVoucherContent|Yang terhormat [color=#FFCC00]{0}(ID: {1})[/color], [color=#FFCC00]{2}[/color] penukaran Anda telah masuk antrian proses dan dalam 2 hari Akan dikirim kurir. Harap pastikan bahwa informasi yang Anda masukkan benar, dan CS Akan menghubungi Anda untuk mengonfirmasi opsional hadiah dalam 2 hari kerja.
+GoldPackageTitle|{0}
+GoldPackageContent|Yang terhormat [color=#FFCC00]{0}(ID: {1})[/color], Anda mendapatkan [color=#FFCC00]{3}[/color] dari [color=#FFCC00]{2}[/color] Koin emas
+BugFeedbackRewardTitle|Texas Holdem Bug Feedback Reward
+BugFeedbackRewardContent|Terima kasih kepada pemain [color=#FFCC00]{0}[/color] untuk masukan mengenai bug, membantu meningkatkan sistem, harap terima hadiah dalam lampiran!

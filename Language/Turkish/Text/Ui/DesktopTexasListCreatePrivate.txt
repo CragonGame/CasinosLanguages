@@ -1,0 +1,8 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]New table[/color]
+Btn_Create|Yeni masa
+Text_SelectTable|Masa seç
+Text_SelectAnte|Girişi seç
+Text_SelectSeat|Koltuk seç
+BtnSeatSix|6 koltuk
+BtnSeatNine|9 koltuk
+CreatePrivateInfo|Bop {0} körler {1}/{2} taşıma {3}/{4}

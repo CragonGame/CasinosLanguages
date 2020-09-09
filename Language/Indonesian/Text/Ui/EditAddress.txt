@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Alamat penerima[/color]
+NotifyTip|Pastikan untuk mengisi nama asli dan informasi kontak untuk dihubungi setelah menang
+Receiver|Penerima
+Phone|No. HP
+QQ|QQ
+Orange|Wechat
+GetAddress|Alamat
+Email|Email
+Text_Save|Simpan
+EditAddressName|[color=#42476D]Nama[/color]
+EditAddressPhoneNumber|[color=#42476D]No. HP[/color]
+EditAddressQQNumber|[color=#42476D]QQ ID[/color]
+EditAddressOrangeNumber|[color=#42476D]Wechat ID[/color]
+EditAddress|[color=#42476D]Pastikan untuk mengisi informasi provinsi, kota, distrik dan nomor jalan yang terperinci[/color]
+EditAddressEmail|[color=#42476D]Email[/color]

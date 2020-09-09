@@ -1,0 +1,14 @@
+RewardPot|Jackpot Bilgisi
+RewardRecord|Jackpot Kaydı
+Text_CardType|El sıralamaları
+Text_Total|Toplam
+Text_Date|Tarih
+Text_TipAllPlayer|Tüm oyuncuların karlarının küçük bir kısmı ödül havuzuna girecek
+Text_OpenType|Açma türü
+Text_RoyalFlush|Royal renk
+Text_StraightFlush|Sıralı renk
+Text_FourOfAKind|Kare
+Text_OpeningProportion|Ödül oranı
+Text_MaxMultiplier|Maksimum çoklu
+Text_Icon|Simge
+Text_Bonus|Ödül

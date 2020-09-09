@@ -1,0 +1,5 @@
+﻿Text_StayOB|Spectators
+Text_MatchShare|Share
+Text_BacktoLobby|Back
+MTTResultTip1|You have completed the competition, the competition rankings and awards will be confirmed after the deadline!
+MTTResultTip2|Almost have to enter the reward circle, pack up mood and start again!

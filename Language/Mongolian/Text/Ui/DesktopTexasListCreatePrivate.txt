@@ -1,0 +1,8 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Хувийн хүснэгт үүсгэх[/color]
+Btn_Create|Үүсгэх
+Text_SelectTable|Select table
+Text_SelectAnte|Select ante
+Text_SelectSeat|Select seat
+BtnSeatSix|6 хүний суудал
+BtnSeatNine|9 хүний суудал
+CreatePrivateInfo|Ante {0} blinds {1}/{2} carry {3}/{4}

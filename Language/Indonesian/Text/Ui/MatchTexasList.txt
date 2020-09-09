@@ -1,0 +1,31 @@
+Free|Gratis
+People| orang
+Today|hari ini
+MatchFee|uang daftar
+SixSeat|6 orang
+NineSeat|9 orang
+Second|detik
+OrangeRedEnvelopes|bonus 
+Chip|chip
+Enter|memasuki
+WaitStart|[size=20][color=#4C87D9]menunggu mulai[color][size]
+SignUp|daftarkan diri
+CancelSignUp|batalkan pendaftaran
+NotOpenYet|[size=20][color=#4C87D9]sementara belum dibuka[color][size]
+SignUpDelay|telat daftar
+SignUpDeadLine|perbatasan daftar
+BeginNow|segera mulai
+Today|hari ini
+Tomorrow|besok
+AfterTomorrow|Lusa
+QuitMatchTip|jika keluar dari pertandingan,maka uang pendaftraan dan uang admin akan di kembalikan ,Anda yakin untuk keluar?
+SignUpTip|Anda yakin ingin daftar perlombaan ini?[size=17]( Membutuhkan {0} + {1} Koin Texas)[/size]
+AllMatch|semua tandingan
+MyMatch|tandingan saya
+Text_NoMatchInfoTip1|Belum ada kompetisi, harap tunggu pemberitahuan~
+Text_MatchInfomation|informasi
+Text_Reward|hadiah
+Text_MatchBeginTime1|waktu mulai tanding
+Text_EntryFee1|uang daftar
+Text_NotSignUpMatchInfo|Anda belum memdaftarkan tandingan apapun,segera daftar!
+Text_GotoSignUp|daftar

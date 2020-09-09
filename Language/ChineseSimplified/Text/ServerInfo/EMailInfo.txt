@@ -1,0 +1,21 @@
+﻿MatchMTTTitle|赛事{0}补偿
+MatchMTTContent|你参加的赛事[color=#FFCC00]{0}[/color]因技术故障而解散， 补偿在附件中领取！
+MatchRewardTitle|赛事{0}奖励
+MatchRewardContent|亲爱的[color=#FFCC00]{0}(ID:{1})[/color]，恭喜你在赛事[color=#FFCC00]{2}[/color]获得第[color=#FFCC00]{3}[/color]名，奖励在附件中领取！
+MatchSendBackTitle|返还赛事{0}报名费和服务费
+MatchSendBackNotEnoughPlayer|亲爱的[color=#FFCC00]{0}(ID:{1})[/color]，你参加的赛事[color=#FFCC00]{2}[/color]因最终报名人数不足而解散， 返还的报名费和服务费在附件中领取！
+MatchSendBackPlayerCancel|亲爱的[color=#FFCC00]{0}(ID:{1})[/color]，你参加的赛事[color=#FFCC00]{2}[/color]被创建方取消了， 返还的报名费和服务费在附件中领取！
+GiftTitle|收到玩家赠送的道具
+GiftContent|收到玩家[color=#FFCC00]{0}[/color]赠送的道具[color=#FFCC00]{1}[/color]
+GiftGoldTitle|收到金币
+GiftGoldContent|收到[color=#FFCC00]{0}(ID:{1})[/color]赠送的[color=#FFCC00]{2}[/color]金币
+SentGoldTitle|赠送金币
+SentGoldContent|赠送给[color=#FFCC00]{0}(ID:{1})[/color][color=#FFCC00]{2}[/color]金币
+RedEnvelopesTitle|喜获红包
+RedEnvelopesContent|亲爱的[color=#FFCC00]{0}(ID:{1})[/color]，恭喜你获得[color=#FFCC00]{2}[/color]元红包。已自动发放到本账号绑定的微信上，请及时查收！
+GoodsVoucherTitle|礼品{0}兑换凭据
+GoodsVoucherContent|亲爱的[color=#FFCC00]{0}(ID:{1})[/color]，你兑换的[color=#FFCC00]{2}[/color]已经进入受理队列，将在2个工作日内发给快递小哥。请确保你在商城收货地址中填写的信息准备无误，2个工作日期间客服人员会和你联系确认礼品的可选款式。
+GoldPackageTitle|{0}
+GoldPackageContent|亲爱的[color=#FFCC00]{0}(ID:{1})[/color]，你从[color=#FFCC00]{2}[/color]获得了[color=#FFCC00]{3}[/color]金币
+BugFeedbackRewardTitle|熊猫德州扑克Bug反馈奖励
+BugFeedbackRewardContent|感谢玩家[color=#FFCC00]{0}[/color]向官方反馈Bug，帮助平台改进，奖励在附件中领取！

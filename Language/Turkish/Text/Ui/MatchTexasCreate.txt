@@ -1,0 +1,34 @@
+Text_TextMatchExpectTime|1 saat 12 dakika
+Text_MatchTimeTip|Tahmini süre
+Text_CreateMatch|Yeni Maç
+Text_TextInputMatchName|Bir maç
+Text_TextInputMatchExplain|Maç açıklaması (İsteğe bağlı)
+Text_TextInputMatchTime|Başlangıç ​​saati
+Text_MaxJoinMatch|Maksimum sayı
+Text_TextTime|Lütfen başlangıç ​​zamanını ayarlayın
+Text_QuickMatch1|Hızlı MTT
+Text_NormalMatch1|MTT
+Text_SlowMatch1|Yavaş MTT
+Text_QuickMatch2|Hızlı MTT
+Text_NormalMatch2|MTT
+Text_SlowMatch2|Yavaş MTT
+Text_BlindTable|Kör masa
+Text_StartScoreBoard|Başlangıç ​​puanı
+Text_StartBlind|Başlangıç körü
+Text_RiseBlindTime|Kör ediyor
+Text_SingleNumber|Tek numara
+Text_SixPeople1|6 koltuk
+Text_SixPeople2|6 koltuk
+Text_NinePeople1|9 koltuk
+Text_NinePeople2|9 koltuk
+Text_ChooseTimeTitle|Lütfen başlangıç ​​zamanını ayarlayın
+Text_Hour|Saat
+Text_Minute|Dakika
+Text_Day|Gün
+Text_Month|Ay
+Text_CurrentTime|Mevcut zaman:
+Text_Confirm|Doğrulama
+Text_AsOfRegLevel|Kayıt bitti
+Text_RepurchaseTimes|Yeniden alım zamanları
+Text_AllowAddPurchases|Eklentiye izin ver
+Text_AddPurchasesNumber|Çip sayısında eklenti

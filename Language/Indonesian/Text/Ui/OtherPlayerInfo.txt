@@ -1,0 +1,17 @@
+NotGiveSelfMagic|tidak bisa mengirim emoji kepada diri sendiri
+SitTableSendMagic|bystander tidak bisa memberi emoji
+AbuseOthers|marah ke yang lain
+IllegalDeal|pemain pembohong
+PornPic|avatar kuning
+UsePlug-in|gunakan plug-in
+Unknown|tidak mengetahui
+Address|alamat
+Text_SmallGift|foto profil
+Text_Gift|hadiah
+Text_Report|report
+Text_ExchangeChip|tukar chip
+Text_LockChat|blok chat
+Text_Stand|berdiri
+Text_Presented|memberi
+AddFriend|tambahkan teman
+RemoveFriend|hapus teman

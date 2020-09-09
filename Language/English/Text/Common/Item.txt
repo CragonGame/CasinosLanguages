@@ -1,0 +1,323 @@
+﻿Horn|Small Speakers
+ChangeNameCard|Rename Card
+TreasureBoxGold|Gold TreasureBox
+TreasureBoxSilver|Silver TreasureBox
+TreasureBoxCopper|Copper TreasureBox
+1 Star TreasureBoxGold|One star gold chest
+2 Star TreasureBoxGold|Two star gold chest
+3 Star TreasureBoxGold|Three star gold chest
+4 Star TreasureBoxGold|Four star gold chest
+5 Star TreasureBoxGold|Five star gold chest
+1 Star TreasureBoxSilver|One star silver chest
+2 Star TreasureBoxSilver|Two star silver chest
+3 Star TreasureBoxSilver|Three star silver chest
+4 Star TreasureBoxSilver|Four star silver chest
+5 Star TreasureBoxSilver|Five star silver chest
+1 Star TreasureBoxCopper|One star copper chest
+2 Star TreasureBoxCopper|Two star copper chest
+3 Star TreasureBoxCopper|Three star copper chest
+4 Star TreasureBoxCopper|Four star copper chest
+5 Star TreasureBoxCopper|Five star copper chest
+GoldPackageTitle1|360,000 Chips
+GoldPackageTitle2|860,000 Chips
+GoldPackageTitle3|1.8 Million Chips
+GoldPackageTitle4|5 Million Chips
+GoldPackageTitle5|12 Million Chips
+GoldPackageBody1|Click to get 360,000 chips
+GoldPackageBody2|Click to get 860,000 chips
+GoldPackageBody3|Click to get 1.8 million chips
+GoldPackageBody4|Click to get 5 million chips
+GoldPackageBody5|Click to get 12 million chips
+GoodsVoucherTitle1|iPhoneX 256G Coupon
+GoodsVoucherTitle2|Huawei P20Pro 64G Coupon
+GoodsVoucherTitle3|iPadMini4 Coupon
+GoodsVoucherTitle4|Beats Powerbeats3 Coupon
+GoodsVoucherTitle5|Huawei charging Coupon
+GoodsVoucherTitle6|100 RMB Bill Card
+GoodsVoucherTitle7|OPPO R15 128G Coupon
+BillingItemDiamondTitle1|300
+BillingItemDiamondTitle2|600
+BillingItemDiamondTitle3|1280
+BillingItemDiamondTitle4|3280
+BillingItemDiamondTitle5|6480
+Water|Water
+Orange Juice|Orange Juice
+Cocktail|Cocktail
+Coffee|Coffee
+Mineral water|Mineral Water
+Blue Cocktail|Blue Cocktail
+Cold drink|Cold Drink
+Milk|Milk
+Beer|Beer
+Summer drink|Summer Drink
+Ice cream|Ice Cream
+Cake|Cake
+Rice|Rice
+Hamburger|Hamburger
+Waffle|Waffles
+Noodles|Noodles
+Apple|Apple
+Hot dog|Hot Dog
+French fries|French Fries
+Doughnut|Doughnut
+Zebra|Zebra
+Dog|Dog
+Monkey|Monkey
+Chicken|Chicken
+Tiger|Tiger
+Horse|Horse
+Cat|Cat
+Cattle|Cattle
+Lion|Lion
+Rabbit|Rabbit
+Snail|Snail
+Tortoise|Tortoise
+Duck|Duck
+Sheep|Sheep
+Parrot|Parrot
+Pig|Pig
+The bench|The Bench
+Cup|Cup
+Notebook computer|Laptop
+Shovel|Shovel
+Guitar|Guitar
+Roll of paper|Roll Of Paper
+Brain|Brain
+Mobile phone|Mobile Phone
+Book|Book
+Skull|Skull
+Pillow|Pillow
+Landline|Landline
+Bag|Bag
+Knapsack|Backpack
+Shoes|Shoes
+Pink skirt|Pink Skirt
+High-heeled shoes|High-heeled Shoes
+Black suit|Black Suit
+Red dress|Red Dress
+Blue dress|Blue Dress
+Blue bag|Blue Bag
+Full dress|Full Dress
+Leather shoes|Leather Shoes
+Chinese tunic suit|Chinese Tunic Suit
+Platinum ring|Platinum Ring
+White Watch|White Watch
+White jade|White Jade
+The Stone Flower|Gem Flower
+Gemstone rings|Gemstone Rings
+Gem Necklace|Gem Necklace
+On the ring|On The Ring
+Pink Diamond|Pink Diamond
+Ruby|Ruby
+Red watch|Red Watch
+An crown|An Crown
+Gold|Gold
+Golden shell|Golden Shell
+Gold ring|Gold Ring
+The golden bird|The Golden Bird
+Blue Watch|Blue Watch
+Blue Diamond|Blue Diamond
+Jade|Jade
+Pearl Ring|Pearl Ring
+Cigar|Cigar
+Smoke|Smoke
+Pipe|Pipe
+A carton of cigars|A Carton Of Cigars
+A carton of cigarettes|A Carton Of Cigarettes
+A box of cigars|A Box Of Cigars
+Bear|Bear
+Dinosaur|Dinosaur
+Cube|Cube
+Football|Football
+Yellow duck|Little yellow duck
+LittlePig|LittlePig
+Marc jacobs|Pink Daisy
+Chinese rose|Chinese Rose
+Orange daisy|Orange Daisy
+Poppy powder|Pink Beauty
+Red rose|Red Rose
+Rose gift box|Rose Gift Box
+Rose bunch|Rose Bunch
+Carnation|Carnation
+Camellia|Camellia
+Red lips|Red Lips
+Kiss|Kiss
+Red sports car|Red Sports Car
+Open car|Convertible Car
+White sports car|White Sports Car
+Yellow sports car|Yellow Sports Car
+Black motorcycle|Black Motorcycle
+Business Vehicle|Business Vehicle
+SUV|SUV
+Mini|Mini
+Bicycle|Bicycle
+Red motor|Red Motor
+The Beatles|The Beatles
+Canoe|Canoe
+Luxury yacht|Luxury Yacht
+Yacht|Yacht
+Sailboat|Sailboat
+Red Cruise|Red Cruise
+Wooden boat|Wooden Boat
+The white ship|The White Ship
+Fairy tale castle|Fairytale Castle
+Villa|Villa
+Log cabin|Log Cabin
+Luxury shop|Luxury Shop
+Pink Green|Pink Green
+Dream Castle|Dream Castle
+Snowy room|Snowy Room
+Luxury Castle|Luxury Castle
+Temple|Temple
+Old bell tower|Old Bell Tower
+Small courtyard|Small Courtyard
+Gemstone Bracelet|Gemstone Bracelet
+Gemstone Dragonfly|Gemstone Dragonfly
+The gold watch|The Gold Watch
+The golden watch|The Golden Watch
+Emerald Ring|Emerald Ring
+Necklace|Necklace
+Brooch|Brooch
+Pearl|Pearl
+Diamond Watch|Diamond Watch
+WaterDetail|Boiling Water
+Orange JuiceDetail|Orange Juice
+CocktailDetail|Cocktail
+CoffeeDetail|Coffee
+Mineral waterDetail|Mineral Water
+Blue CocktailDetail|Blue Cocktail
+Cold drinkDetail|Cold Drink
+MilkDetail|Milk
+BeerDetail|Beer
+Summer drinkDetail|Summer Drink
+Ice creamDetail|Ice Cream
+CakeDetail|Cake
+RiceDetail|Rice
+HamburgerDetail|Hamburger
+WaffleDetail|Waffles
+NoodlesDetail|Noodles
+AppleDetail|Apple
+Hot dogDetail|Hot Dog
+French friesDetail|French Fries
+DoughnutDetail|Doughnut
+ZebraDetail|Zebra
+DogDetail|Dog
+MonkeyDetail|Monkey
+ChickenDetail|Chicken
+TigerDetail|Tiger
+HorseDetail|Horse
+CatDetail|Cat
+CattleDetail|Cattle
+LionDetail|Lion
+RabbitDetail|Rabbit
+SnailDetail|Snail
+TortoiseDetail|Tortoise
+DuckDetail|Goose
+SheepDetail|Sheep
+ParrotDetail|Parrot
+PigDetail|Pig
+The benchDetail|The Bench
+CupDetail|Cup
+Notebook computerDetail|Laptop
+ShovelDetail|Shovel
+GuitarDetail|Guitar
+Roll of paperDetail|Roll Of Paper
+BrainDetail|Brain
+Mobile phoneDetail|Mobile Phone
+BookDetail|Book
+SkullDetail|Skull
+PillowDetail|Pillow
+LandlineDetail|Landline
+BagDetail|Bag
+KnapsackDetail|Knapsack
+ShoesDetail|Shoes
+Pink skirtDetail|Pink Skirt
+High-heeled shoesDetail|High-heeled shoes
+Black suitDetail|Black Suit
+Red dressDetail|Red Dress
+Blue dressDetail|Blue Dress
+Blue bagDetail|Blue Bag
+Full dressDetail|Full Dress
+Leather shoesDetail|Leather Shoes
+Chinese tunic suitDetail|Chinese Tunic Suit
+Platinum ringDetail|Platinum Ring
+White WatchDetail|White Watch
+White jadeDetail|White Jade
+The Stone FlowerDetail|Gem Flower
+Gemstone ringsDetail|Gemstone Rings
+Gem NecklaceDetail|Gem Necklace
+On the ringDetail|On The Ring
+Pink DiamondDetail|Pink Diamond
+RubyDetail|Ruby
+Red watchDetail|Red Watch
+An crownDetail|An Crown
+GoldDetail|Gold
+Golden shellDetail|Golden Shell
+Gold ringDetail|Gold Ring
+The golden birdDetail|The Golden Bird
+Blue WatchDetail|Blue Watch
+Blue DiamondDetail|Blue Diamond
+JadeDetail|Jade
+Pearl RingDetail|Pearl Ring
+DiamondsDetail|Diamonds
+CigarDetail|Cigar
+SmokeDetail|Smoke
+PipeDetail|Pipe
+A carton of cigarsDetail|A Carton Of Cigars
+A carton of cigarettesDetail|A Carton Of Cigarettes
+A box of cigarsDetail|A Box Of Cigars
+BearDetail|Bear
+DinosaurDetail|Dinosaur
+CubeDetail|Cube
+FootballDetail|Football
+Yellow duckDetail|Yellow Duck
+LittlePigDetail|LittlePig
+Marc jacobsDetail|Pink Daisy
+Chinese roseDetail|Chinese Rose
+Orange daisyDetail|Orange Daisy
+Poppy powderDetail|Pink Beauty
+Red roseDetail|Red Rose
+Rose gift boxDetail|Rose Gift Box
+Rose bunchDetail|Rose Bunch
+CarnationDetail|Carnation
+CamelliaDetail|Camellia
+Red lipsDetail|Red Lips
+KissDetail|Kiss
+Red sports carDetail|Red Sports Car
+Open carDetail|Convertible Car
+White sports carDetail|White Sports Car
+Yellow sports carDetail|Yellow Sports Car
+Black motorcycleDetail|Black Motorcycle
+Business VehicleDetail|Business Vehicle
+SUVDetail|SUV
+MiniDetail|Mini
+BicycleDetail|Bicycle
+Red motorDetail|Red motor
+The BeatlesDetail|The Beatles
+CanoeDetail|Canoe
+Luxury yachtDetail|Luxury Yacht
+YachtDetail|Yacht
+SailboatDetail|Sailboat
+Red CruiseDetail|Red Cruise
+Wooden boatDetail|Wooden Boat
+The white shipDetail|The White Ship
+Fairy tale castleDetail|Fairytale Castle
+VillaDetail|Villa
+Log cabinDetail|Log Cabin
+Luxury shopDetail|Luxury Shop
+Pink GreenDetail|Pink Green
+Dream CastleDetail|Dream Castle
+Snowy roomDetail|Snowy Room
+Luxury CastleDetail|Luxury Castle
+TempleDetail|Sakura Snow View Room
+Old bell towerDetail|Old Bell Tower
+Small courtyardDetail|Small Courtyard
+Gemstone BraceletDetail|Gemstone Bracelet
+Gemstone DragonflyDetail|Gemstone Dragonfly
+The gold watchDetail|The Gold Watch
+The golden watchDetail|The Golden Watch
+Emerald RingDetail|Emerald Ring
+NecklaceDetail|Necklace
+BroochDetail|Brooch
+PearlDetail|Pearl
+Diamond WatchDetail|Diamond Watch

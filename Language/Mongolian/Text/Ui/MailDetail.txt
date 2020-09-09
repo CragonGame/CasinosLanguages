@@ -1,0 +1,7 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Шуудангийн мэдээлэл[/color]
+GetAttachments|Хавсралтыг ав
+Chip|алт
+Coin|Зоос
+Yuan|юан
+Confirm|зөвшөөрөх
+Text_Accessory|Хавсралт

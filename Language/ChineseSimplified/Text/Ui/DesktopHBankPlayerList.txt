@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]申请上庄列表[/color]
+ConditionOfBeBanker|上庄条件:{0},低于{1}自动下庄
+Text_BeBank|上庄
+Text_NotBeBank|下庄

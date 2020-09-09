@@ -1,0 +1,2 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Шуудангийн хайрцаг[/color]
+Text_YouHaveNoMail|Таньд эмайл алга байна.

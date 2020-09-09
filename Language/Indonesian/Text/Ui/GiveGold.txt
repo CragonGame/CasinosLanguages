@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Hadiah Chips[/color]
+TxtTo|Beri Hadiah kepada:
+TxtToNumber|Jumlah Hadiah:
+BtnOk|OK
+BtnDel|Hapus 

@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Pengaturan[/color]
+Btn_SelectLanguage|Pilih bahasa
+Text_About|Tentang
+Text_Developer|Pilihan devloper
+Text_SoundEffect|Suara
+Text_Music|Musik
+Text_AutoRotation|Rotasi layar
+BtnSwitchLan|Pilih
+Text_TxtLanguageTitle|Bahasa:
+ChineseSimplified|简体中文
+ChineseTraditional|繁体中文
+English|English
+Mongolian|Монгол
+Indonesian|Indonesia
+Turkish|Türk

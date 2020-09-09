@@ -1,0 +1,6 @@
+﻿ReadyTime|Ready
+BetRestTime|Bet
+BreathSpace|Breathing
+SettlementTime|Settling
+BeBank|Be a Banker
+NotBeBank|Leave Banker

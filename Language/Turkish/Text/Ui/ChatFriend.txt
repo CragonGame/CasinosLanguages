@@ -1,0 +1,4 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Message[/color]
+Btn_Send|Send
+Text_NoConversation|Press the bottom left button to select a friend chat
+Text_NoteDeleteRecord|Note: long press the head to delete the record

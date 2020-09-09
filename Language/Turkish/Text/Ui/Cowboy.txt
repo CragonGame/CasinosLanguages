@@ -1,0 +1,36 @@
+Text_CowboyWinBetPot|2x
+Text_DrawBetPot|19x
+Text_BullWin|2x
+Text_SameColorBetPot|2.3x
+Text_ConnCardBetPot|3.3x
+Text_PairBetPot|8.5x
+Text_SameColorConnCardBetPot|12.5x
+Text_PairABetPot|100x
+Text_HighCardBetPot|2.2x
+Text_TwoPairsBetPot|3.1x
+Text_SanTiaoBetPot|4.8x
+Text_HuluBetPot|20x
+Text_JinGangBetPot|246x
+CardOpening|açılış
+CardSending|Poker gönderme 
+Text_TxtTrendLeft|Kazanma/Kaybetme indeksi
+Text_TxtHandRecord|El Kaydı
+Text_TxtCardTypeRecord|Kart Kaydı
+Text_TxtHandCardTitle|Son Kazanan Eller
+Text_TxtReward|Toplam Bonus
+Text_TxtRewardTimeTitle|Tarih
+Text_TxtRankTitle|Sıralama
+Text_TxtNameTitle|Oyuncu ismi
+Text_TxtRewardTitle|Kazanma miktarı
+Text_TxtTip|İpucu: Tutarı ve son el kaydını kaydedin  çift  <Çift A> için
+Text_TxtCardTypeTip|İpucu: Tutarı ve son el kaydını kaydedin <Kare/Sıralı Renk/Royal renk> için
+TxtExit|çıkış
+TxtStandup|Masadan kalk
+TxtChangeTable|masa değiş
+Text_RedWon|Kırmızı Kazandı:
+Text_BlueWon|Mavi Kazandı:
+Text_Draw|Berabere:
+Text_Straight_Flush|Sıralı floş:
+Text_PairA|ÇiftA:
+Text_FullHouse|Full:
+Text_KingKong|Kare/Sıralı renk/Royal renk

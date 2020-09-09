@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]申请代理[/color]
+NotifyTip|请务必填写有效联系方式,以便联系核实
+Receiver|申 请 人
+Phone|手机号码
+Line|Line
+WhatsApp|WhatsApp
+Remark|备注
+Email|电子邮箱
+Text_Save|保存
+AgentApplyName|[color=#42476D]姓名[/color]
+AgentApplyPhoneNumber|[color=#42476D]手机号码[/color]
+AgentApplyLineNumber|[color=#42476D]Line[/color]
+AgentApplyWhatsAppNumber|[color=#42476D]WhatsApp[/color]
+AgentApplyRemark|[color=#42476D]备注额外信息[/color]
+AgentApplyEmail|[color=#42476D]邮箱地址[/color]

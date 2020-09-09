@@ -1,0 +1,320 @@
+Horn|Speaker kecil
+ChangeNameCard|kartu ubah nama
+1 Star TreasureBoxGold|One star gold chest
+2 Star TreasureBoxGold|Two star gold chest
+3 Star TreasureBoxGold|Three star gold chest
+4 Star TreasureBoxGold|Four star gold chest
+5 Star TreasureBoxGold|Five star gold chest
+1 Star TreasureBoxSilver|One star silver chest
+2 Star TreasureBoxSilver|Two star silver chest
+3 Star TreasureBoxSilver|Three star silver chest
+4 Star TreasureBoxSilver|Four star silver chest
+5 Star TreasureBoxSilver|Five star silver chest
+1 Star TreasureBoxCopper|One star copper chest
+2 Star TreasureBoxCopper|Two star copper chest
+3 Star TreasureBoxCopper|Three star copper chest
+4 Star TreasureBoxCopper|Four star copper chest
+5 Star TreasureBoxCopper|Five star copper chest
+GoldPackageTitle1|360 ribu kantong chip
+GoldPackageTitle2|860 ribu kantong chip
+GoldPackageTitle3|1,8 juta kantong chip
+GoldPackageTitle4|5,0 juta kantong chip
+GoldPackageTitle5|12,0 juta kantong chip
+GoldPackageBody1|Klik untuk mendapatkan 360 ribu kantong chip
+GoldPackageBody2|Klik untuk mendapatkan 860 ribu kantong chip
+GoldPackageBody3|Klik untuk mendapatkan 1,8 juta kantong chip
+GoldPackageBody4|Klik untuk mendapatkan 5,0 juta kantong chip
+GoldPackageBody5|Klik untuk mendapatkan 12,0 juta kantong chip
+GoodsVoucherTitle1|Kupon iPhoneX 256G
+GoodsVoucherTitle2|Kupon Huawei P20Pro 64G
+GoodsVoucherTitle3|kupon iPadMini4
+GoodsVoucherTitle4|Kupon Beats Powerbeats3
+GoodsVoucherTitle5|Voucher pengisian Huawei
+GoodsVoucherTitle6|Kartu kredit 100 yuan
+GoodsVoucherTitle7|Kupon OPPO R15 128G
+BillingItemDiamondTitle1|3000 diamond
+BillingItemDiamondTitle2|6000 diamond
+BillingItemDiamondTitle3|12800 diamond
+BillingItemDiamondTitle4|32800 diamond
+BillingItemDiamondTitle5|64800 diamond
+Water|Air
+Orange Juice|Jus Jeruk
+Cocktail|Cocktail
+Coffee|Kopi
+Mineral water|Air
+Blue Cocktail|Blue Cocktail
+Cold drink|Minuman Dingin
+Milk|Susu
+Beer|Bir
+Summer drink|Summer drink
+Ice cream|Ice cream
+Cake|Kue
+Rice|Nasi
+Hamburger|Burger
+Waffle|Waffle
+Noodles|Mie
+Apple|Apel
+Hot dog|Hot dog
+French fries|Kentang goreng
+Doughnut|Donat
+Zebra|Zebra
+Dog|Anjing
+Monkey|Monyet
+Chicken|Ayam
+Tiger|Macan
+Horse|Kuda 
+Cat|Kucing
+Cattle|Sapi
+Lion|Singa
+Rabbit|Kelinci 
+Snail|Siput
+Tortoise|Kura Kura
+Duck|Bebek
+Sheep|Domba
+Parrot|Parrot
+Pig|babi
+The bench|kursi panjang
+Cup|gelas
+Notebook computer|laptop
+Shovel|Cangkul
+Guitar|Gitar
+Roll of paper|Gulungan kertas
+Brain|Brain
+Mobile phone|No.HP
+Book|Buku
+Skull|Skull
+Pillow|Bantal
+Landline|Landline
+Bag|Tas
+Knapsack|Knapsack
+Shoes|Sepatu
+Pink skirt|Rok Pink
+High-heeled shoes|Sepatu Hak tinggi
+Black suit|Black suit
+Red dress|Red dress
+Blue dress|Blue dress
+Blue bag|Blue bag
+Full dress|Full dress
+Leather shoes|Sepatu Kulit
+Chinese tunic suit|Chinese tunic suit
+Platinum ring|Platinum ring
+White Watch|White Watch
+White jade|White jade
+The Stone Flower|The Stone Flower
+Gemstone rings|Gemstone rings
+Gem Necklace|Gem Necklace
+On the ring|On the ring
+Pink Diamond|Pink Diamond
+Ruby|Ruby
+Red watch|Jam Merah
+An crown|Mahkota
+Gold|Emas
+Golden shell|Golden shell
+Gold ring|Cincin Emas
+The golden bird|The golden bird
+Blue Watch|Blue Watch|
+Blue Diamond|Diamon Biru
+Jade|Giok
+Pearl Ring|Cincin 
+Cigar|Rokok
+Smoke|Merokok
+Pipe|Cerutu 
+A carton of cigars|rokok
+A carton of cigarettes|1 karton rokok
+A box of cigars|1 Kotak rokok
+Bear|Beruang
+Dinosaur|Dinosaurus
+Cube|Cube|
+Football|Bola
+Yellow duck|Bebek kuning
+LittlePig|Babi Kecil
+Marc jacobs|Marc jacobs
+Chinese rose|Mawar pink
+Orange daisy|Daisy orange
+Poppy powder|Poppy powder
+Red rose|Red rose
+Rose gift box|Rose gift box
+Rose bunch|Rose bunch
+Carnation|Carnation
+Camellia|Camellia
+Red lips|Bibir merah
+Kiss|Kiss
+Red sports car|Mobil Balap Merah
+Open car|Open car
+White sports car|White sports car
+Yellow sports car|Yellow sports car
+Black motorcycle|Motor Hitam 
+Business Vehicle|Kendaraan Mewah
+SUV|SUV
+Mini|Mini
+Bicycle|Sepeda
+Red motor|Motor Merah
+The Beatles|The Beatles 
+Canoe|Kanoe
+Luxury yacht|Pesiar Mewah
+Yacht|Pesiar 
+Sailboat|Perahu Laut
+Red Cruise|Perahu Merah
+Wooden boat|Perahu Kayu
+The white ship|Perahu Putih
+Fairy tale castle|Kastel Dongen 
+Villa|Vula 
+Log cabin|Kamar Kabin
+Luxury shop|Belanja Mewah
+Pink Green|Pink Hijau 
+Dream Castle|Kastel Dream 
+Snowy room|Kamar Snow
+Luxury Castle|Kastel Mewah
+Temple|Kuil
+Old bell tower|Tower Bell
+Small courtyard|Halaman kecil 
+Gemstone Bracelet|cincin permata
+Gemstone Dragonfly|permata capung
+The gold watch|jam emas
+The golden watch|emas
+Emerald Ring|cincin permata hijau
+Necklace|kalung
+Brooch|bros
+Pearl|mutiara
+Diamond Watch|jam berlian
+WaterDetail|air putih
+Orange JuiceDetail|orange juice
+CocktailDetail|cocktail
+CoffeeDetail|kopi
+Mineral waterDetail|air mineral
+Blue CocktailDetail|cocktail biru
+Cold drinkDetail|minuman dingin
+MilkDetail|susu
+BeerDetail|bir
+Summer drinkDetail|minuman dimusim panas
+Ice creamDetail|es krim
+CakeDetail|kue
+RiceDetail|nasi
+HamburgerDetail|burger
+WaffleDetail|waffel
+NoodlesDetail|mie
+AppleDetail|apel
+Hot dogDetail|hotdog
+French friesDetail|kentang goreng
+DoughnutDetail|donat
+ZebraDetail|zebra
+DogDetail|anjing
+MonkeyDetail|monyet
+ChickenDetail|ayam
+TigerDetail|harimau
+HorseDetail|kuda
+CatDetail|kucing
+CattleDetail|sapi
+LionDetail|singa
+RabbitDetail|kelinci
+SnailDetail|keong
+TortoiseDetail|kura-kura
+DuckDetail|angsa
+SheepDetail|kambing
+ParrotDetail|parrot
+PigDetail|babi
+The benchDetail|bangku
+CupDetail|gelas
+Notebook computerDetail|laptop
+ShovelDetail|sekop
+GuitarDetail|gitar
+Roll of paperDetail|kertas gulung
+BrainDetail|otak
+Mobile phoneDetail|handphone
+BookDetail|buku
+SkullDetail|tulang
+PillowDetail|bantal
+LandlineDetail|telepon rumah
+BagDetail|tas
+KnapsackDetail|tas belakang
+ShoesDetail|sendal kain
+Pink skirtDetail|rok pink
+High-heeled shoesDetail|sepatu hak tinggi
+Black suitDetail|jas hitam
+Red dressDetail|rok merah
+Blue dressDetail|rok biru
+Blue bagDetail|tas biru
+Full dressDetail|dress
+Leather shoesDetail|sepatu kulit
+Chinese tunic suitDetail|setelan tunik china
+Platinum ringDetail|cincin platinum
+White WatchDetail|jam putih
+White jadeDetail|jade putih
+The Stone FlowerDetail|Bungan permata
+Gemstone ringsDetail|cincin permata
+Gem NecklaceDetail|kalung permata
+On the ringDetail|cincin
+Pink DiamondDetail|berlian pink
+RubyDetail|permata merah
+Red watchDetail|jam merah
+An crownDetail|mahkota
+GoldDetail|emas
+Golden shellDetail|kulit emas
+Gold ringDetail|cincin emas
+The golden birdDetail|burung emas
+Blue WatchDetail|jam tangan biru
+Blue DiamondDetail|berlian biru
+JadeDetail|jade
+Pearl RingDetail|cincin mutiara
+DiamondsDetail|berlian
+CigarDetail|cerutu
+SmokeDetail|rokok
+PipeDetail|pipa
+A carton of cigarsDetail|satu bungkus cerutu
+A carton of cigarettesDetail|satu bungkus rokok
+A box of cigarsDetail|satu karton cerutu
+BearDetail|boneka bear
+DinosaurDetail|dinosaurus
+CubeDetail|kubus rubik
+FootballDetail|sepak bola
+Yellow duckDetail|bebek kecil
+LittlePigDetail|piggy kecil
+Marc jacobsDetail|pink daisy
+Chinese roseDetail|mawar pink
+Orange daisyDetail|daisy orange
+Poppy powderDetail|bubuk poppy
+Red roseDetail|mawar merah
+Rose gift boxDetail|kotak mawar
+Rose bunchDetail|mawar
+CarnationDetail|anyelir
+CamelliaDetail|mawar kuning
+Red lipsDetail|bibir merah
+KissDetail|Ciuman
+Red sports carDetail|mobil sport merah
+Open carDetail|mobil convertible
+White sports carDetail|mobil sport putih
+Yellow sports carDetail|mobil sport kuning
+Black motorcycleDetail|motor hitam
+Business VehicleDetail|mobil bisnis
+SUVDetail|SUV
+MiniDetail|Mini
+BicycleDetail|sepeda
+Red motorDetail|motor merah
+The BeatlesDetail|kumbang
+CanoeDetail|kano
+Luxury yachtDetail|kapal mewah
+YachtDetail|kapal
+SailboatDetail|berlayar
+Red CruiseDetail|kapal merah
+Wooden boatDetail|kapal kayu
+The white shipDetail|kapal putih
+Fairy tale castleDetail|kastil dongeng
+VillaDetail|villa
+Log cabinDetail|rumah kayu
+Luxury shopDetail|mall mewah
+Pink GreenDetail|rumah bunga pink
+Dream CastleDetail|kastil fantasi
+Snowy roomDetail|kamar pemandangan salju
+Luxury CastleDetail|kastil mewah
+TempleDetail|kamar sakura salju
+Old bell towerDetail|Menara lonceng kuno
+Small courtyardDetail|halaman
+Gemstone BraceletDetail|gelang permata
+Gemstone DragonflyDetail|permata capung
+The gold watchDetail|jam emas
+The golden watchDetail|jam emas
+Emerald RingDetail|cincin permata hijau
+NecklaceDetail|kalung
+BroochDetail|Bros
+PearlDetail|mutiara
+Diamond WatchDetail|jam berlian

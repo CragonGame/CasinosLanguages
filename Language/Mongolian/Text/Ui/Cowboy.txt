@@ -1,0 +1,36 @@
+Text_CowboyWinBetPot|2x
+Text_DrawBetPot|19x
+Text_BullWin|2x
+Text_SameColorBetPot|2.3x
+Text_ConnCardBetPot|3.3x
+Text_PairBetPot|8.5x
+Text_SameColorConnCardBetPot|12.5x
+Text_PairABetPot|100x
+Text_HighCardBetPot|2.2x
+Text_TwoPairsBetPot|3.1x
+Text_SanTiaoBetPot|4.8x
+Text_HuluBetPot|20x
+Text_JinGangBetPot|246x
+CardOpening|Opening 
+CardSending|Sending poker 
+Text_TxtTrendLeft|W/L Trend
+Text_TxtHandRecord|Hand Record
+Text_TxtCardTypeRecord|Cards Record
+Text_TxtHandCardTitle|өмнөх шагналын дээд амжилт
+Text_TxtReward|шагналын хэмжээ
+Text_TxtRewardTimeTitle|цаг
+Text_TxtRankTitle|Эрэмбэлэх
+Text_TxtNameTitle|тоглогчийн нэр
+Text_TxtRewardTitle|шагналын хэмжээ
+Text_TxtTip|Tip: Record the amount and date of the last hand for <Pair A>
+Text_TxtCardTypeTip|Tip: Record the amount and date of the last for <4 of a kind/Straight Flush/Royal Flush>
+TxtExit|Exit
+TxtStandup|босох
+TxtChangeTable|Change Table
+Text_RedWon|Red Won:
+Text_BlueWon|Blue Won:
+Text_Draw|Draw:
+Text_Straight_Flush|StraightFlush:
+Text_PairA|PairA:
+Text_FullHouse|FullHouse:
+Text_KingKong|4 of a kind/StraightFlush/RoyalFlush:

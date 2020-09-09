@@ -1,0 +1,2 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]郵箱[/color]
+Text_YouHaveNoMail|郵箱空空的

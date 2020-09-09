@@ -1,0 +1,17 @@
+﻿NotGiveSelfMagic|Can't send magic expressions to yourself
+SitTableSendMagic|Spectators cannot send magical expressions
+AbuseOthers|Insulting others
+IllegalDeal|Deceive player
+PornPic|PornPicture
+UsePlug-in|UsePlug-In
+Unknown|Unknown
+Address|Address
+Text_SmallGift|SmallGift
+Text_Gift|Gift
+Text_Report|Report
+Text_ExchangeChip|Exchange Chip
+Text_LockChat|LockChat
+Text_Stand|Stand
+Text_Presented|Gift
+AddFriend|Add Friend
+RemoveFriend|Delete

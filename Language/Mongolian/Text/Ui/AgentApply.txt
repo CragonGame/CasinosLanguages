@@ -1,0 +1,20 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Apply agent[/color]
+NotifyTip|Please fill in at least one valid contact information for contact
+Receiver|Nickname
+Phone|Mobile
+Line|Line
+WhatsApp|WhatsApp
+Remark|Remark
+Email|E-mail
+BtnSave|Apply
+BtnEdit|Modify
+BtnCancel|Cancel
+Tip_Apply_Success|Apply successful
+Tip_Cancel_Success|Cancel success
+Tip_Cancel_Fail|Cancel failed
+AgentApplyName|[color=#42476D]Nickname[/color]
+AgentApplyPhoneNumber|[color=#42476D]Mobile[/color]
+AgentApplyLineNumber|[color=#42476D]Line[/color]
+AgentApplyWhatsAppNumber|[color=#42476D]WhatsApp[/color]
+AgentApplyRemark|[color=#42476D]Remark[/color]
+AgentApplyEmail|[color=#42476D]E-mail[/color]

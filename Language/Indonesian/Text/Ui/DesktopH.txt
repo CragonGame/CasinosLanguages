@@ -1,0 +1,6 @@
+﻿ReadyTime|Waktu Siap
+BetRestTime|Waktu Taruhan
+BreathSpace|Waktu Istirahat
+SettlementTime|Waktu Penyelesaian
+BeBank|Jadi Bandar
+NotBeBank|Turun dari Bandar

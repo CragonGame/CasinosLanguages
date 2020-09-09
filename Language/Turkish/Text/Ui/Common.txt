@@ -1,0 +1,3 @@
+Btn_Confirm|Doğrula
+Btn_Confirm1|Doğrula
+Btn_Cancel|İptal et

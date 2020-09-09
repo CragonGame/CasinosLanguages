@@ -1,0 +1,3 @@
+﻿GetImage|Uploading photo
+Btn_Photograph|Camera
+Btn_Photo|Photo

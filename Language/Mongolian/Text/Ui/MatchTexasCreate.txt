@@ -1,0 +1,34 @@
+Text_TextMatchExpectTime|1 цаг 12 минут
+Text_MatchTimeTip|Тоглоомын тооцоолсон хугацаа
+Text_CreateMatch|Шинэ тэмцээн
+Text_TextInputMatchName|нэг тэмцээн
+Text_TextInputMatchExplain|тайлбар(Заавал биш)
+Text_TextInputMatchTime|эхлэх цаг
+Text_MaxJoinMatch|Оролцогчдын хамгийн их тоо
+Text_TextTime|Эхлэх цагийг тохируулна уу
+Text_QuickMatch1|Хурдан тоглоом тоглох
+Text_NormalMatch1|Тогтмол улирал
+Text_SlowMatch1|Удаан уралдах
+Text_QuickMatch2|хурдан уралдах
+Text_NormalMatch2|Тогтмол улирал
+Text_SlowMatch2|Удаанаар уралдах
+Text_BlindTable|Blind table
+Text_StartScoreBoard|Онооны самбарыг эхлүүлэх
+Text_StartBlind|Start blind
+Text_RiseBlindTime|Blinds up
+Text_SingleNumber|Нэг суудлын дугаар
+Text_SixPeople1|6 хүн
+Text_SixPeople2|6 хүн
+Text_NinePeople1|9 хүн
+Text_NinePeople2|9 хүн
+Text_ChooseTimeTitle|Тоглолтын эхлэх цагийг тохируулна уу
+Text_Hour|цаг
+Text_Minute|минут
+Text_Day|өдөр
+Text_Month|сар
+Text_CurrentTime|Одоогийн цаг:
+Text_Confirm|көвшөөрөх
+Text_AsOfRegLevel|Reg.ends in
+Text_RepurchaseTimes|Rebuy times
+Text_AllowAddPurchases|Allow add-on  
+Text_AddPurchasesNumber|Add-on in the number of chips

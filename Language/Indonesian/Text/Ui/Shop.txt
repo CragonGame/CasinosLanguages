@@ -1,0 +1,22 @@
+Exchange|tukar
+NotEnoughVoucher|voucher hadiah tidak mencukupi
+Times| 
+ShopVipTips|Silakan top up {0}bisa naik ke lebel {1},setiap top up 1 bisa mendaptkan nilai.
+Btn_ReceivingAddress|Alamat penerima
+Btn_Upgrade|Nail level
+Text_Chip|Chip
+Text_Consume|Habis
+Text_DoubledRemedies|Gandakan lega
+Text_Gift1|Hadiah
+Text_GiftTicket|Voucher hadiah
+Text_GiftTicket2|Voucher hadiah
+Text_Level|Level
+Text_QQ|QQ
+Text_Recharge|Top up
+Text_RequiredGrowthValue|Nilai yang dibutuhkan
+Text_Score|Nilai
+Text_Score2|Nilai
+Text_TextPoint|Nilai
+Text_ShopVipTips2|Setiap kali top up akan mendapatkan nilai
+Text_Trouble|Dalam proses ttop up jika ada kendala silakan hubungin customer service kami:
+Text_VIP|VIP

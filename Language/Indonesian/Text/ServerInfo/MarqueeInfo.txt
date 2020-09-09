@@ -1,0 +1,24 @@
+﻿SysNotice|Iklan
+Fishing|Memancing
+GFlower|Bunga Emas
+Texas|Texas
+NiuNiu|Banteng
+ZhongFB|Kirim Notifikasi
+ForestParty|Dansa
+LotteryTicket|Lotre
+Cowboy|Koboi
+WinBetPot0|Selamat kepada [color=#FFCC00]{0}[/color] pemenang [color=#FFCC00]{2}[/color] di [color=#FFCC00]{1}[/color], HOKI BESAR!
+WinBetPot1|Selamat kepada [color=#FFCC00]{0}[/color] pemenang [color=#FFCC00]{2}[/color] di [color=#FFCC00]{1}[/color], HOKI BENER!
+WinBetPot2|Selamat kepada [color=#FFCC00]{0}[/color] pemenang [color=#FFCC00]{2}[/color] di [color=#FFCC00]{1}[/color], MAKMUR JAYA!
+WinRewardPot|Selamat[color=#FFCC00]{0}[/color] di[color=#FFCC00]{2}[/color] memenagnkan jackpot [color=#FFCC00]{1}[/color] HOKI TERUS！
+WinBetPotVIP0|Selamat kepada [color=#FFCC00]{0}(VIP{1})[/color] pemenang [color=#FFCC00] {3} [/color] di [color=#FFCC00] {2} [/color], HOKI BESAR!
+WinBetPotVIP1|Selamat kepada [color=#FFCC00]{0}(VIP{1})[/color] pemenang [color=#FFCC00] {3} [/color] di [color=#FFCC00] {2} [/color], HOKI BENER!
+WinBetPotVIP2|Selamat kepada [color=#FFCC00]{0}(VIP{1})[/color] pemenang [color=#FFCC00] {3} [/color] di [color=#FFCC00] {2} [/color], MAKMUR JAYA!
+WinRewardPotVIP|Selamat[color=#FFCC00]{0}(VIP{1})[/color] di[color=#FFCC00]{3}[/color] memenagnkan jackpot [color=#FFCC00]{2}[/color] HOKI TERUS！
+MatchRewardChips|Selamat kepada pemain [color=#FFCC00]{0}(Id: {1})[/color] di [color=#FFCC00]{2}[/color] mendapatkan hadiah [color=#FFCC00]{3}[/color] ke, bonus [color=#FFCC00]{4}[/color] chip
+MatchRewardRedEnvelopes|Selamat kepada pemain [color=#FFCC00]{0}(Id: {1})[/color] di [color=#FFCC00]{2}[/color] mendapatkan hadiah [color=#FFCC00]{3}[/color] ke,bonus [color=#FFCC00]{4}[/color] RP
+MatchRewardItem|Selamat kepada pemain [color=#FFCC00]{0}(Id: {1})[/color] di [color=#FFCC00]{2}[/color] mendapatkan hadiah [color=#FFCC00]{3}[/color] ke, dapat [color=#FFCC00]{4}[/color] chip
+MatchRewardAll|Selamat kepada pemain [color=#FFCC00]{0}(Id: {1})[/color] di [color=#FFCC00]{3}[/color] mendapatkan hadiah [color=#FFCC00]{2}[/color]ke, bonus [color=#FFCC00]{4} chip [/color],[color=#FFCC00]{5}[/color] RP,[color=#FFCC00]{6}[/color] 
+MatchRewardChipsRed|Selamat kepada pemain [color=#FFCC00]{0}(Id: {1})[/color] memenangkan peringkat [color=#FFCC00]{3}[/color] di [color=#FFCC00]{2}[/color] ke, hadiah [color=#FFCC00]{4}[/color]chip , [color=#FFCC00]{5}[/color]Rp
+MatchRewardChipsItem|Selamat kepada pemain [color=#FFCC00]{0}(Id: {1})[/color] di [color=#FFCC00]{3}[/color] memenangkan peringkat [color=#FFCC00]{2}[/color] ke, hadiah [color=#FFCC00]{4}chip yang diperoleh: [color=#FFCC00]{5}[/color]
+MatchRewardRedItem|Selamat kepada pemain [color=#FFCC00]{0}(Id: {1})[/color] di [color=#FFCC00]{3}[/color] mendapatkan peringkat [color=#FFCC00]{2}[/color] ke, hadiah [color=#FFCC00]{4}[/color] Rp, dapatkan [color=#FFCC00]{5}[/color]

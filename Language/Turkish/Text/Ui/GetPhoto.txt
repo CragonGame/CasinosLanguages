@@ -1,0 +1,3 @@
+GetImage|Fotoğraf yükleniyor
+Btn_Photograph|Kamera
+Btn_Photo|Fotoğraf

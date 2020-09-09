@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]排行榜[/color]
+Text_RankChip|籌碼榜
+Text_RankDiamond|鑽石榜
+Text_RankingRedEnvelopes|紅包周榜

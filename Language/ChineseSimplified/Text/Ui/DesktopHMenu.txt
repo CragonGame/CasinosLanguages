@@ -1,0 +1,5 @@
+Text_Return|返回
+Text_Shop|商城
+Text_Help|帮助
+Text_CardType|牌型
+Text_Welfare|福利

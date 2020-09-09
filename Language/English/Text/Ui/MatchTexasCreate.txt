@@ -1,0 +1,34 @@
+﻿Text_TextMatchExpectTime|1 hour 12 minutes
+Text_MatchTimeTip|Estimated duration
+Text_CreateMatch|New match
+Text_TextInputMatchName|A match
+Text_TextInputMatchExplain|Match description (Optional)
+Text_TextInputMatchTime|Start time
+Text_MaxJoinMatch|Max number
+Text_TextTime|Please set the start time
+Text_QuickMatch1|Fast MTT
+Text_NormalMatch1|MTT
+Text_SlowMatch1|Slow MTT
+Text_QuickMatch2|Fast MTT
+Text_NormalMatch2|MTT
+Text_SlowMatch2|Slow MTT
+Text_BlindTable|Blind table
+Text_StartScoreBoard|Starting score
+Text_StartBlind|Start blind
+Text_RiseBlindTime|Blinds up
+Text_SingleNumber|Single number
+Text_SixPeople1|6 seats
+Text_SixPeople2|6 seats
+Text_NinePeople1|9 seats
+Text_NinePeople2|9 seats
+Text_ChooseTimeTitle|Please set the start time
+Text_Hour|Hour
+Text_Minute|Minute
+Text_Day|Day
+Text_Month|Month
+Text_CurrentTime|Current time:
+Text_Confirm|Confirm
+Text_AsOfRegLevel|Reg.ends in
+Text_RepurchaseTimes|Rebuy times
+Text_AllowAddPurchases|Allow add-on
+Text_AddPurchasesNumber|Add-on in the number of chips

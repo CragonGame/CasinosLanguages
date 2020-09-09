@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]话费兑换[/color]
+TxtToNumber|选取的兑换数额:
+TxtPhoneNumTitle|输入接收的手机号码:
+BtnOk|确认兑换
+TxtTip|注意:兑换时间12小时以内到账

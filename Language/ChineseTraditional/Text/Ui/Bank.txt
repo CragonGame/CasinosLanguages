@@ -1,0 +1,17 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]保險箱[/color]
+DepositTips|存入籌碼不能為0哦~
+DepositTips1|輸入籌碼數量超過賬戶籌碼了
+GetoutAmountTips|取出籌碼不能為0哦~
+GetoutAmountTips1|輸入籌碼數量超過保險箱籌碼了
+Btn_TakeChips|取籌碼
+Btn_SaveChips|存籌碼
+Text_SaveChips|存籌碼
+Text_TakeChips|取籌碼
+Text_YourBalance|賬戶籌碼
+Text_BankBalance|保險箱籌碼
+Text_UpperTakeChips|取籌碼上限
+Text_LowerTakeChips|取籌碼下限
+Text_PleaseEnterTakeChipsAmount|請輸入取出籌碼數量
+Text_PleaseEnterSaveChipsAmount|請輸入存入籌碼數量
+Text_UpperSaveChips|存籌碼上限
+Text_LowerSaveChips|存籌碼下限

@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]申請上莊列表[/color]
+ConditionOfBeBanker|上莊條件:{0},低於{1}自動下莊
+Text_BeBank|上莊
+Text_NotBeBank|下莊

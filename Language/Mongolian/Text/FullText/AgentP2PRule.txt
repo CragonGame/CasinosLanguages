@@ -1,0 +1,3 @@
+﻿1. The agent can get 20% of the contribution of all players under the promotion;
+2. The agent can customize its own announcement information. It needs to bring the agent's contact information, make a bank card and other information;
+3. Make transactions with all players;

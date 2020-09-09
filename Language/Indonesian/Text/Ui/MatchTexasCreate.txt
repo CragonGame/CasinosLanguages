@@ -1,0 +1,34 @@
+Text_TextMatchExpectTime|1 jam 12 menit
+Text_MatchTimeTip|Perkiraan waktu pertandingan
+Text_CreateMatch|Buat Pertandingan
+Text_TextInputMatchName|satu tandingan
+Text_TextInputMatchExplain|Deskripsi pertandingan (opsional)
+Text_TextInputMatchTime|waktung tanding
+Text_MaxJoinMatch|jumlah peserta maksimum
+Text_TextTime|silakan atur waktu mulai tanding
+Text_QuickMatch1|tandingancepat
+Text_NormalMatch1|tandingan biasa
+Text_SlowMatch1|tandingan lambat
+Text_QuickMatch2|tandingancepat
+Text_NormalMatch2|tandingan biasa
+Text_SlowMatch2|tandingan lambat
+Text_BlindTable|perwakilan taruhan
+Text_StartScoreBoard|Papan Skor
+Text_StartBlind|mulai taruhan
+Text_RiseBlindTime|Blinds up
+Text_SingleNumber|jumlah orang meja tunggal
+Text_SixPeople1|6 orang
+Text_SixPeople2|6 orang
+Text_NinePeople1|9 orang
+Text_NinePeople2|9 orang 
+Text_ChooseTimeTitle|silakan atur waktu memulai pertandingan
+Text_Hour|jam
+Text_Minute|menit
+Text_Day|hari
+Text_Month|Bulan
+Text_CurrentTime|waktu saat ini:
+Text_Confirm|benar
+Text_AsOfRegLevel|perbatasan level pendaftaran
+Text_RepurchaseTimes|rekontruksi
+Text_AllowAddPurchases|diperbolehkan beli  
+Text_AddPurchasesNumber|beli chip

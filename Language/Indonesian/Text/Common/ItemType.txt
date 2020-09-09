@@ -1,0 +1,28 @@
+Billing|Pembayaran
+Gold|Chip
+Diamond|Diamond
+GoldPackage|Chip Bag
+GoodsVoucher|Dalam bentuk voucher
+RedEnvelopes|Bonus 
+GiftTmp|Props foto profil
+Drinks|Minuman
+Pets|Hewan peliharaan
+Food|Makanan
+Goods|Barang
+Clothes|Baju
+Jewelry|Perhiasan
+Cigarette|Rokok
+Toy|Mainan
+Flower|Bunga
+Emoticon|Emoji
+GiftNormal|Hadiah
+Transport|Mobil
+Boat|Perahu
+Houses|Rumah mewah
+Luxury|Berlian
+Consume|Habis
+GoldConsume|Membutuhkan Chip
+DiamondConsume|Membutuhkan Diamonds
+MagicExpression|Emoji Ajaib
+GoldMagicExpression|Membutuhkan Emoji Ajaib
+DiamondMagicExpression|Membutuhkan diamond & emoji ajaib

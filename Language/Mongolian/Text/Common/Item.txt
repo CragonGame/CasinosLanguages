@@ -1,0 +1,321 @@
+Horn|Small speakers
+ChangeNameCard|картны нэр солих
+1 Star TreasureBoxGold|One star gold chest
+2 Star TreasureBoxGold|Two star gold chest
+3 Star TreasureBoxGold|Three star gold chest
+4 Star TreasureBoxGold|Four star gold chest
+5 Star TreasureBoxGold|Five star gold chest
+1 Star TreasureBoxSilver|One star silver chest
+2 Star TreasureBoxSilver|Two star silver chest
+3 Star TreasureBoxSilver|Three star silver chest
+4 Star TreasureBoxSilver|Four star silver chest
+5 Star TreasureBoxSilver|Five star silver chest
+1 Star TreasureBoxCopper|One star copper chest
+2 Star TreasureBoxCopper|Two star copper chest
+3 Star TreasureBoxCopper|Three star copper chest
+4 Star TreasureBoxCopper|Four star copper chest
+5 Star TreasureBoxCopper|Five star copper chest
+GoldPackageTitle1|360,000 чип цүнх
+GoldPackageTitle2|860,000 чип цүнх
+GoldPackageTitle3|1.8 million чип цүнх
+GoldPackageTitle4|5 million чип цүнх
+GoldPackageTitle5|12 million чип цүнх
+GoldPackageBody1|360,000 чип авахын тулд дарна уу 
+GoldPackageBody2|860,000 чип авахын тулд дарна уу
+GoldPackageBody3|1.8 сая чип авахын тулд дарна уу
+GoldPackageBody4|5 сая чип авахын тулд дарна уу
+GoldPackageBody5|12 сая чип авахын тулд дарна уу
+GoodsVoucherTitle1|iPhoneX 256G купон 
+GoodsVoucherTitle2|Huawei P20Pro 64G купон
+GoodsVoucherTitle3|iPadMini4 купон
+GoodsVoucherTitle4|Beats Powerbeats3 купон
+GoodsVoucherTitle5|Huawei Зэнэглигчийн купон
+GoodsVoucherTitle6|100 юань дуудлагын картны купон
+GoodsVoucherTitle7|OPPO R15 128G coupon
+BillingItemDiamondTitle1|3000 алмааз
+BillingItemDiamondTitle2|6000 алмааз
+BillingItemDiamondTitle3|12800 алмааз
+BillingItemDiamondTitle4|32800 алмааз
+BillingItemDiamondTitle5|64800 алмааз
+Water|буцалсан ус
+Orange Juice|жүржийн шүүс
+Cocktail|коктейл 
+Coffee|кофе 
+Mineral water|рашаан 
+Blue Cocktail|цэнхэр өнгөтэй коктейл
+Cold drink|хүйтэн ундаа 
+Milk|сүү 
+Beer|шар айраг 
+Summer drink|зуны ундаа
+Ice cream|зайрмаг 
+Cake|бялуу
+Rice|цагаан будаа
+Hamburger|бургер
+Waffle|Ваффли 
+Noodles|Гоймон
+Apple|Алим
+Hot dog|Хот Дог
+French fries|Шарсан төмс
+Doughnut|Донут
+Zebra|Зибра
+Dog|Нохой
+Monkey|Сармагчин
+Chicken|Тахиа
+Tiger|Бар
+Horse|морь
+Cat|Муур
+Cattle|Үхэр
+Lion|Арслан
+Rabbit|Туулай
+Snail|эмгэн хумс
+Tortoise|Мэлхий
+Duck|Нугас
+Sheep|Хонь
+Parrot|тоть
+Pig|гахай
+The bench|сандал
+Cup|Аяга
+Notebook computer|компьютер
+Shovel|хүрз
+Guitar|гитар
+Roll of paper|цаас
+Brain|тархи
+Mobile phone|Гар утас
+Book|Ном
+Skull|гавлын яс
+Pillow|дэр
+Landline|Суурин утас
+Bag|цүнх
+Knapsack|үүргэвч
+Shoes|гутал
+Pink skirt|ягаан даашиз
+High-heeled shoes|өндөр өсгийтэй гутал
+Black suit|Хар костюм
+Red dress|Улаан өнгөтэй банзал
+Blue dress|цэнхэр өнгөтэй банзал
+Blue bag|цэнхэр цүнх
+Full dress|Хувцаслалт
+Leather shoes|Арьсан гутал
+Chinese tunic suit|Хятад костюм
+Platinum ring|Цагаан алтан бөгж
+White Watch|Цагаан бугуйн цаг
+White jade|Цагаан хаш
+The Stone Flower|Эрдэнийн цэцэг
+Gemstone rings|Эрдэнийн чулуун бөгж
+Gem Necklace|Эрдэнийн зүүлт
+On the ring|Бөгж
+Pink Diamond|Ягаан алмааз
+Ruby|улаан Эрдэнийн чулуу
+Red watch|Улаан бугуйн цаг
+An crown|Титэм
+Gold|алт
+Golden shell|Алтан Бүрхүүл
+Gold ring|Алтан бөгж
+The golden bird|Алтан шувуу
+Blue Watch|Цэнхэр бугуйн цаг
+Blue Diamond|Цэнхэр алмаз
+Jade|Хаш
+Pearl Ring|Сувдан бөгж
+Diamonds|алмаз
+Cigar|Тамхи
+Smoke|утаа
+Pipe|тамхины хоолой
+A carton of cigars|Бүтэн тамхи
+A carton of cigarettes|Нэг хайрцаг тамхи
+A box of cigars|Хайрцаг тамхи
+Bear|Баавгай
+Dinosaur|Динозавар
+Cube|Рубикийн шоо
+Football|хөлбөмбөг
+Yellow duck|Бяцхан шар нугас
+LittlePig|Жижиг гахай
+Marc jacobs|Ягаан Daisy
+Chinese rose|Хятад сарнай
+Orange daisy|Улбар шар өнгийн Daisy
+Poppy powder|Ягаан гоо сайхан
+Red rose|Улаан сарнай
+Rose gift box|Rose бэлэг хайрцаг
+Rose bunch|Сарнай цэцгийн баглаа
+Carnation|Carnation
+Camellia|Камэллиа
+Red lips|Улаан уруул
+Kiss|Үнсэх
+Red sports car|Улаан спорт машин
+Open car|Convertible Car
+White sports car|Цагаан спорт машин
+Yellow sports car|Шар уралдааны машин
+Black motorcycle|Хар мотоцикл
+Business Vehicle|бизнесийн машин
+SUV|SUV
+Mini|Mini
+Bicycle|унадаг дугуй
+Red motor|Улаан мотор
+The Beatles|цох
+Canoe|завө
+Luxury yacht|тансаг завь
+Yacht|дарвуулт онгоц
+Sailboat|Далбаат завь
+Red Cruise|Улаан аялалын хөлөг онгоц
+Wooden boat|Модон завь
+The white ship|Цагаан завь
+Fairy tale castle|Ордон
+Villa|Вилла
+Log cabin|Модон хаус
+Luxury shop|Тансаг зэрэглэлийн дэлгүүр
+Pink Green|Ягаан цэцгийн өрөө
+Dream Castle|Мөрөөдлийн цайз
+Snowy room|Цасан өрөө
+Luxury Castle|Тансаг ордон
+Temple|Ариун сүм
+Old bell tower|Хуучний хонхон цамхаг
+Small courtyard|Small courtyard
+Gemstone Bracelet|Эрдэнэст чулуут бугуйвч
+Gemstone Dragonfly|Эрдэнэст чулуут луу
+The gold watch|Алтан цаг
+The golden watch|Алтан цаг
+Emerald Ring|Маргад цагираг
+Necklace|Зүүлт
+Brooch|энгэрийн
+Pearl|Сувд
+Diamond Watch|Алмазан цаг
+WaterDetail|буцалсан ус
+Orange JuiceDetail|жүржийн шүүс
+CocktailDetail|коктейл
+CoffeeDetail|кофе
+Mineral waterDetail|рашаан
+Blue CocktailDetail|цэнхэр өнгөтэй коктейл
+Cold drinkDetail|хүйтэн ундаа
+MilkDetail|сүү
+BeerDetail|шар айраг 
+Summer drinkDetail|зуны ундаа
+Ice creamDetail|зайрмаг
+CakeDetail|бялуу
+RiceDetail|цагаан будаа
+HamburgerDetail|бургер
+WaffleDetail|Ваффли
+NoodlesDetail|Гоймон
+AppleDetail|Алим
+Hot dogDetail|Хот дог
+French friesDetail|Шарсан Төмс
+DoughnutDetail|Донут
+ZebraDetail|Зибра
+DogDetail|Нохой
+MonkeyDetail|Сармагчин
+ChickenDetail|Тахиа
+TigerDetail|Бар
+HorseDetail|Морь
+CatDetail|Муур
+CattleDetail|Үхэр
+LionDetail|Арслан
+RabbitDetail|Туулай
+SnailDetail|эмгэн хумс
+TortoiseDetail|Мэлхий
+DuckDetail|Нугас
+SheepDetail|Хонь
+ParrotDetail|тоть
+PigDetail|гахай
+The benchDetail|сандал
+CupDetail|Аяга
+Notebook computerDetail|компьютер
+ShovelDetail|Хүрз
+GuitarDetail|Гитар
+Roll of paperDetail|00 цаас
+BrainDetail|Тархи
+Mobile phoneDetail|Гар утас
+BookDetail|Ном
+SkullDetail|гавлын яс
+PillowDetail|Дэр
+LandlineDetail|Суурин утас
+BagDetail|Цүнх
+KnapsackDetail|үүргэвч
+ShoesDetail|гутал
+Pink skirtDetail|ягаан даашиз
+High-heeled shoesDetail|өндөр өсгийтэй гутал
+Black suitDetail|Хар костюм
+Red dressDetail|Улаан өнгөтэй банзал
+Blue dressDetail|цэнхэр өнгөтэй банзал
+Blue bagDetail|Цэнхэр цүнх
+Full dressDetail|Хувцаслалт
+Leather shoesDetail|Арьсан гутал
+Chinese tunic suitDetail|Хятад костюм
+Platinum ringDetail|Цагаан алтан бөгж
+White WatchDetail|Цагаан бугуйн цаг
+White jadeDetail|Цагаан хаш
+The Stone FlowerDetail|Эрдэнийн цэцэг
+Gemstone ringsDetail|Эрдэст чулуун бөгөж
+Gem NecklaceDetail|Эрдэнийн зүүлт
+On the ringDetail|Бөгж
+Pink DiamondDetail|Яагаан алмаз
+RubyDetail|улаан Эрдэнийн чулуу
+Red watchDetail|Улаан бугуйн цаг
+An crownDetail|Титэм
+GoldDetail|Алт
+Golden shellDetail|Алтан Бүрхүүл
+Gold ringDetail|Алтан бөгөж
+The golden birdDetail|Алтан шувуу
+Blue WatchDetail|Цэнхэр бугуйн цаг
+Blue DiamondDetail|Цэнхэр алмаз
+JadeDetail|Хаш
+Pearl RingDetail|Сувдан бөгж
+DiamondsDetail|алмаз
+CigarDetail|Тамхи
+SmokeDetail|утаа
+PipeDetail|тамхины хоолой
+A carton of cigarsDetail|Бүтэн тамхи
+A carton of cigarettesDetail|Нэг хайрцаг тамхи
+A box of cigarsDetail|Хайрцаг тамхи
+BearDetail|бамбарууш
+DinosaurDetail|Динозаур
+CubeDetail|Рубикийн шоо
+FootballDetail|Хөлбөмбөг
+Yellow duckDetail|Бяцхан шар нугас
+LittlePigDetail|Жижиг гахай
+Marc jacobsDetail|Ягаан Daisy
+Chinese roseDetail|Ягаан сарнай
+Orange daisyDetail|Улбар шар өнгийн Daisy
+Poppy powderDetail|Ягаан гоо сайхан
+Red roseDetail|улаан сарнай 
+Rose gift boxDetail|Сарнайн бэлэгний хайрцаг
+Rose bunchDetail|Сарнайн баглаа
+CarnationDetail|улаан лиш
+CamelliaDetail|Шар сарнай
+Red lipsDetail|Улаан уруул
+KissDetail|Үнсэх
+Red sports carDetail|улаан спорт машин
+Open carDetail|Convertible Car
+White sports carDetail|цагаан спорт машин
+Yellow sports carDetail|Шар спорт машин
+Black motorcycleDetail|Хар мотоцикл
+Business VehicleDetail|Бизнес машин
+SUVDetail|SUV
+MiniDetail|Жижиг
+BicycleDetail|унадаг дугуй
+Red motorDetail|Улаан мотоцикл
+The BeatlesDetail|Цох
+CanoeDetail|Ганц модон завь
+Luxury yachtDetail|Тансаг дарвуулт онгоц
+YachtDetail|дарвуулт онгоц
+SailboatDetail|Дарвуулт завь
+Red CruiseDetail|Улаан  өнгөтэй аялалын хөлөг онгоц
+Wooden boatDetail|модон завь
+The white shipDetail|Цагаан өнгөтэй аялалын хөлөг онгоц
+Fairy tale castleDetail|Ордон
+VillaDetail|Вилла
+Log cabinDetail|модон байшин
+Luxury shopDetail|тансаг зэрэглэлийн дэлгүүр
+Pink GreenDetail|Ягаан цэцгийн байшин
+Dream CastleDetail|Уран зөгнөлийн цайз
+Snowy roomDetail|Цас харагдах өрөө
+Luxury CastleDetail|тансаг цайз
+TempleDetail|Ариун сүм
+Old bell towerDetail|Эртний хонхон цамхаг
+Small courtyardDetail|Жижиг хашаа
+Gemstone BraceletDetail|Эрдэнийн чулуун бөгж
+Gemstone DragonflyDetail|Эрдэнийн чулуу
+The gold watchDetail|алтан бугуйн цаг
+The golden watchDetail|алтан бугуйн цаг
+Emerald RingDetail|маргад эрдэнийн бөгж
+NecklaceDetail|Зүүлт
+BroochDetail|энгэрийн
+PearlDetail|сувд
+Diamond WatchDetail|алмазан бугуйн цаг

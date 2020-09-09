@@ -1,0 +1,6 @@
+RewardType|獎勵類型
+Date|日期
+Op|操作
+TotalGongXian|總貢獻
+Reward|返利金額
+Tip|注:最近15天的每日總貢獻額

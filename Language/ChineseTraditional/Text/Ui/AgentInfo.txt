@@ -1,0 +1,3 @@
+MemberNum|成员数量
+Announcement|公告
+PresidentNickname|会长昵称

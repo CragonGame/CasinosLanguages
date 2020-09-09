@@ -1,0 +1,6 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Take into game[/color]
+Btn_Confirm|Confirm
+TextChipValue|Your balance:
+Text_YourBalance|Your balance
+TextTipsLeft|Min Chips
+TextTipsRight|Max Chips

@@ -1,0 +1,14 @@
+RewardPot|獎池資訊
+RewardRecord|中獎記錄
+Text_CardType|牌型
+Text_Total|總額
+Text_Date|日期
+Text_TipAllPlayer|所有玩家的獲利將有小部分進入獎池
+Text_OpenType|開獎型別
+Text_RoyalFlush|皇家同花順
+Text_StraightFlush|同花順
+Text_FourOfAKind|四條
+Text_OpeningProportion|開獎比例
+Text_MaxMultiplier|最高倍數
+Text_Icon|頭像
+Text_Bonus|獎勵

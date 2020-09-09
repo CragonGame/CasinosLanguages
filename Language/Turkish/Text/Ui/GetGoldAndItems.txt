@@ -1,0 +1,1 @@
+GetGolds|Gold x{0}

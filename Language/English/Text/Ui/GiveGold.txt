@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Transfer chips[/color]
+TxtTo|To
+TxtToNumber|Number
+BtnOk|Confirm
+BtnDel|Del

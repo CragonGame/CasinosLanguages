@@ -1,0 +1,6 @@
+Btn_ExitGame|Masadan ayrıl
+Btn_StandUp|Masadan çık
+Btn_LeaveHalfWay|Masaya otur
+Btn_InviteFriend|Arkadaşlarını davetet
+Btn_CardType|El sıralamaları
+Text_Welfare|Bonus

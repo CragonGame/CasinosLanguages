@@ -1,0 +1,17 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Kotak berangkas[/color]
+DepositTips|Chips tidak boleh 0~
+DepositTips1|Jumlah chip melebihi chip yanga da di akun
+GetoutAmountTips|Untuk ambil chip tidak boleh 0~
+GetoutAmountTips1|Jumlah chip melebihi chip yang ada di kotak berangkas
+Btn_TakeChips|Ambil
+Btn_SaveChips|Simpan
+Text_SaveChips|Simpan
+Text_TakeChips|Ambil
+Text_YourBalance|Akun
+Text_BankBalance|Berankas
+Text_UpperTakeChips|Maksimum
+Text_LowerTakeChips|Miminum
+Text_PleaseEnterTakeChipsAmount|Silakan masukkan jumlah chip yang diambil:
+Text_PleaseEnterSaveChipsAmount|Silakan masukkan jumlah chip yang disimpan:
+Text_UpperSaveChips|Maksimum
+Text_LowerSaveChips|Miminum

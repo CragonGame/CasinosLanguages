@@ -1,0 +1,3 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Email[/color]
+Text_YouHaveNoMail|You haven't any mail yet
+PhoneNum|Service phone:

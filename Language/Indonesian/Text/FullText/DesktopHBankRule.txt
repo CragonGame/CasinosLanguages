@@ -1,0 +1,17 @@
+Peraturan Bandar 
+1. Pemain memiliki kesempatan untuk ikut bermain meski sebagai bandar. Bandar perlu memiliki sejumlah chip yang dibutuhkan oleh sistem untuk bisa menjadi bandar
+2. Menurut urutan, para pemain yang mengajukan permintaan menjadi bandar akan dilakukan sesuai dengan urutan secara bergiliran. Jika tidak ada pemain lain ingin menjadi bandar maka Anda bisa menjadi bandar untuk seterusnya, dan pemain dapat memilih bandar ketika melakukan penyelesaian
+3. Jika tidak ada yang mendaftar, sistem adalah bandar
+
+Batas Taruhan Pemain:
+1. Pemain bertaruh maksimum 1/7 dari jumlah total chip yang dimiliki. Misalnya, jika pemain membawa 1 juta, maka taruhan maksimum hanya sekitar 140.000
+
+Peraturan Kemenangan:
+Pemain berwenang dengan kartu besar menang, bandar dengan kartu yang sama menang
+
+1. Siapa pun yang berpartisipasi dalam taruhan dianggap telah berpartisipasi dalam Prize Pool
+2. 3% dari chip yang dimenangkan oleh bandar atau pemain mana pun diakumulasikan ke dalam Prize Pool
+3. Beberapa pemain memenangkan Prize Pool, hasilnya dialokasikan sesuai dengan rasio taruhan, semakin banyak taruhan semakin banyak pemain mendapatkan hadiah
+4. Jika Anda memenangkan beberapa kombinasi medali di babak yang Sama, hadiah akan didistribusikan ke kombinasi kartu terbesar
+
+Interpretasi terakhir dari aturan permainan ini adalah milik Panda Texas Holdem

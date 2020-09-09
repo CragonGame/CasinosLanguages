@@ -1,0 +1,28 @@
+Billing|Destekler
+Gold|Çipler
+Diamond|Elmas
+GoldPackage|Çip Çantaları
+GoodsVoucher|Bilet
+RedEnvelopes|İkramiye
+GiftTmp|Aksesuarlar
+Drinks|İçecek
+Pets|Evcil Hayvan
+Food|Real thing
+Goods|Ürün
+Clothes|Kıyafetler
+Jewelry|Mücevher
+Cigarette|Sigara
+Toy|Oyuncak
+Flower|Çiçek
+Emoticon|Süslemeli İfade
+GiftNormal|Lüks Hediye
+Transport|Araba
+Boat|Bot
+Houses|Lüks Ev
+Luxury|Lüks
+Consume|Tüketmek
+GoldConsume|Tüketilebilir çip destekleri
+DiamondConsume|Elmas destekleri tüketimi
+MagicExpression|Sihirli ifade
+GoldMagicExpression|Çip tüketen sihirli ifade
+DiamondMagicExpression|Elmasları tüketen sihirli ifade

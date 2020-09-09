@@ -1,0 +1,20 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Aracı Acenteleri[/color]
+NotifyTip|Lütfen iletişim için en az (1) geçerli iletişim bilgisi doldurun
+Receiver|Lakap
+Phone|Telefon
+Line|Hat
+WhatsApp|WhatsApp
+Remark|Açıklama
+Email|E-mail
+BtnSave|Uygula
+BtnEdit|Düzenle
+BtnCancel|İptal
+Tip_Apply_Success|Başvurunuz başarıyla oluşturuldu
+Tip_Cancel_Success|Başvuru başarıyla iptal edildi
+Tip_Cancel_Fail|İptal işlemi başarısız oldu
+AgentApplyName|[color=#42476D]Lakap[/color]
+AgentApplyPhoneNumber|[color=#42476D]Telefon[/color]
+AgentApplyLineNumber|[color=#42476D]Hat[/color]
+AgentApplyWhatsAppNumber|[color=#42476D]WhatsApp[/color]
+AgentApplyRemark|[color=#42476D]Açıklama[/color]
+AgentApplyEmail|[color=#42476D]E-mail[/color]

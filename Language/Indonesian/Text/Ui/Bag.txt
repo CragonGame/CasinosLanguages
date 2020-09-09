@@ -1,0 +1,6 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Backpack[/color]
+Btn_BuyMore|Beli lagi
+Text_Consume|Gunakan
+Text_Gift|Hadiah 
+Text_NoConsumeTips|Tidak ada barang saat ini
+Text_NoGiftTips|Tidak ada hadiah saat ini

@@ -1,0 +1,33 @@
+AverageScore|Avg.Stack
+TotalRewardGold|Toplam Ödül
+PlayerNumReward|Ödül çevresi
+RaiseBlindNext|Bir sonraki oyun körleşecek
+RaiseBlindTm|körleşme
+WaitMatchBegine|Maç için bekleyin
+MatchBegine|Maç başlamak üzere ve sistem koltukları belirliyor
+ExitMatchTip|Oyundan çıktığınızda sistem sizi otomatik olarak barındıracaktır. yarışmamda yeniden girişe tıklayıp yarışa tekrar girebilirsiniz. Ayrıldığı onaylandı mı?
+Btn_RebuyChip|Yeniden çip satın al
+Btn_AddonChip|Çip ekleme
+Text_Pot:|Pot:
+Text_WaitGameBegin|Lütfen diğer eli bekleyin
+Text_ReturnGame|devam et
+Btn_Fold|Pas geç
+Btn_CheckOrFold|Gör/Pas geç
+Btn_CallAny|Herhangi bahsi gör
+Btn_AddBet|Artır
+白手起家|Küçük masa
+牛刀小试|Küçük masa
+越战越勇|Küçük masa
+展露风骚|Orta masa
+商业大亨|Orta masa
+无可比拟|Orta masa
+金融巨鳄|Büyük masa
+紫禁之巅|Büyük masa
+冠军王座|Büyük  masa
+GuessHandCardDesc1|Next hand[color=#cccc00] has A[/color]，get[color=#cccc00] 6x [/color]reward
+GuessHandCardDesc2|Next hand[color=#cccc00] is a pair[/color]，get[color=#cccc00] 15x [/color]reward
+GuessHandCardDesc3|Next hand[color=#cccc00] is AA[/color]，get[color=#cccc00] 200x [/color]reward
+GuessHandCardTip1|Hesapta yetersiz çip varsa tahmin el kartı bahsi başarısız olur!
+GuessHandCardTip2|Elinizi tahmin ettiğiniz için tebrikler! ödülleri alın {0} 
+GuessHandCardTip3|Sanırım el kartı kaçırıldı!
+Bet|Bahis

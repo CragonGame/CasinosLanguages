@@ -1,0 +1,3 @@
+GetImage|Зураг байршуулж байна
+Btn_Photograph|Камер
+Btn_Photo|альбом

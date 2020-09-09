@@ -1,0 +1,22 @@
+Exchange|Takas
+NotEnoughVoucher|Yeterli kupon yok
+Times| 
+ShopVipTips|Yeniden {0}  dan {1} e kadar Yuan yükleyebilirsiniz, ve her 1 Yuan yüklemede 1 büyüme değeri elde edersiniz.
+Btn_ReceivingAddress|Adres
+Btn_Upgrade|Yükselt
+Text_Chip|çip
+Text_Consume|Tüket
+Text_DoubledRemedies|Bonus çarpıldı
+Text_Gift1|hediye
+Text_GiftTicket|Hediye bileti
+Text_GiftTicket2|Hediye bileti
+Text_Level|Seviye
+Text_QQ|QQ
+Text_Recharge|Yeniden yükle
+Text_RequiredGrowthValue|Büyüme değeri
+Text_Score|Skor
+Text_Score2|Skor
+Text_TextPoint|Skor:
+Text_ShopVipTips2|Her 1Yuan şarjı için küçük bir büyüme değeri elde edin
+Text_Trouble|Yeniden yükleme sürecinde herhangi bir  problem olursa, Lütfen müşteri servis hizmetiyle iletişime geçin WeChat:vshendezhou
+Text_VIP|VIP

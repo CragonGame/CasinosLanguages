@@ -1,0 +1,6 @@
+Btn_ExitGame|гарах
+Btn_StandUp|Бос
+Btn_LeaveHalfWay|Түр орхих
+Btn_InviteFriend|Найзаа урих
+Btn_CardType|Hand Ranks
+Text_Welfare|Bonus

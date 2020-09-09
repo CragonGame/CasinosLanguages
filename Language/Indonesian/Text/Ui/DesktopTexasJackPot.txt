@@ -1,0 +1,3 @@
+Text_Winner|Pemenang
+Text_Golds|Jumlah
+Text_Time|Waktu

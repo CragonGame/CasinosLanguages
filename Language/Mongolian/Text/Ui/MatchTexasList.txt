@@ -1,0 +1,30 @@
+Free|Үнэгүй
+People| 
+Today|Өнөөдөр
+MatchFee|Buy-in
+SixSeat|6 хүний суудал
+NineSeat|9 хүний суудал
+Second|s
+OrangeRedEnvelopes|Шагнал
+Chip|алт
+Enter|Орох
+WaitStart|[size=20][color=#4C87D9]Эхлэхийг хүлээнэ үү[color][size]
+SignUp|бүртгүүлэх
+CancelSignUp|бүртнщгэлээ цуцлах
+NotOpenYet|[size=20][color=#4C87D9]Эхлэх болоогүй[color][size]
+SignUpDelay|Late reg.
+SignUpDeadLine|Reg.ends in
+BeginNow|Starts in
+Tomorrow|Маргааш
+AfterTomorrow|Нөгөөдөр
+QuitMatchTip|Таны орсон төлбөр болон бусад төлбөр буцаагдана. Та гарах хүсэлтэй байна уу?
+SignUpTip|Та бүртгэлийн уралдааныг баталгаажуулна？[size=17] (consumption of%s+%s chips) [/size]
+AllMatch|Tournaments
+MyMatch|My Tournaments
+Text_NoMatchInfoTip1|Одоохондоо тэмцээн зарлагдаагүй байна. 
+Text_MatchInfomation|Тэмцээний мэдээ
+Text_Reward|Шагнал
+Text_MatchBeginTime1|тэмцээн эхлэх цаг
+Text_EntryFee1|Buy-in
+Text_NotSignUpMatchInfo|Одоогоор ямар ч тэмцээнд бүртгүүлээгүй байна, хурдан бүртгүүлээрэй!
+Text_GotoSignUp|Бүртгүүлэх

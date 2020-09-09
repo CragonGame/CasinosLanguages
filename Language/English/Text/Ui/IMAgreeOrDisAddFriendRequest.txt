@@ -1,0 +1,2 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Add friend request[/color]
+Btn_Accept|Accept

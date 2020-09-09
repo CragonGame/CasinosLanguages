@@ -1,0 +1,200 @@
+﻿InviteFriendPlay|Invite friends to play
+Player|Player
+All-in|All in
+AllIn|All in
+Bet|Bet
+Offline|Offline
+Cowboy|Cowboy
+Fishing|Fishing
+GFlowerDesktopH|Fried gold flower hundred people
+GFlowerDesktopPrivate|Fried golden flower private table
+GFlowerDesktopNormal|Fried golden flower common table
+TexasDesktopClassicPrivate|Texas Private Table
+TexasDesktopClassic|Holdem Table
+TexasDesktopMustBet|Texas must be bet table
+TexasDesktopMustBetPrivate|Texas private will be bet table
+TexasDesktopH|Texas hundreds of people
+NotInDesktop|Lobby
+DesktopMatch|Tournaments
+HighCard|High card
+HighCard2|High card
+Pair|Pair
+TwoPairs|Two pairs
+ThreeOfAKind|3 of a kind
+Straight|Straight
+Flush|Flush
+FullHouse|Full house
+FourOfAKind|4 of a kind
+StraightFlush|Straight flush
+RoyalFlush|Royal flush
+FourOfAKind2|4 of a kind
+StraightFlush2|Straight flush
+RoyalFlush2|Royal flush
+UnknownLoginMethod|Unknown login method
+ThirdLoginFail|Third-party login failed
+NotInstallWechat|WeChat is not installed
+SetHeadImageFail|Failed to upload photo
+UploadHeadImageSuccess|Upload Photo successfully!
+GetAddressFail|Failed to get the delivery address
+EditAddressFail|Editing the shipping address failed
+ModifyNickNameSuccess|The nickname was modified successfully!
+ModifySignatureSuccess|The signature was successfully modified!
+IPRefreshSuccess|IP location refreshed successfully!
+SendGiftSuccess|Gift success
+SendGiftFail|Gift failed
+RechargeSuccessful|Payment successful
+NotFoundAppId|Cannot find the corresponding app or app_sign is incorrect according to app_id
+ParamInvalid|Channel parameter is invalid
+MissParam|Missing required parameters
+CertificateError|Certificate error
+ChannelInternalError|Internal channel error
+RunTimeError|Runtime error
+UnknownError|Unknown Error
+CreateChargeReturnEmpty|Create order return data is empty
+CreateChargeFail|Create order failed, error code =
+CreateIAPChargeReturnEmpty|Create IAP order return data is empty
+CreateIAPChargeFail|Failed to create an IAP order, error code =
+PayTypeNotFound|Payment type not found, payment type =
+OrderRepeated|The order is repeated
+OrderAmountNotMatch|Order amount does not match
+InvalidOrder|Invalid order
+InvalidTicket|Invalid ticket
+TestEnvOrder|Test environment order
+PayNetFail|Payment network request failed
+PayCancel|You canceled the order.
+PayDelivery|Item has been paid for and is being requested for shipment.
+PayFail|Purchase failed.
+PaySuccess|Successful purchase 
+PayConfirmChargeInfo|You have an order with an unpaid amount of [color=#FFCC00]{0}[/color]. Are you sure to continue payment?
+PayConfirmCharge|Confirm payment
+PayEnv|Purchase error, please make sure that Google Play services on your device are available!
+AddFriendSuccess|Request to add a friend successfully
+AddFriendFail|Request to add friend failed
+DealAddFriendSuccess|Handling the addition of a friend request successfully
+DealAddFriendFail|Processing add friend request failed
+DeleteFriendSuccess|Request to delete a friend successfully
+DeleteFriendFail|Request to delete friend failed
+InvitingToTableInfo|{0}：{1}\nante {2}，Blinds {3}/{4} Carry {5}/{6}\n Number of people：{7}/{8}
+Blinds|Blinds:
+Ante|Ante:
+Carry|Carry
+NumberOfPeople|Number of people:
+FormatPeople|({0} people)
+FormatAnte|Ante {0} 
+FormatBlinds|Blinds {0}/{1}
+PrivateTable|Private table 
+Diamonds| 
+Score| 
+Chips| 
+Yuan|RMB
+MyPromotion|Promotion
+MyPlayer|Players
+MyAgent|Agents
+AgencyRule|Rule
+Agent|Agent
+Normal|Normal
+Freeze|Freeze
+Unfreeze|Unfreeze
+FormatAgentOpInfo|Confirm the current member operation{0}{1}({2}){3}{4}
+BecomeAnAgent|Become an agent
+InviteFriends|Invite friends 
+Edit|Edit
+Confirm|Confirm
+CopyInviteSuccess|Copy invitation link successfully
+CowboyNotBetTip|Dear! The current state can't bet.
+Times| 
+FormatContinue|Resume({0})
+Fold|Fold
+Check|Check
+CallFormat|Call ${0}
+Raise|Raise
+Blinds|Blinds
+Pot|Pot
+CheckOrFold|Check/Fold
+AutoCheck|Auto check
+CallAny|Call any
+Call|Call $
+NotEnoughChips|Not enough chips
+NotEnoughChips2|Dear! According to the rules of the game, your current maximum bet can only be 1/7 of the total number of chips you carry.
+NotEnoughChipsTip|The account chip is less than the minimum chip demand of this table, whether to go to the mall to add some chips!
+LeaveTemp|leave temporarily
+ChangeChipSuccessTip1|The chip replacement is successful and will take effect at the beginning of the next game!
+ChangeChipSuccessTip2|Replace the chip successfully!
+Show|Show
+MyWinChips|I won the {0} chip
+Second|s
+Settlement|Settling
+ConstructionTip|Under construction, stay tuned!
+Today|Today
+Tomorrow|Tomorrow
+AfterTomorrow|AfterTomorrow
+Free|Free
+ConfirmExitGame|Are you sure to quit the game?
+PermisionPhoto|Camera permissions
+PermisionWriteSD|Write SD card permissions
+AddPermisionTip|Please add
+CancelAddPermision|Cancel permission settings!
+FormatPermisionTip|Dear! You need to add {0}{1}{2} to take photos!
+FormatPermisionTip2|Dear! You need to add {0}{1}{2} to open the album!
+OrangePlayer|WeChat User
+FacebookPlayer|Facebook user
+UploadHeadImageTip|Dear! You are {0}{1}{2}, you don’t need to upload an avatar!
+FirstCharge|First Purchase
+PartnershipFraudTip|After technical inspection, you have deceived other players, I am very sorry that your registration failed. Multiple appearances may cause account credits to drop!
+NetConnectFail|The request failed. Please confirm that the current network is normal!
+GetOnlineRewardFail|Failed to receive online rewards!
+InviteSuccess|Invite success
+InviteFail|Invite failed
+CowboySitDownTip|Dear! Sit down and carry {0} gold coins!
+NotCheckSystemBankerTip|Unable to view system banker information
+BetInfoTip|You are currently a banker,you can't bet in the player pool
+BetInfoTip2|Dear! The current state can't bet.
+BetInfoTip3|Since there are no bets in three consecutive games, the next game will automatically leave the seat.
+BetInfoTip4|The next game will auto leave
+ApplyUpBankerSuccess|Apply to become a banker and have joined the bankers
+ApplyUpBankerFail|Applying to become a bookmaker failed
+ApplyDownBankerSuccess|Apply for success
+ApplyDownBankerFail|Apply for fail
+ReportSuccess|Report success
+InputNotExceedSelfChipsTip|The number of chips input cannot exceed the number of chips it carries.
+TodayGiftLimit|Today’s gift limit is
+InputGiveChipsCount|Please enter the number of chips you need to gift.
+Unopened|Unopened
+BaoZiFormatTm|yyyy-MM-dd hh:mm
+RedemptionVoucher|Ticket
+Send|Send
+TenThousand| 
+NeedScore|Need score
+Exp|Exp
+Billion|Billion
+BeBank|Be Dealer
+NotBeBank|Leave Dealer
+NetErrorTip|The network connection failed, please confirm whether the current network is normal reconnected?
+AddFriend|Add Friend
+RemoveFriend|Delete
+TodayLeftCount|Today remaining gift credit {0}
+GiftBalanceMinLimit|Can't gift when the account balance is less than {0}!
+PaymentTip1|Please wait for payment
+PaymentTip2|Requesting verification, please wait
+PaymentTip3|Sending diamond，please wait 
+GoldPackageTitle1|A little bit of chips
+GoldPackageTitle2|A little chips
+GoldPackageTitle3|Some chips
+GoldPackageTitle4|A few more chips
+GoldPackageTitle5|Small amount of chips
+BillingItemGoldTitle1|A pile of chips
+BillingItemGoldTitle2|A lot of chips
+BillingItemGoldTitle3|A small box of chips
+BillingItemGoldTitle4|Box of chips
+BillingItemGoldTitle5|A big box of chips
+BillingItemGoldTitle6|A small pile of chips
+BillingItemDiamondTitle1|300 diamonds
+BillingItemDiamondTitle2|600 diamonds
+BillingItemDiamondTitle3|1280 diamonds
+BillingItemDiamondTitle4|3280 diamonds
+BillingItemDiamondTitle5|6480 diamonds
+BillingItemDiamondTitle30|First charge special
+VirtualVoucher1|20000 telepon bill
+VirtualVoucher2|50000 telepon bill
+VirtualVoucher3|100000 telepon bill
+PhoneRechargeTip|Successfully applied for phone recharge, expected to arrive within 12 hours!

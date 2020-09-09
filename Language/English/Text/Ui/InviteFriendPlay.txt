@@ -1,0 +1,4 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Invite Friends to play[/color]
+Text_Online|Online
+Text_OffLine|Offline
+HaveInvited|Invited

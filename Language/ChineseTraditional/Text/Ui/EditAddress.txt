@@ -1,0 +1,15 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]收貨地址[/color]
+NotifyTip|請務必填寫真實姓名和聯繫方式,以便獲獎後聯繫
+Receiver|收 貨 人
+Phone|手機號碼
+QQ|QQ號碼
+Orange|微信號碼
+GetAddress|收貨地址
+Email|電子郵箱
+Text_Save|保存
+EditAddressName|[color=#42476D]姓名[/color]
+EditAddressPhoneNumber|[color=#42476D]手機號碼[/color]
+EditAddressQQNumber|[color=#42476D]QQ號碼[/color]
+EditAddressOrangeNumber|[color=#42476D]微信號碼[/color]
+EditAddress|[color=#42476D]請務必填寫詳細的省、市、區（縣）及街道門牌信息[/color]
+EditAddressEmail|[color=#42476D]郵箱地址[/color]

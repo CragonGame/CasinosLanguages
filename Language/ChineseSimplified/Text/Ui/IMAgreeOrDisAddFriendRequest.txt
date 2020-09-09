@@ -1,0 +1,2 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]添加好友请求[/color]
+Btn_Accept|接受

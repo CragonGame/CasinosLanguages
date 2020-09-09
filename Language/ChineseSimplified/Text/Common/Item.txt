@@ -1,0 +1,320 @@
+Horn|小喇叭
+ChangeNameCard|改名卡
+1 Star TreasureBoxGold|1星金宝箱
+2 Star TreasureBoxGold|2星金宝箱
+3 Star TreasureBoxGold|3星金宝箱
+4 Star TreasureBoxGold|4星金宝箱
+5 Star TreasureBoxGold|5星金宝箱
+1 Star TreasureBoxSilver|1星银宝箱
+2 Star TreasureBoxSilver|2星银宝箱
+3 Star TreasureBoxSilver|3星银宝箱
+4 Star TreasureBoxSilver|4星银宝箱
+5 Star TreasureBoxSilver|5星银宝箱
+1 Star TreasureBoxCopper|1星铜宝箱
+2 Star TreasureBoxCopper|2星铜宝箱
+3 Star TreasureBoxCopper|3星铜宝箱
+4 Star TreasureBoxCopper|4星铜宝箱
+5 Star TreasureBoxCopper|5星铜宝箱
+GoldPackageTitle1|36万筹码袋
+GoldPackageTitle2|86万筹码袋
+GoldPackageTitle3|180万筹码袋
+GoldPackageTitle4|500万筹码袋
+GoldPackageTitle5|1200万筹码袋
+GoldPackageBody1|点开可获得36万筹码
+GoldPackageBody2|点开可获得86万筹码
+GoldPackageBody3|点开可获得180万筹码
+GoldPackageBody4|点开可获得500万筹码
+GoldPackageBody5|点开可获得1200万筹码
+GoodsVoucherTitle1|iPhoneX 256G券
+GoodsVoucherTitle2|华为P20Pro 64G券
+GoodsVoucherTitle3|iPadMini4券
+GoodsVoucherTitle4|Beats Powerbeats3券
+GoodsVoucherTitle5|华为充电宝券
+GoodsVoucherTitle6|100元话费卡券
+GoodsVoucherTitle7|OPPO R15 128G券
+BillingItemDiamondTitle1|3000钻石
+BillingItemDiamondTitle2|6000钻石
+BillingItemDiamondTitle3|12800钻石
+BillingItemDiamondTitle4|32800钻石
+BillingItemDiamondTitle5|64800钻石
+Water|白开水
+Orange Juice|橙汁
+Cocktail|鸡尾酒
+Coffee|咖啡
+Mineral water|矿泉水
+Blue Cocktail|蓝色鸡尾酒
+Cold drink|冷饮
+Milk|牛奶
+Beer|啤酒
+Summer drink|夏日饮品
+Ice cream|冰淇淋
+Cake|蛋糕
+Rice|饭
+Hamburger|汉堡
+Waffle|华夫饼
+Noodles|面
+Apple|苹果
+Hot dog|热狗
+French fries|薯条
+Doughnut|甜甜圈
+Zebra|斑马
+Dog|狗
+Monkey|猴子
+Chicken|鸡
+Tiger|老虎
+Horse|马
+Cat|猫
+Cattle|牛
+Lion|狮子
+Rabbit|兔子
+Snail|蜗牛
+Tortoise|乌龟
+Duck|鸭子
+Sheep|羊
+Parrot|鹦鹉
+Pig|猪
+The bench|板凳
+Cup|杯子
+Notebook computer|笔记本电脑
+Shovel|铲子
+Guitar|吉他
+Roll of paper|卷纸
+Brain|脑子
+Mobile phone|手机
+Book|书
+Skull|头骨
+Pillow|枕头
+Landline|座机
+Bag|包
+Knapsack|背包
+Shoes|布鞋
+Pink skirt|粉色裙子
+High-heeled shoes|高跟鞋
+Black suit|黑西装
+Red dress|红色裙子
+Blue dress|蓝裙子
+Blue bag|蓝色包
+Full dress|礼服
+Leather shoes|皮鞋
+Chinese tunic suit|中山装
+Platinum ring|白金戒指
+White Watch|白色手表
+White jade|白玉
+The Stone Flower|宝石花
+Gemstone rings|宝石戒指
+Gem Necklace|宝石项链
+On the ring|对戒
+Pink Diamond|粉色钻石
+Ruby|红宝石
+Red watch|红色手表
+An crown|皇冠
+Gold|黄金
+Golden shell|黄金贝壳
+Gold ring|金戒指
+The golden bird|金鸟
+Blue Watch|蓝色手表
+Blue Diamond|蓝色钻石
+Jade|玉
+Pearl Ring|珍珠戒指
+Cigar|雪茄
+Smoke|烟
+Pipe|烟斗
+A carton of cigars|一盒雪茄
+A carton of cigarettes|一盒烟
+A box of cigars|一箱雪茄
+Bear|小熊
+Dinosaur|恐龙
+Cube|魔方
+Football|足球
+Yellow duck|小黄鸭
+LittlePig|小猪
+Marc jacobs|粉雏菊
+Chinese rose|月季
+Orange daisy|橙雏菊
+Poppy powder|粉虞美人
+Red rose|红玫瑰
+Rose gift box|玫瑰礼盒
+Rose bunch|玫瑰束
+Carnation|康乃馨
+Camellia|茶花
+Red lips|红唇
+Kiss|亲吻
+Red sports car|红跑车
+Open car|敞篷车
+White sports car|白跑车
+Yellow sports car|黄跑车
+Black motorcycle|黑摩托
+Business Vehicle|商务车
+SUV|SUV
+Mini|Mini
+Bicycle|自行车
+Red motor|红摩托
+The Beatles|甲壳虫
+Canoe|独木舟
+Luxury yacht|豪华游艇
+Yacht|游艇
+Sailboat|帆船
+Red Cruise|红游轮
+Wooden boat|木船
+The white ship|白游轮
+Fairy tale castle|童话城堡
+Villa|别墅
+Log cabin|小木屋
+Luxury shop|豪华商店
+Pink Green|粉色花房
+Dream Castle|梦幻城堡
+Snowy room|雪景房
+Luxury Castle|豪华城堡
+Temple|寺庙
+Old bell tower|古钟楼
+Small courtyard|小庭院
+Gemstone Bracelet|宝石环
+Gemstone Dragonfly|宝石蜻蜓
+The gold watch|金色手表
+The golden watch|金手表
+Emerald Ring|绿宝石指环
+Necklace|项链
+Brooch|胸针
+Pearl|珍珠
+Diamond Watch|钻石手表
+WaterDetail|白开水
+Orange JuiceDetail|橙汁
+CocktailDetail|鸡尾酒
+CoffeeDetail|咖啡
+Mineral waterDetail|矿泉水
+Blue CocktailDetail|蓝色鸡尾酒
+Cold drinkDetail|冷饮
+MilkDetail|牛奶
+BeerDetail|啤酒
+Summer drinkDetail|夏日饮品
+Ice creamDetail|冰淇淋
+CakeDetail|蛋糕
+RiceDetail|饭
+HamburgerDetail|汉堡
+WaffleDetail|华夫饼
+NoodlesDetail|面
+AppleDetail|苹果
+Hot dogDetail|热狗
+French friesDetail|薯条
+DoughnutDetail|甜甜圈
+ZebraDetail|斑马
+DogDetail|狗
+MonkeyDetail|猴子
+ChickenDetail|鸡
+TigerDetail|老虎
+HorseDetail|马
+CatDetail|猫
+CattleDetail|牛
+LionDetail|狮子
+RabbitDetail|兔子
+SnailDetail|蜗牛
+TortoiseDetail|乌龟
+DuckDetail|鹅
+SheepDetail|羊
+ParrotDetail|鹦鹉
+PigDetail|猪
+The benchDetail|板凳
+CupDetail|杯子
+Notebook computerDetail|笔记本电脑
+ShovelDetail|铲子
+GuitarDetail|吉他
+Roll of paperDetail|卷纸
+BrainDetail|脑子
+Mobile phoneDetail|手机
+BookDetail|书
+SkullDetail|头骨
+PillowDetail|枕头
+LandlineDetail|座机
+BagDetail|包
+KnapsackDetail|背包
+ShoesDetail|布鞋
+Pink skirtDetail|粉色裙子
+High-heeled shoesDetail|高跟鞋
+Black suitDetail|黑西装
+Red dressDetail|红色裙子
+Blue dressDetail|蓝裙子
+Blue bagDetail|蓝色包
+Full dressDetail|礼服
+Leather shoesDetail|皮鞋
+Chinese tunic suitDetail|中山装
+Platinum ringDetail|白金戒指
+White WatchDetail|白色手表
+White jadeDetail|白玉
+The Stone FlowerDetail|宝石花
+Gemstone ringsDetail|宝石戒指
+Gem NecklaceDetail|宝石项链
+On the ringDetail|对戒
+Pink DiamondDetail|粉色钻石
+RubyDetail|红宝石
+Red watchDetail|红色手表
+An crownDetail|皇冠
+GoldDetail|黄金
+Golden shellDetail|黄金贝壳
+Gold ringDetail|金戒指
+The golden birdDetail|金鸟
+Blue WatchDetail|蓝色手表
+Blue DiamondDetail|蓝色钻石
+JadeDetail|玉
+Pearl RingDetail|珍珠戒指
+DiamondsDetail|钻石
+CigarDetail|雪茄
+SmokeDetail|烟
+PipeDetail|烟斗
+A carton of cigarsDetail|一盒雪茄
+A carton of cigarettesDetail|一盒烟
+A box of cigarsDetail|一箱雪茄
+BearDetail|小熊
+DinosaurDetail|恐龙
+CubeDetail|魔方
+FootballDetail|足球
+Yellow duckDetail|小黄鸭
+LittlePigDetail|小猪
+Marc jacobsDetail|粉雏菊
+Chinese roseDetail|粉玫瑰
+Orange daisyDetail|橙雏菊
+Poppy powderDetail|粉虞美人
+Red roseDetail|红玫瑰
+Rose gift boxDetail|玫瑰礼盒
+Rose bunchDetail|玫瑰束
+CarnationDetail|康乃馨
+CamelliaDetail|黄玫瑰
+Red lipsDetail|红唇
+KissDetail|亲吻
+Red sports carDetail|红跑车
+Open carDetail|敞篷车
+White sports carDetail|白跑车
+Yellow sports carDetail|黄跑车
+Black motorcycleDetail|黑摩托
+Business VehicleDetail|商务车
+SUVDetail|SUV
+MiniDetail|Mini
+BicycleDetail|自行车
+Red motorDetail|红摩托
+The BeatlesDetail|甲壳虫
+CanoeDetail|独木舟
+Luxury yachtDetail|豪华游艇
+YachtDetail|游艇
+SailboatDetail|帆船
+Red CruiseDetail|红游轮
+Wooden boatDetail|木船
+The white shipDetail|白游轮
+Fairy tale castleDetail|童话城堡
+VillaDetail|别墅
+Log cabinDetail|小木屋
+Luxury shopDetail|豪华商店
+Pink GreenDetail|粉色花房
+Dream CastleDetail|梦幻城堡
+Snowy roomDetail|雪景房
+Luxury CastleDetail|豪华城堡
+TempleDetail|樱花雪景房
+Old bell towerDetail|古钟楼
+Small courtyardDetail|小庭院
+Gemstone BraceletDetail|宝石环
+Gemstone DragonflyDetail|宝石蜻蜓
+The gold watchDetail|金色手表
+The golden watchDetail|金手表
+Emerald RingDetail|绿宝石指环
+NecklaceDetail|项链
+BroochDetail|胸针
+PearlDetail|珍珠
+Diamond WatchDetail|钻石手表

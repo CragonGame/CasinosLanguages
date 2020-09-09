@@ -1,0 +1,57 @@
+People|
+Today|Bugün
+MatchFee|Destekle
+SixSeat|6 koltuk
+NineSeat|9 koltuk
+Second|s
+OrangeRedEnvelopes|Bonus 
+Chip|çip
+Enter|Giriş
+FreeMatch|Ücretsiz dönder
+WaitStart|[size=20][color=#4C87D9]bekleniyor[color][size]
+SignUp|Kayıt ol	
+CancelSignUp|İptal et
+NotOpenYet|[size=20][color=#4C87D9]Announced[color][size]
+SignUpDelay|Geç kayıt
+SignUpDeadLine|Kayıt sona erdi
+BeginNow|Başla
+Tomorrow|Yarın
+AfterTomorrow|Yarından sponra
+QuitMatchTip|Giriş ücreti hesabınıza iade edilecektir.. Geri çekilmek istediğinizden emin misiniz?
+SignUpTip|Onaylıyor musunuz?[size=17](Consumption{0}+{1}Texas Golds)[/size]
+RebuyTip|"Yeniden alınabilir,zamanlar: [color=#DDBB0E]{0}[/color]
+The blind level[color=#DDBB0E]{1}[/color]can enable[color=#DDBB0E]{2}[/color]can exchange[color=#DDBB0E]{3}[/color]chips!"
+AddOnTip|"Eklenebilir,zamanlar: [color=#DDBB0E]{0}[/color]
+The blind level[color=#DDBB0E]{1}[/color]can enable[color=#DDBB0E]{2}[/color]can exchange[color=#DDBB0E]{3}[/color]chips!"
+SnowBallMatchReward|Değer koruma ödülü:[color=#CFB37A]%s[/color]
+SnowBallMatchTip|[size=22][color=#CFB37A]Katılımcı sayısı ne kadar fazla olursa, ödül sayısı da o kadar yüksek olur, toplam ödül o kadar yüksek olur.[/color][/size]
+Text_Summary|Özet
+Text_SaiKuang|Oyun bilgileri
+Text_MatchRank|Sıra
+Text_Blind|Kör
+Text_Reward|Ödül
+Text_EntryFee|Destekleme:
+Text_MatchBeginTime|Başlama zamanı:
+Text_StopSignUpTm|Kayıt sona erdi:
+Text_NumberOfEntries|Katılımcı sayısı ne kadar fazla olursa, ödül sayısı da o kadar yüksek olur, toplam ödül o kadar yüksek olur.:
+Text_InitScore|Başlangıç ​​puanı:
+Text_Rebuy|Yeniden satın al
+Text_Addon|Eklenti
+Text_Share|Paylaş
+Text_SignUp|Kayıt ol
+Text_Rank|Sıra
+Text_MasterPoint|Usta Seviye
+Text_RewardNote|Detaylar
+Text_CurrentMatchRank|Pozisyonum
+Text_NoMatchRankTip|Sıralama verisi yok
+Text_NumberOfEntries1|Entries:
+Text_RewardNum|Ödül
+Text_AverageChip|Ortalama yığın
+Text_MatchTm|Koşu
+Text_CurrentLevel1|Mevcut seviye
+Text_Ante|Bop
+Text_NextLevel|Sonraki seviye
+Text_CurrentLevel|Mevcut seviye:
+Text_NoMatchInfoTip|oyun verisi yok
+Text_MatchLevel|Seviye
+Text_BlindnessTime|Körleri yükselt

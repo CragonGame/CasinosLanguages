@@ -1,0 +1,13 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]福利[/color]
+Text_OnlineReward|在线奖励
+Text_OnlineRewardInfo|在线到一定时长后可以领取一些筹码
+BtnGetOnlineReward|领取
+Text_TimedReward|定时奖励
+Text_TimedRewardInfo|每天12点,18点起的1小时内可以领取一些筹码
+BtnGetTimingReward|领取
+Text_FirstLoginReward|每日首次登陆奖励
+Text_FirstLoginRewardInfo|每日首次登陆可以领取一些筹码奖励哟！
+BtnGetReward|领取
+OnlineRewardInfo|点击领取[color=#D9D919]{0}[/color]筹码在线奖励
+OnlineRewardInfo2|再过[color=#CC3299]{0}[/color]后，可领取[color=#D9D919]{1}[/color]筹码在线奖励
+TimedRewardInfo|每天[color=#CC3299]12~13[/color]点，[color=#CC3299]18~19[/color]点各领取[color=#D9D919]{0}[/color]筹码定时奖励

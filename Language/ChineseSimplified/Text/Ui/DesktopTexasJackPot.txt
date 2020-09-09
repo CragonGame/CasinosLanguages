@@ -1,0 +1,3 @@
+Text_Winner|中奖人
+Text_Golds|数额
+Text_Time|时间

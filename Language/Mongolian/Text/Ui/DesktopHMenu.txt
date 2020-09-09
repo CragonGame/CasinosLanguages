@@ -1,0 +1,5 @@
+Text_Return|Буцаах
+Text_Shop|Дэлгүүр
+Text_Help|Туслалцаа
+Text_CardType|Картны Төрөл
+Text_Welfare|Bonus

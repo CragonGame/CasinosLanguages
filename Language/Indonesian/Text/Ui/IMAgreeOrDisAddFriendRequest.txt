@@ -1,0 +1,2 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Tambahkan permintaan teman[/color]
+Btn_Accept|Terima

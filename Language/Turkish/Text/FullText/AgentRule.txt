@@ -1,0 +1,7 @@
+﻿1. Weekly contribution to receive, weekly UTC +01:00 can receive the benefits of last week;
+2. The development of players, the weekly contribution is greater than 100 million, 25% of the reward contribution;
+3. Develop players, with a weekly contribution of more than 200 million and a reward contribution of 30%;
+4. Develop players, with a weekly contribution of more than 400 million and a reward contribution of 35%;
+5. The development of players, the weekly contribution is greater than 1 billion, 40% of the reward contribution;
+6. Development agent can obtain 10% of the contribution of the first-level agent directly affiliated players, 5% of the contribution of the second-level agent directly to the player, and 1% of the contribution of the third-level agent directly to the player;
+7. For example, the general agent and the general agent below each 1, 2, 3 agent directly under the player's weekly pumping amount is 10 billion, and each agent in the 1, 2, 3 agent has 10 subordinate agents, Then the total return of the total agent is equal to: 10 billion * 40% + 10 (level 1 agent) * 10 billion * 10% + 100 (level 2 agent) * 10 billion * 5% + 1000 (level 3 Agent) *100 billion * 1% = 164 billion;

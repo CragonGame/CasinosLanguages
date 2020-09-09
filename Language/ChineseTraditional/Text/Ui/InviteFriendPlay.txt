@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]邀請好友打牌[/color]
+Text_Online|線上
+Text_OffLine|離線
+HaveInvited|已邀請

@@ -1,0 +1,18 @@
+MyID|Benim Id:
+TextTitle|[color=#FFFFFF,#B8D1F6]Friend[/color]
+SearchPlayerTips|Bir takma ad, e-mail, veya kişisel hesap
+AbuseOthers|Başkalarına hakaret
+IllegalDeal|Aldatıcı oyuncu
+PornPic|Çıplaklık
+UsePlug-in|UsePlug-In
+Btn_JoinDesk|Masaya katıl
+Btn_Message|Mesaj
+Btn_Presented|Hediye
+BtnAddFriend|Arkadaş ekle
+Btn_Report|Bildiri
+Btn_Search|Araştır
+Text_Friend|Arkadaş
+Text_Search|Search
+Text_TipAddFriend|Arkadaş ekle
+Text_TipSearchAddFriend|Takma adları,E-mail veya kişisel hesapları kullanılarak kullanıcılar araştıralbilir. Kişisel hesap kodunuzu arkadaşlarınıza gönderin böylece sizi arkadaş olarak ekleyebilirler.
+Text_YouHaveNoFriend|Arkadaşın yok

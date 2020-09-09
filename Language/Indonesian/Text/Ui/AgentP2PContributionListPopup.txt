@@ -1,0 +1,6 @@
+RewardType|Jenis hadiah
+Date|Tanggal
+Op|Pengoperasian
+TotalGongXian|Total Kontribusi
+Reward|Jumlah komisi
+Tip|Catatan: Total kontribusi harian dalam 15 hari terakhir

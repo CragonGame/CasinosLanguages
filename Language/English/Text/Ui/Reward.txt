@@ -1,0 +1,13 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Bonus[/color]
+Text_OnlineReward|Online reward
+Text_OnlineRewardInfo|You can get some chips after you have been online for a certain period of time.
+BtnGetOnlineReward|Collect
+Text_TimedReward|Time-limited Bonus
+Text_TimedRewardInfo|You can collect some chips at 12:00 every day and 1 hour from 18:00.
+BtnGetTimingReward|Collect
+Text_FirstLoginReward|Daily Bonus
+Text_FirstLoginRewardInfo|You can get some chip rewards when you log in for the first time every day!
+BtnGetReward|Collect
+OnlineRewardInfo|Click to collect[color=#D9D919]{0}[/color] chip online reward
+OnlineRewardInfo2|after[color=#CC3299]{0}[/color]can get [color=#D9D919]{1}[/color] chip online reward
+TimedRewardInfo|every day[color=#CC3299]12~13[/color],[color=#CC3299]18~19[/color] each get [color=#D9D919]{0}[/color] chip time-limited reward

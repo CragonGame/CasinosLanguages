@@ -1,0 +1,4 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]消息[/color]
+Btn_Send|發送
+Text_NoConversation|按左下角按鈕，選擇好友聊天
+Text_NoteDeleteRecord|註：長按頭像刪除與該好友的聊天記錄

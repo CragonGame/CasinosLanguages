@@ -1,0 +1,17 @@
+Unknown|Үл мэдэгдэх
+Address|Хаяг
+ReturnLogin|Буцах
+ExitCanLogin|Нэвтрэх хуудас руу буцаж орсны дараа утас эсвэл Facebook-ээр нэвтрэхийн тулд дахин сонгоорой
+Logouting|Арилгах
+Text_SmallGift|Аватар
+Text_Gift|бэлэг
+Text_BuyChips|алт авах
+Text_BuyDiamond|Алмаз авах
+Text_AddFriend|найз нэмэх
+Text_ReturnLogin|Буцах
+Text_StatisticalInformation|Статистикийн мэдээлэл
+Text_FinishGames|Тоглоомоо дуусгах:
+Text_WinGames|Тоглоом ялах:
+Text_StartJoinTime|Тоглоом эхлэх:
+Text_UploadHeadImage|Аватар байршуулах
+IndividualSignature|Please leave your signature

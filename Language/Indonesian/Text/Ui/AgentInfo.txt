@@ -1,0 +1,3 @@
+MemberNum|Jumlah anggota
+Announcement|Pengumuman
+PresidentNickname|Nama ketua

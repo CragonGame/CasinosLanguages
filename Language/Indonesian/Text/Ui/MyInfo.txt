@@ -1,0 +1,17 @@
+Unknown|tidak mengetahui
+Address|alamat
+ReturnLogin|kembali
+ExitCanLogin|kembali ke layar masuk pilih ulang login menggunakan nomor telepon atau facebook
+Logouting|logout...
+Text_SmallGift|foto profil
+Text_Gift|hadiah
+Text_BuyChips|top up chip
+Text_BuyDiamond|top up diamond
+Text_AddFriend|pencarian teman
+Text_ReturnLogin|kembali masuk
+Text_StatisticalInformation|Statistik
+Text_FinishGames|Jumlah pertandingan:
+Text_WinGames|Jumlah kemenangan:
+Text_StartJoinTime|Waktu daftar:
+Text_UploadHeadImage|upload profil
+IndividualSignature|silakan tinggalkan status Anda

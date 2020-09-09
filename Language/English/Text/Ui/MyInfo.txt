@@ -1,0 +1,17 @@
+﻿Unknown|Unknown
+Address|Address
+ReturnLogin|Back To Login
+ExitCanLogin|After returning to the login, re-select to log in with phone or Facebook
+Logouting|Logout...
+Text_SmallGift|Ornaments
+Text_Gift|Gift
+Text_BuyChips|Buy Chips
+Text_BuyDiamond|Buy Diamond
+Text_AddFriend|Add Friend
+Text_ReturnLogin|Return Login
+Text_StatisticalInformation|Statistics
+Text_FinishGames|Hands Played:
+Text_WinGames|Hands Won:
+Text_StartJoinTime|Join Time:
+Text_UploadHeadImage|Upload avatar
+IndividualSignature|Please leave your signature

@@ -1,0 +1,3 @@
+Text_Winner|ялагч
+Text_Golds|тоо хэмжээ
+Text_Time|цаг

@@ -1,0 +1,24 @@
+﻿SysNotice|System Notice
+Fishing|Fishing
+GFlower|Golden flower table
+Texas|Beat the Bank
+NiuNiu|Hundreds of Niu Niu tables
+ZhongFB|Zhong Fa Bai
+ForestParty|Forest Party
+LotteryTicket|Lottery Ticket
+Cowboy|Cowboy
+WinBetPot0|Congratulations to [color=#FFCC00]{0}[/color] for winning [color=#FFCC00]{2}[/color] on [color=#FFCC00]{1}[/color], and luck fortune!
+WinBetPot1|Congratulations to [color=#FFCC00]{0}[/color] for winning [color=#FFCC00]{2}[/color] on [color=#FFCC00]{1}[/color], and making a lot of money!
+WinBetPot2|Congratulations to [color=#FFCC00]{0}[/color] for winning [color=#FFCC00]{2}[/color] on [color=#FFCC00]{1}[/color], Fortune Hengtong!
+WinRewardPot|Congratulations to [color=#FFCC00]{0}[/color] for winning the prize pool of [color=#FFCC00]{2}[/color] on [color=#FFCC00]{1}[/color], and heaven fortune!
+WinBetPotVIP0|Congratulations to [color=#FFCC00]{0}(VIP{1})[/color] for winning [color=#FFCC00]{3}[/color] on [color=#FFCC00]{2}[/color], and luck fortune!
+WinBetPotVIP1|Congratulations to [color=#FFCC00]{0}(VIP{1})[/color] for winning [color=#FFCC00]{3}[/color] on [color=#FFCC00]{2}[/color], and making a lot of money!
+WinBetPotVIP2|Congratulations to [color=#FFCC00]{0}(VIP{1})[/color] for winning [color=#FFCC00]{3}[/color] on [color=#FFCC00]{2}[/color], Fortune Hengtong!
+WinRewardPotVIP|Congratulations to [color=#FFCC00]{0}(VIP{1})[/color] for winning the prize pool of [color=#FFCC00]{3}[/color] on [color=#FFCC00]{2}[/color], and heaven fortune!
+MatchRewardChips|Congratulations to player [color=#FFCC00]{0}(Id:{1})[/color] for getting [color=#FFCC00]{3}[/color] in [color=#FFCC00]{2}[/color] and rewarding [color=#FFCC00]{4}[/color] chips
+MatchRewardRedEnvelopes|Congratulations to player [color=#FFCC00]{0}(Id:{1})[/color] for getting the [color=#FFCC00]{3}[/color] place in [color=#FFCC00]{2}[/color] and rewarding [color=#FFCC00]{4}[/color] yuan red envelope
+MatchRewardItem|Congratulations to the player [color=#FFCC00]{0}(Id:{1})[/color] for getting the [color=#FFCC00]{3}[/color] place in [color=#FFCC00]{2}[/color] and got: [color=#FFCC00]{4}[/color]
+MatchRewardAll|Congratulations to the player [color=#FFCC00]{0}(Id:{1})[/color] for getting the [color=#FFCC00]{3}[/color] place in [color=#FFCC00]{2}[/color], rewarding [color=#FFCC00]{4}[/color] chips, [color=#FFCC00]{5}[/color] yuan red envelope, getting: [color=#FFCC00]{6}[/color]
+MatchRewardChipsRed|Congratulations to the player [color=#FFCC00]{0}(Id:{1})[/color] for getting the [color=#FFCC00]{3}[/color] place in [color=#FFCC00]{2}[/color], rewarding [color=#FFCC00]{4}[/color] chips, [color=#FFCC00]{5}[/color] yuan red envelope
+MatchRewardChipsItem|Congratulations to the player [color=#FFCC00]{0}(Id:{1})[/color] for getting the [color=#FFCC00]{3}[/color] place in [color=#FFCC00]{2}[/color], rewarded [color=#FFCC00]{4}[/color] chips, and got: [color=#FFCC00]{5}[/color]
+MatchRewardRedItem|Congratulations to the player [color=#FFCC00]{0}(Id:{1})[/color] for getting the [color=#FFCC00]{3}[/color] place in [color=#FFCC00]{2}[/color] and rewarding the [color=#FFCC00]{4}[/color] yuan red envelope, getting: [color=#FFCC00]{5}[/color]

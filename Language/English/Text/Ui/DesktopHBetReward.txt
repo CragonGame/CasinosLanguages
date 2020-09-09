@@ -1,0 +1,8 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Daily Bet Reward[/color]
+BetRechCanCollectBox|To reach {0}, you can collect the box accumulative {1} reward
+HasBeenReceivedTreasure|The treasure chest has been received
+Btn_OneKeyCollection|Get
+Text_Reward|Reward
+Text_Bet|Bet
+Text_BetRewardTips|Players will accumulate in the player's position, and accumulate a certain amount to receive the corresponding treasure chest and the accumulated reward of the previous treasure chest. The accumulated amount and rewards will be reset at GMT+8 every day . When the reward is not received, the player should pay attention to it in time.
+Text_CurrentBetTotal|Total Bet

@@ -1,0 +1,5 @@
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]değiş tokuş[/color]
+TxtToNumber|Seçilen tekliften yararlanma tutarı:
+TxtPhoneNumTitle|Alınan cep telefonu numarasını girin:
+BtnOk|Onaylamak
+TxtTip|Not: Tekliften yararlanma süresi 12 saat içinde gelir

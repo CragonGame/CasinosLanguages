@@ -1,0 +1,5 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Hediye detayı[/color]
+SitTableSendGift|Seyirciler avatar kolye alamaz
+SendSingle|Birisi için({0})
+SendAllTable|Herkes için({0})
+Sell|Sat({0})

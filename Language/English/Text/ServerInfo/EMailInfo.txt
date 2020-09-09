@@ -1,0 +1,21 @@
+﻿MatchMTTTitle|Event {0} compensation
+MatchMTTContent|The match you join in [color=#FFCC00]{0}[/color] was dissolved due to a technical failure. The compensation will be claimed in the attachment!
+MatchRewardTitle|Event {0} rewards
+MatchRewardContent|Dear [color=#FFCC00]{0}(ID:{1})[/color],congratulations on your [color=#FFCC00]{2}[/color] getting the [color=#FFCC00] {3} [/color] place, rewards are collected in the attachment!
+MatchSendBackTitle|Back {0} entry fee and service fee
+MatchSendBackNotEnoughPlayer|Dear [color=#FFCC00] {0} (ID: {1}) [/color], the event you join in [color=#FFCC00]{2}[/color] was dismissed due to insufficient final registration, and returned Registration fees and service fees are collected in the attachment!
+MatchSendBackPlayerCancel|Dear [color=#FFCC00] {0} (ID: {1}) [/color], the event you participated in [color=#FFCC00]{2}[/color] was canceled by the creator, collect your registration fee and service fee in the attachment!
+GiftTitle|Received a gift from the player
+GiftContent|Received a gift from the player [color=#FFCC00]{0}[/color] [color=#FFCC00]{1}[/color]
+GiftGoldTitle|Receive gold coins
+GiftGoldContent|Received [color=#FFCC00]{0}(ID:{1})[/color] [color=#FFCC00]{2}[/color] gold coins
+SentGoldTitle|Gift gold coins
+SentGoldContent|Gift to [color=#FFCC00]{0}(ID:{1})[/color] [color=#FFCC00]{2}[/color]
+RedEnvelopesTitle|Red envelope
+RedEnvelopesContent|Dear [color=#FFCC00]{0}(ID:{1})[/color],congratulations on getting [color=#FFCC00]{2}[/color] yuan red envelope. It has been automatically distributed to WeChat bound to this account, please check it in time!
+GoodsVoucherTitle|Gift {0} redemption voucher
+GoodsVoucherContent|Dear [color=#FFCC00]{0}(ID:{1})[/color], your[color=#FFCC00] {2} [/color] has entered the acceptance queue and will be in 2 working days send to the express brother. Please make sure that the information you fill in the delivery address of the mall is correct. Customer service staff will contact you to confirm the optional style of the gift within 2 working days.
+GoldPackageTitle|{0}
+GoldPackageContent|Dear [color=#FFCC00]{0}(ID:{1}) [/color], you got [color=#FFCC00]{3}[/color] gold coins from [color=#FFCC00]{2}[/color]
+BugFeedbackRewardTitle|Panda Texas Hold'em Bug Feedback Reward
+BugFeedbackRewardContent|Thanks to players [color = # FFCC00] {0} [/ color] for reporting bugs to the official, helping the platform improve, and receiving rewards in the attachment!

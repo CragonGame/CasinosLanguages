@@ -1,0 +1,5 @@
+Text_StayOB|留下旁观
+Text_MatchShare|炫耀一下
+Text_BacktoLobby|返回大厅
+MTTResultTip1|您已完成比赛，比赛名次和奖励将在截止报名后确定!
+MTTResultTip2|差一点就要进入奖励圈，收拾好心情再出发吧!

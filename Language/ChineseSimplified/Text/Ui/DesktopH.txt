@@ -1,0 +1,6 @@
+﻿ReadyTime|准备时间
+BetRestTime|下注时间
+BreathSpace|休息时间
+SettlementTime|结算时间
+BeBank|上庄
+NotBeBank|下庄

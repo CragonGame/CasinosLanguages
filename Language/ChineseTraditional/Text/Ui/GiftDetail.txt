@@ -1,0 +1,5 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]禮物詳情[/color]
+SitTableSendGift|旁觀者不可以購買頭像挂件
+SendSingle|送單人({0})
+SendAllTable|送全桌({0})
+Sall|出售({0})

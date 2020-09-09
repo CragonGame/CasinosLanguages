@@ -1,0 +1,5 @@
+Text_Return|Kembali
+Text_Shop|Mall
+Text_Help|Bantuan
+Text_CardType|Jenis kartu
+Text_Welfare|Hadiah 

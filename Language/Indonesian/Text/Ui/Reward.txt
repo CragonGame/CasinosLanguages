@@ -1,0 +1,13 @@
+TextTitle|[color=#FFFFFF,#B8D1F6]Fasilitas[/color]
+Text_OnlineReward|Bonus Online
+Text_OnlineRewardInfo|online sampai jam yang ditentukan bisa mendapatkan bonus chip
+BtnGetOnlineReward|Ambil
+Text_TimedReward|Time Reward
+Text_TimedRewardInfo|setiap hari jam  mulai 12:08 dalam 1 jam kedepan bisa ambil bonus chip
+BtnGetTimingReward|Ambil
+Text_FirstLoginReward|setiap hari login
+Text_FirstLoginRewardInfo|setiap hari login bisa ambil hadiah chip loh !
+BtnGetReward|Ambil
+OnlineRewardInfo|Klik untuk menerima [color=#D9D919]{0}[/color] hadiah online chip
+OnlineRewardInfo2|Setelah [color=#CC3299]{0}[/color],Terima [color=#D9D919]{0}[/color] chip hadiah online
+TimedRewardInfo|Terima hadiah reguler untuk [color=#D9D919]{0}[/color] chip mulai pukul [color=#CC3299]12 hingga 13[/color] dan [color=#CC3299]18 hingga 19[/color] setiap hari

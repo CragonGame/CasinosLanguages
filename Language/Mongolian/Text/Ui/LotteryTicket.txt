@@ -1,0 +1,6 @@
+NoBet|Бооцоо байхгүй
+Text_TimeOfLastReward|Сүүлийн шагналын цаг
+Text_Time|цаг
+Text_Reward|шагнал
+Text_NickName|Нэр
+Text_LotteryTicketRule|Тоглоомын дүрэм
