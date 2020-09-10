@@ -1,5 +1,5 @@
 Horn|Küçük Hoparlörler
-ChangeNameCard|Kartı Yeniden Adlandır
+ChangeNameCard|İsim değiştirme kartı
 1 Star TreasureBoxGold|One star gold chest
 2 Star TreasureBoxGold|Two star gold chest
 3 Star TreasureBoxGold|Three star gold chest
