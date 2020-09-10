@@ -12,4 +12,4 @@ ChineseTraditional|繁体中文
 English|English
 Mongolian|Монгол
 Indonesian|Indonesia
-Turkish|Türk
+Turkish|Türkçe

@@ -1,4 +1,4 @@
-TextTitle|Task
-Text_Tab1|Main
-Text_Tab2|Daily
-Text_Tab3|Other
+TextTitle|Görev
+Text_Tab1|Ana görevler
+Text_Tab2|Günlük görevler
+Text_Tab3|Diğer

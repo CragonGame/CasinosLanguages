@@ -1,4 +1,4 @@
-TextTitle|[color=#FFFFFF,#B8D1F6]Backpack[/color]
+TextTitle|[color=#FFFFFF,#B8D1F6]Çantanız[/color]
 Btn_BuyMore|Daha fazla satın al
 Text_Consume|Tüketim malzemesi
 Text_Gift|Hediye

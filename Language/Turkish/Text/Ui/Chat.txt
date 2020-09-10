@@ -3,8 +3,8 @@ QuickChat2|111111
 QuickChat3|222222
 QuickChat4|333333
 QuickChat5|444444
-QuickChat6|Have no chips,do not be the banker!
-QuickChat7|The system is sending chips, hurry up!
+QuickChat6|Merhaba, iyi şanslar!
+QuickChat7|Sistem fiş gönderiyor, acele edin!
 QuickChat8|The system not let us win, be careful!
 QuickChat9|Be careful, Someone will win all chips!!
 QuickChat10|Seek to break, request to bet more chips!
@@ -12,39 +12,39 @@ QuickChat11|Try harder,you will win!
 QuickChat12|I'm lucky,blame me?
 QuickChat13|Just one time,lose all chips!
 QuickChat14|Lost all chips, go to sleep!
-QuickChat15|Hurry up, time is precious!
-QuickChat16|Gentlemen, let's take a look at the cards then raise!
-QuickChat17|My sword is already hungry!
-QuickChat18|You don't want to be smart, you will lose.
-QuickChat19|You played so well, does everyone know?
-QuickChat20|Impulsiveness is the devil, calm
-QuickChat21|I'm glad to play with you
-QuickChat22|Integrity to play Texas Hold'em, no cheating
-QuickChat23|This Texas Hold'em is a great win.
-QuickChat24|Continue the battle in another day
-QuickChat25|We all got big cards and there is no way.
-QuickChat26|Hey hey, I won again, thank you all
-QuickChat27|You are a natural actor
-QuickChat28|Have luck, why use technology?
-QuickChat29|If you already bet some chips,you should play the card till the end!
-QuickChat30|You are a lucky guy,but i have good technology!
-QuickChat31|If you have a pair,you should going to the end!
-QuickChat32|Don't read my card, read my hand
-QuickChat33|I'm lucky to play cards,and I'm good at bargaining!
-QuickChat34|Hey, please advise.
-QuickChat35|Oh, I am an old cowboy.
-QuickChat36|Money is for me, just a number!
-QuickChat37|Do you dare to play again?
-QuickChat38|Hey, my buddy is playing well.
-QuickChat39|Striving for stability, step by step to win.
-QuickChat40|Do you know that I am from Dubai?
-QuickChat41|The power of the elves guides me.
-QuickChat42|I want to win the chips of all of you.
-QuickChat43|Cool is an attitude.
-SendNoEmpty|Cannot send empty messages
-Btn_Send|Send
-Text_QuickPhrase|Quick
+QuickChat15|Acele edin, zaman değerlidir!
+QuickChat16|Beyler Bayanlar, kartlara bir göz atalım sonra yükseltelim!
+QuickChat17|Kılıcım zaten aç!
+QuickChat18|Akıllı oynamak istemezseniz, kaybedersiniz.
+QuickChat19|Çok iyi oynadın, herkes biliyor mu?
+QuickChat20|Agrasiflik şeytana uymaktır, sakin
+QuickChat21|Sizlerle oynadığıma memnun oldum
+QuickChat22|Texas Hold'em oynamak için dürüst olmak gerekir, hile yok
+QuickChat23|Bu harika bir galibiyet.
+QuickChat24|Savaşa başka bir gün devam edin.
+QuickChat25|Hepimizin büyük kartları var!
+QuickChat26|Ha Ha Ha! Yine ben kazandım. Teşekkürler!
+QuickChat27|Sen iyi bir oyuncusun
+QuickChat28|İyi şanslar!
+QuickChat29|Zaten biraz çip bahse girdiyseniz, kartı sonuna kadar oynamalısınız!
+QuickChat30|Sen şanslı birisin, ama benim kadar değil!
+QuickChat31|Bir çift kartınız varsa sonuna kadar gitmelisiniz!
+QuickChat32|Kartımı okuma, elimi oku!
+QuickChat33|Kağıt oynadığım için şanslıyım ve pazarlık konusunda iyiyim!
+QuickChat34|Lütfen tavsiye verin.
+QuickChat35|Oh, ben yaşlı bir kovboyum.
+QuickChat36|Para benim için, sadece bir sayı!
+QuickChat37|Tekrar oynamaya cesaretin var mı?
+QuickChat38|Dostum iyi oynuyor.
+QuickChat39|İstikrar için çabalamak, kazanmak için adım adım.
+QuickChat40|Nereli olduğumu biliyor musunuz?
+QuickChat41|Elflerin gücü bana rehberlik ediyor.
+QuickChat42|Hepinizin çiplerini kazanmak istiyorum.
+QuickChat43|Havalı bir tavırdır.
+SendNoEmpty|Boş mesajlar gönderilemez.
+Btn_Send|Gönder
+Text_QuickPhrase|Hızlı mesajlar
 Setting|Setting
-Current|Current
-World|World
-InputChatContent|[color=#999999]Enter chat text[/color]
+Current|Masa
+World|Dünya
+InputChatContent|[color=#999999]Mesajınız[/color]

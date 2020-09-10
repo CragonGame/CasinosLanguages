@@ -1,4 +1,4 @@
-Horn|Küçük Hoparlörler
+Horn|Duyuru Kartı
 ChangeNameCard|İsim değiştirme kartı
 1 Star TreasureBoxGold|One star gold chest
 2 Star TreasureBoxGold|Two star gold chest

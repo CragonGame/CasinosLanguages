@@ -1,6 +1,6 @@
-TextTitle|[color=#FFFFFF,#B8D1F6]Take into game[/color]
-Btn_Confirm|Doğrulama
-TextChipValue|bakiyen:
+TextTitle|[color=#FFFFFF,#B8D1F6]Oyuna katıl[/color]
+Btn_Confirm|Otur
+TextChipValue|Çip bakiyeniz
 Text_YourBalance|Bakiyen
-TextTipsLeft|Minumum çip
-TextTipsRight|Maksimum çip
+TextTipsLeft|En az çip
+TextTipsRight|En fazla çip

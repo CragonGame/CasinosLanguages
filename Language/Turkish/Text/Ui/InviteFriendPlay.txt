@@ -1,4 +1,4 @@
-TextTitle|[color=#FFFFFF,#B8D1F6]Invite Friends to play[/color]
+TextTitle|[color=#FFFFFF,#B8D1F6]Arkadaşlarınızı davet edin[/color]
 Text_Online|Çevrim içi
 Text_OffLine|Çevrim dışı
 HaveInvited|Davet edildi

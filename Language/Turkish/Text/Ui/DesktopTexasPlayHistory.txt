@@ -1,4 +1,4 @@
-TextTitle|[color=#FFFFFF,#B8D1F6]Review[/color]
-Dealer|Satıcı
-SmallBlind|KK
-BigBlind|BK
+TextTitle|[color=#FFFFFF,#B8D1F6]İncele[/color]
+Dealer|Kurpiyer
+SmallBlind|K.K.
+BigBlind|B.K.

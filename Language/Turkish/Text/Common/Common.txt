@@ -74,12 +74,12 @@ DealAddFriendSuccess|Arkadaşlık isteğinin eklenmesini başarıyla işleme
 DealAddFriendFail|Arkadaş ekleme isteği süreci başarısız oldu
 DeleteFriendSuccess|Bir arkadaşı başarıyla silme isteği
 DeleteFriendFail|Arkadaş silme isteği başarısız oldu
-InvitingToTableInfo|{0}：{1}\nante {2}，Körler {3}/{4} Taşıma {5}/{6}\n insan sayısı：{7}/{8}
+InvitingToTableInfo|{0}：{1}\nante {2}，Körler {3}/{4} Taşıma {5}/{6}\n oyuncu sayısı：{7}/{8}
 Blinds|Körler:
 Ante|Bop:
 Carry|Taşıma
-NumberOfPeople|Insan sayısı:
-FormatPeople|({0} insan)
+NumberOfPeople|Oyuncu sayısı:
+FormatPeople|({0} oyuncu)
 FormatAnte|Bop {0} 
 FormatBlinds|Körler {0}/{1}
 PrivateTable|Özel masa 

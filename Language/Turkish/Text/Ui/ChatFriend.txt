@@ -1,4 +1,4 @@
-﻿TextTitle|[color=#FFFFFF,#B8D1F6]Message[/color]
-Btn_Send|Send
-Text_NoConversation|Press the bottom left button to select a friend chat
-Text_NoteDeleteRecord|Note: long press the head to delete the record
+﻿TextTitle|[color=#FFFFFF,#B8D1F6]Mesaj[/color]
+Btn_Send|Gönder
+Text_NoConversation|Sol menüden bir arkadaş sohbeti seçin
+Text_NoteDeleteRecord|Not: kaydı silmek için uzunca basınız.

@@ -9,5 +9,5 @@ Text_FirstLoginReward|Günlük Bonus
 Text_FirstLoginRewardInfo|Her gün ilk kez giriş yaptığınızda bazı çip ödülleri alabilirsiniz!
 BtnGetReward|Topla
 OnlineRewardInfo|Click to collect[color=#D9D919]{0}[/color] chip online reward
-OnlineRewardInfo2|after[color=#CC3299]{0}[/color]can get [color=#D9D919]{1}[/color] chip online reward
+OnlineRewardInfo2|[color=#CC3299]{0}[/color] süre sonra [color=#D9D919]{1}[/color] chip ödülünü al
 TimedRewardInfo|every day[color=#CC3299]12~13[/color],[color=#CC3299]18~19[/color] each get [color=#D9D919]{0}[/color] chip time-limited reward
