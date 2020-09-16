@@ -1,4 +1,4 @@
-TextTitle|[color=#FFFFFF,#B8D1F6]New table[/color]
+TextTitle|[color=#FFFFFF,#B8D1F6]Yeni tablo[/color]
 Btn_Create|Yeni masa
 Text_SelectTable|Masa seç
 Text_SelectAnte|Girişi seç
